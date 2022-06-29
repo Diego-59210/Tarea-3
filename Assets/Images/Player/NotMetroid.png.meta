@@ -1,0 +1,6438 @@
+fileFormatVersion: 2
+guid: 168afacf8ee8c2c44b7d874f68473d97
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 13
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NotMetroid_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 539
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dde7539a9e7ac4192a7f05aab9f83b
+      internalID: 686181766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 539
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e9d31e97904f343a3f3bf78f2326df
+      internalID: -1536565392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 539
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b50bd427aac8d4681ddb1e959d9547
+      internalID: 1178126315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 539
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81230c82e0ad4e5438b483ef91f4c86c
+      internalID: -1679528320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 539
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c7d36530772f4c8b97c9da8724f44
+      internalID: 2051942180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 539
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0dad5e273616940be588142dcafb78
+      internalID: 846327596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 573
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1cb333b14f4f84ab72beeefddf2e96
+      internalID: 2100190504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_7
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 559
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61abb48a7d5071a428a166941e6683f2
+      internalID: 1631219114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_8
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 559
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f046c973b3efa4446bbfd972bf77540e
+      internalID: -1899017683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e412923f635a74945a878fde6c379d70
+      internalID: 290671207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 572
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9936cfa2638d04c8c38e99556d5fd9
+      internalID: -941262362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_11
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 577
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095a7c624799c6b42b4edf2d362ed1ae
+      internalID: -645237683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_12
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 574
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693c9530bcaeb3e4b86c22d024793646
+      internalID: 134959824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 577
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437c0187d03b847429ec2c898540b394
+      internalID: -1103641341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_14
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 572
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62cd6532ff6c6b4c8269b1397238792
+      internalID: 686762325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 562
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d335b33a7a9c6840835b084c1342607
+      internalID: -2147483445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 562
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0203f6679f3f643920256bad39bf70
+      internalID: -614850382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 563
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc85977b3a4328840b70ba857eec7ccb
+      internalID: 13206455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 561
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da771678efd7234581adef25263d13e
+      internalID: 977005302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 558
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0c099b7ccbe2047a55aac07fa0455f
+      internalID: 854383620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 557
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd57ca9cfe99bf4f9d0007c7e7e8589
+      internalID: -1972747452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 557
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a956d925003490d4f91b027b9e0d36ba
+      internalID: -1414860072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 557
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad0a242b4be92c43a3fd88760540e0d
+      internalID: -1614313728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 559
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e75eb9552165041992a20433ba99a9
+      internalID: -82367362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 555
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097dd98dedbf8134d93728f179ff6a33
+      internalID: -420424520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_25
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 559
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202ece110068f64459eb33b5944fd682
+      internalID: -2013311534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_26
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 559
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1075faac0029c4a9679ae775b0c680
+      internalID: -2092763251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_27
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 559
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c751c89e05a22934a9875c8543c7d61e
+      internalID: -837117110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_28
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 559
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0093f76177b95a4a8965ebc953f691b
+      internalID: 1996740192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_29
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 559
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2206231bc6c586b4585500ffdaef989b
+      internalID: -1731656270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_30
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 559
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102ea85d49c6881448d48484189e1c4d
+      internalID: 897104204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_31
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 560
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6ed1f611f25994e8e1734cf3617009
+      internalID: 1603993362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_32
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 561
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1932a2bfce161fe4aacb69ba147753e4
+      internalID: -73248598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_33
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 549
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffbb7dee34bb83438dab33daa4112af
+      internalID: 1165675890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_34
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 547
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12fa5a542ea72248811dd090bef2629
+      internalID: 1359309015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_35
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 543
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba44274ad3ca2a343bb96cb0fe36d7d0
+      internalID: -1985203478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_36
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 552
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e84c00ac19deb44afb2600b6dddc15
+      internalID: 1739888655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_37
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 485
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3b416e067e15f4ea37a466f347ffff
+      internalID: -1097849690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_38
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 540
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3c9f5ecf1e3a948bb55a2ed56244dc
+      internalID: 485818492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_39
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 492
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1510f9dc084d3984abecf0bbb090f9b8
+      internalID: -1230505236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_40
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 499
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3fa63e13bec8247992507f1d7e2d66
+      internalID: 1366677342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_41
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 480
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a20406339324b24f9f7ab91665da90f
+      internalID: 545237286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 483
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03706d0d6442394badb687f3deba4ab
+      internalID: 1649453056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_43
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 483
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b605dc34ea9880544881ff6f9766e154
+      internalID: -1510416564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_44
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 484
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055d373a2a8a3d74eaeaa21101337dc3
+      internalID: -1438323132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_45
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 486
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e225a62779a6143a21797d13b00130
+      internalID: 1584818421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_46
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 533
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d654c01b452fc4d814aacc77fdd552
+      internalID: 1596732629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_47
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 516
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a67c800c00f69408df7212576d84d6
+      internalID: -1778896584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 483
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250caee44ca2a3b4681878ca15540339
+      internalID: -2018032895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 483
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1d113bd67b34a41a0d04a9dab2c620
+      internalID: -773337568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_50
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 483
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeb039cbaffb4a4dbbf45b9fca8c1ce
+      internalID: 1802389295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 483
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978840d28150a2e47af9f8f0e71c4070
+      internalID: 1468203992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 483
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2221727a51fe1b049b1528b2c6ba1a0c
+      internalID: -1593614210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 483
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d97f0478d2ba943bbea611956268b3
+      internalID: 1862600583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 483
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becde3061f8703f46b05e1e0a2cd4aaf
+      internalID: 2068975066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 483
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366d73352e1325242825f23aa2ec45cb
+      internalID: 1800634477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_56
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 483
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f50d3fc36be48d4f9d38751f390d27d
+      internalID: -1115261897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_57
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 481
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46573ffe9a16a02408c6e39397134193
+      internalID: 837973564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_58
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 481
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a30c2a60a0d18d448dfa5cfe6ff1622
+      internalID: -725250521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 481
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cfbf80c41c15044b584bb5af5a3ea2
+      internalID: -602641499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_60
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 481
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259ce34bdee974940bae84cf9ce3c7f3
+      internalID: -18714522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_61
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 481
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1094bf9c24859b46ab4f87d7e56eef1
+      internalID: 1686943817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_62
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 483
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce62b0ab6bf3642488152f64fd7881dd
+      internalID: 219372061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_63
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 483
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a2d112b1517fa4eaa5e1f804a7945e
+      internalID: 1049472372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_64
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 483
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d0ecd768da391479753a5f3a510b35
+      internalID: -1436382096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_65
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 486
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a2af836951bb441ac33e80142b8cf3
+      internalID: 1446473383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_66
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 486
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9400c5b273f114ca31535bbb3eaa97
+      internalID: 1568442097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_67
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 521
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96b5212e72a82f4589c3a764b3e3244
+      internalID: -1863951758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_68
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 510
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e74462878876b94e93737272ac2603a
+      internalID: 531059547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_69
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 480
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113e491052b0f8643ba0e9f1f6d20b51
+      internalID: 580045376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_70
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 480
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65d40085b9c124092673ba8e6d3498
+      internalID: 1246293516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_71
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 481
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4c7e3e7b9b98649a1b9713da29807b
+      internalID: 1946024818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_72
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 481
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b280605c78a01479ed4c53b6f159d0
+      internalID: -1941933751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_73
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 511
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef595583739d7a740a7af0b49d93ef02
+      internalID: -893093696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_74
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 513
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9763479678a108841b870e2356be3f52
+      internalID: -1233611926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_75
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 483
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b9886d50de00446ade935efd05d880
+      internalID: 494198240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 419
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f99b6308c2156d4cac0f82a20f91be4
+      internalID: -1178274606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_77
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 419
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b4a592fff538d4484dc1a6f477c38d
+      internalID: 1736565468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_78
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 419
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed7d983fa62ea44692c152383f70a18
+      internalID: 214979951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_79
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 419
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca4ef4e8ae9514b93a72eb2fb2afbe
+      internalID: 134461081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_80
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 419
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a341a2b19536a83428c0ef6df445a9d8
+      internalID: -835254522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_81
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 419
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d231d4a91f9bb4b8db97a89f472a8d
+      internalID: 912523189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_82
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 419
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a3f5d396d0345418c84706c066f944
+      internalID: 1437772408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_83
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 419
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fed33e85f5286469aeedb1f6c31240
+      internalID: -159075780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_84
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 419
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdc6859597791249a98db3f8be9766d
+      internalID: -1548933135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_85
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 429
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d3b7c5e4894864d9315dc9da849aee
+      internalID: 195264475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_86
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 429
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe28b89c6a6d8543adfb6c08d73a49f
+      internalID: 1641194186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_87
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 429
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa799f57d6ff9034f9d162cb6615f429
+      internalID: 710897034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_88
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 429
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9230be3747a7f46b0a352eddb48d2b
+      internalID: 779990761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_89
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 429
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731a951cc55456f4cb7656ade127df92
+      internalID: 991320757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_90
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 429
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8728237848b85f04a9bcc66d2da882f8
+      internalID: -80841940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_91
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 429
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f335358494ef54f80ea2d0879bda43
+      internalID: 378800039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_92
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 429
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443a9a125e932824e9497388387b7baf
+      internalID: -1903328412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_93
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 427
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65263ab86c3505c4ab6269788e633852
+      internalID: 453289714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_94
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 427
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118cad8837ca225499f029010b9bf2b3
+      internalID: 2137182899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_95
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 427
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969be598b4c28924491f85aa4d27ea97
+      internalID: -2115747394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_96
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 426
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608fd566901aa974aa10d424d1a62b44
+      internalID: 1755144032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_97
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 426
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70377dc550b16c44a560d4500b37956
+      internalID: 1076133720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_98
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 426
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6201aabe88ec0438b7977d8850b1ef
+      internalID: -197901673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_99
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 425
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c0a9ce60fcb2c439bb66e2c76a6b04
+      internalID: -1964979174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_100
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 426
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f861cef724600b4fab9be579bc339de
+      internalID: -162146219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_101
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 428
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6573876bd2639c441853c85003c5a31e
+      internalID: 1770799342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_102
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 428
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7cc463a1f2a3c45a5beb7564200d34
+      internalID: 1063527167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_103
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 429
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa4607aa205f10488ff18b2fdd24abd
+      internalID: -1506941158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_104
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 363
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688645ddbe8cd544bca1652c1860c4e
+      internalID: -1399895887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_105
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 363
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9347f87d09acd6e4e96807d22adaf1ae
+      internalID: 1744450177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_106
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 363
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec87c19984501742a9efb3f9529809a
+      internalID: 256775762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_107
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 363
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dc85b4293b5de4a9deb3d283a40e56
+      internalID: -741688011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_108
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 363
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f1fc679576a3e499c959ab897d333b
+      internalID: -691141692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_109
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 363
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ba437cfb1749d49ae908b1856f5ff7
+      internalID: 1863516034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_110
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 363
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff61f2972931f7d4e95d436bd9daf95b
+      internalID: 501955786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_111
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 362
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135953c91e72db1499a8bca05bcc1012
+      internalID: -539257020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_112
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 362
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d0678b490b3a841b03f8845af78f63
+      internalID: -1802007579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_113
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 369
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5664a9a21589642bd17a8dac295f4b
+      internalID: 985893242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_114
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 379
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea32c66b7c1c3142b54a98464e65410
+      internalID: 1209915268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_115
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 379
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c2ff798dae195459eb30e03bd09f45
+      internalID: -1741274596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_116
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 379
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232fccbc39379e84e9e0a74e5b4cc144
+      internalID: -1414498902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_117
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 379
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b18c362c5e653479139d87ea20ea13
+      internalID: -1813202328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_118
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 379
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d382a168068e5cd45a299ad06901718b
+      internalID: -116656106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_119
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 379
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7407d7562368345809931cf94a254d
+      internalID: 1780651222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_120
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 379
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba65d9f71fc434bb7d3358bd165b11
+      internalID: 143666826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_121
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 379
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09813525b3904a43931e7750f300b73
+      internalID: -1851385154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_122
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 379
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d620dab6bfc5cd8448482805854c6280
+      internalID: -1120292562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_123
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 379
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196720df683d66d47ab9ec15dce0f734
+      internalID: -321066859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_124
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 379
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd241fd2e11014d49ae07624fc4f4365
+      internalID: -896338789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_125
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 379
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b20a6e002169438da8b3786c730b0
+      internalID: 1275685244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_126
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 379
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b55a5b81ff2e14893819c6c0be3994
+      internalID: -1385150471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_127
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 379
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee052a711196b414890d266a4dec161a
+      internalID: -1077850317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_128
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 379
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732e7fe7a381ea945ba78bf7ba8d03ea
+      internalID: 386034243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_129
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 379
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca0f6744ed5d7545ae871dfeb3f063b
+      internalID: 2020643953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_130
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 379
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e6c0a71a6dd2f46bbb2cb7dfac9df2
+      internalID: 1856057046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_131
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 379
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657b05655ea408347acbd50d1a681d5b
+      internalID: -1119351335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_132
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 319
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cecee082203c146b39e049cee05e69
+      internalID: 1265664990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_133
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 319
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fdbe919eb966a47a379a30298d47ed
+      internalID: -1052185532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_134
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 319
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a6492b8596319409f43424ef4de537
+      internalID: 2032206890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_135
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 319
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba0fc003586041488423893fdc46c16
+      internalID: 1302024822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_136
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 319
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d09a1b5e58cd943955b24efd522955
+      internalID: 1338945027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_137
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 319
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca67d38daecccb40901897e64e98700
+      internalID: 949799055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_138
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 318
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb566d7826d517428378bcb44bc3d82
+      internalID: -1819053466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_139
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 319
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e0a2ff5af85d645a9aef913c10c2cb
+      internalID: 548974425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_140
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 319
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d2f6bd60e8a9346a9dc8e9c9059cbf
+      internalID: -418578580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_141
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 315
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540349470a4acc840a15ae15870f8a8d
+      internalID: -117514927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_142
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 315
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40045b6ef5f23904ca4da06f41afa37c
+      internalID: 1246283763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_143
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 315
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f387e714a691931498ef3a587dee7340
+      internalID: 266364491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_144
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 315
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f8236f2261e464a8420014c4fa18f8
+      internalID: 391640887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_145
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 315
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4731bf14dfee474cb919cb57294a4c7
+      internalID: 1374505676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_146
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 315
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab90b10d8a3276a4d8e6be15cbcbbc49
+      internalID: 1899683887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_147
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 315
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d4513f0cb2c24890070655bc1e465
+      internalID: 1439577652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_148
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 315
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427a6fd6b92bb2b4cb051af01d6db0d6
+      internalID: 1253496162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_149
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 315
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104658922ab47bb4e89f57798465a52e
+      internalID: 45736513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_150
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 315
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a654f39ffeae945b5f06d723c9a3ed
+      internalID: 1125896608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_151
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 315
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de20bfa72beaa7f4abc73132b36c4740
+      internalID: 1214649786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_152
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 315
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4134e9dc29663224caf07988881d686d
+      internalID: -980469502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_153
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 315
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8800639d7b48be4a9b24f0b0aba1724
+      internalID: 22479974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_154
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 315
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24683fc5c2676c14da8248b5d59a2f45
+      internalID: 1838543338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_155
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 315
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d80472509f6c974ebb4d387bee5b573
+      internalID: -57038106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_156
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 315
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddef724ee5b3ce4fb65005d793559b6
+      internalID: 1424843633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_157
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 315
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26748db8f0cbb94e9fd1dbfb695093c
+      internalID: -689687130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_158
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 259
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8a80c635ccfbd40aef29e0d1fbcb9c
+      internalID: 1896189974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_159
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 259
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475249b13d0533a40aaff3c75e75fd49
+      internalID: -607726454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_160
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 259
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b192648cc9f71d40bb2787e335def41
+      internalID: -1434356250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_161
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 259
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c1e076b88d9e246a6e146aa3edcff4
+      internalID: -1811786950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_162
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 259
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94402837c9e0c6743b3ff2b0b2aadafe
+      internalID: -1497062075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_163
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 259
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7131462af1413c48bf1563f76abbddb
+      internalID: -1479541961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_164
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 259
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726d422f596ac2144a295aa301d65d5f
+      internalID: -40150502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_165
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 259
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dd690ed859ba84aa53985e1b86d496
+      internalID: -410184943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_166
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 259
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ef6c044a0a6bd4b91267fdbc14e27e
+      internalID: -1661270605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_167
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 259
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c941ddad64952498d0c746ec991335
+      internalID: -1078327305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_168
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 251
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cb2c6a4a3ca974ea384ce15117c3bf
+      internalID: 405158225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_169
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 251
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408a455d5c2908439c5d99e0b465a27
+      internalID: 1837505097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_170
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 251
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba36560c50d2d5488d91b474198acad
+      internalID: -1396120423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_171
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 247
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e74250795762484d9a0c0b535d0881e
+      internalID: 136096438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_172
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 247
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bdff91d0eaed446815b5d25c5269bb
+      internalID: 918358129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_173
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 247
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b3621759d49f549963be1a1f2dd67a
+      internalID: 1803390742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_174
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 247
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a835139ed3facdc49855da31418c146e
+      internalID: -1106081818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_175
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 247
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a42d7f217c0ec444b6605e6f982b4e8
+      internalID: 802427236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_176
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 247
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab6504b896082f4eaaf3b83b62380eb
+      internalID: -862478571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_177
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 247
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9765ad2ed63a3429fa97c3e5aab330
+      internalID: -1660090723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_178
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 247
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0357e6e45b2e99f41a3e755349fd82cf
+      internalID: -1838392012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_179
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 247
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a6bf7369382374e81d31aa39c5f03a
+      internalID: 1154256257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_180
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 247
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef1d4ab738cc994e879147b303838be
+      internalID: 1520135399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_181
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 247
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c266a4789602aa49ae72f36500ce4d4
+      internalID: 1996336920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_182
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 207
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f304628f4a577343b946cffce0a3032
+      internalID: 1591016364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_183
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 207
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb4056cc560bea47954c224e213f3f8
+      internalID: 2143672762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_184
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 207
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c115c369ae46e418f93fdd31c04706
+      internalID: 60882108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_185
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 207
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05218264faa049a4688694443f02094c
+      internalID: 1623872578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_186
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 207
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eaaff5eb1d92446991b4b6f542fef7
+      internalID: 1713701003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_187
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 207
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b303b06cbef7884d9464452f57d5d80
+      internalID: 830499646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_188
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 207
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542e36bf163eefa41a109d654aca21f2
+      internalID: 1682949993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_189
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 207
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092ae174263985547a102cae11282454
+      internalID: 1910094296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_190
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 207
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d3c01d996e01c4482b1b0212d51840
+      internalID: -142806382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_191
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 207
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854630b157b10db4d98d5977295dc7b4
+      internalID: 1083062198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_192
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 207
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e3b801bf14dbc44ab73982db966ebd
+      internalID: -1309335215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_193
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 207
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0cd5540b1884b44ac563a655b923ae
+      internalID: 882239062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_194
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 203
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36094f1a3110124d89292fd1ea05227
+      internalID: -1943260672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_195
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 203
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37383d861401644d9aeffb11a07cb66
+      internalID: -1736733612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_196
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 203
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b441851566ed945bac693206ae488a
+      internalID: 60063681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_197
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 187
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f150dcbd2b71c6941aa214ac28754578
+      internalID: 150924318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_198
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 187
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c573241706837934f8c09db269ed47a6
+      internalID: 61437601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_199
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 187
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc192639773b414e806719aad947845
+      internalID: -191087546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_200
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 187
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe6a1f70a7fc7b46b229527c9fac130
+      internalID: -1797613161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_201
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 187
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5edfc214e95dc47a21553395e0b422
+      internalID: 645091095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_202
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 187
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d110ee57c2da1cf48b59479a20a85c70
+      internalID: 2006090327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_203
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 187
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3288d594b0541864388b33c44132c343
+      internalID: -2026247097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_204
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 187
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2859f3186c041d542aa524d264284f21
+      internalID: 542279152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_205
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 187
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8636bda9900af174ca8952b591351f6c
+      internalID: -13891212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_206
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 187
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b43356b60edeca428807ccd23e65c10
+      internalID: 825274845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_207
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 187
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9fb2626d174964496bb5345cee97bf
+      internalID: -1121074326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_208
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 187
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c496fea5d650a54da687c7dbcedcad6
+      internalID: 1096432839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_209
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 143
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e7b0b3c071154394e4401512735cb
+      internalID: 2133956078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 143
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f86919d752f2f34abc06d0ae7dbc066
+      internalID: -1861699444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_211
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 143
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa11632acb9c704794f39a6b99d1c07
+      internalID: -280983226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_212
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 143
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be757e5e1412054fab63e03b72e5ca7
+      internalID: -1387610312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_213
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 143
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fddb27e608c0d4e800a3c5485c24a5
+      internalID: 1931258251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_214
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 143
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2347f389802a942a1feec93c2c496a
+      internalID: -260530330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_215
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 143
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aac32d1ebb441d47be1faf60ea3917e
+      internalID: 1709898584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_216
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 143
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4760c82378a173e4ebbee035c750193c
+      internalID: 113789465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_217
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 143
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8f23d09fb70d5459d9c7fba987b46b
+      internalID: -1402445446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_218
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 143
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa7575de4233f145aca5adc9fa91570
+      internalID: -757416275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_219
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 143
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0c39a09e598ed4b853dddfe1cd477b
+      internalID: 1434257234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_220
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 143
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094a1636d2766d440aa9bd973f66ee49
+      internalID: -2086459306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_221
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 143
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a7d069bbcf7f1419e5025cdcb1c492
+      internalID: -271745711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_222
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 143
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eb79f365a08664cbb29572e8305076
+      internalID: 1012373050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_223
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 143
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a522de43f54ef04692fa2a2910269fb
+      internalID: 1441649151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_224
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 143
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adefea398c2cbc341bd417d31731b4d4
+      internalID: -1650777418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_225
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 131
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674948e4cc9a3164d967935e96f7dc63
+      internalID: 1524683458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_226
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 131
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb718a447a484e049ad394de20183399
+      internalID: -947786721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_227
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 131
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8275a0c3df8648c4e9c2e837fc5606f0
+      internalID: -1882675732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_228
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 131
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4a95a8be6eb214095febecb80bc031
+      internalID: 1464303306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_229
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 131
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c6ee26055046a418e4b24750e979e0
+      internalID: -975784901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_230
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 131
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f69dec1cbb2df944b19260e13ef0d1f
+      internalID: -1831108468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_231
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 131
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8309a10ce2b9c04789494c718a8d65a
+      internalID: -499608427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_232
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 131
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2912747a398194f985c682c1c204f3
+      internalID: 432750094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_233
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 131
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b5299a7f6294b4088d19be925d6d16
+      internalID: -1538616420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_234
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 127
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9d205bc564f6b4fa5f4fea535264c0
+      internalID: 2129596921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_235
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 75
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454c5f3488ea670448e42a08a959bb8c
+      internalID: -759687838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_236
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4064e28764b1ab241af03cc1651d1af9
+      internalID: 709894329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_237
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 75
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a6f7afc578f1d49a01e5d696c905ea
+      internalID: -21730832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_238
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 75
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d882f50d68e9246b7f4574e09ef803
+      internalID: 1961969559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_239
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 75
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318bdc17e3244a24f9706d5560d7e1b5
+      internalID: 875985828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_240
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 75
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4e344b4cc0b524e8ae68b2b2b16aa9
+      internalID: -620051114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_241
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 75
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a4d7a6bf6ca4e4aa04a73499a883f9
+      internalID: -1263037768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_242
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 75
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fc263e878444d45becd3c8e123f7db
+      internalID: 339037411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_243
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 75
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f444af77aa06849a6159fa5fa1d16c
+      internalID: 1123722027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_244
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 75
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66ab0c2d05fc6a4c8624f901b2e4fd1
+      internalID: 1007664850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_245
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 75
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f4fa76bc02e3b478df7a260c1fbc15
+      internalID: -1091600281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_246
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 75
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e684afb46bfd41a12a6e8176b27de
+      internalID: 2085956482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_247
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 79
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c6ed69f7de4854b9ee0f41d8a2d328
+      internalID: 1619115854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_248
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 78
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af203c59394b4042a61ce5dfb1157ba
+      internalID: 203076007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_249
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 79
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2994a272925f8db4fa99f499a4ce6a81
+      internalID: -1920111646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_250
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 75
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6094232d064f440acb03405b7d568f
+      internalID: 1356037109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_251
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 75
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a77d3e15978ce94cb3199fb62e5db38
+      internalID: -280856575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_252
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 75
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d96972020eac74aafaaf790ed83902
+      internalID: 493056892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_253
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 75
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108c855ddca079747b03f1355cb20653
+      internalID: 1388608206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_254
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 75
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80216417fb7df61478c41a60df2daf31
+      internalID: -1431897855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_255
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 75
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2cea23987427b47b52756bb71d0c30
+      internalID: -1361554367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_256
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 75
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d17d07395c5e344a2345002f4a9b2a
+      internalID: -1709013133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_257
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 75
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d557520944695b948899b8cd877b7cf9
+      internalID: -589342235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_258
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 75
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72854f80285df604ebb588fc4023c995
+      internalID: -817224101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_259
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 75
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e77ce021a5718d468c2411d30cd5857
+      internalID: 1157614283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_260
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 75
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead7d573789e5f2498dd59e3466b0eb2
+      internalID: -1220170144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_261
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 19
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36bfecc434c9614ba3879588899a7e6
+      internalID: -1898631652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_262
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 19
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ed341e77b4cf48abdb642f9546990
+      internalID: -677183494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_263
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 19
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f6887fa40e0f8438ebfdc8a0e0d1d7
+      internalID: -6972898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_264
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 19
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04896cb412e227448a23a1ea00b93f23
+      internalID: -2064729727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_265
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 19
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31406aa560aaab241a9a8d8110348b4f
+      internalID: -1022472211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_266
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 19
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70858f68a3e486e48a2d5ef2da642254
+      internalID: -276395092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_267
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 19
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2500dc90be4c05469a6f9f7cf013a67
+      internalID: -1154080514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_268
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 19
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cde76489e493684ca2f27c32e234dc3
+      internalID: 190189686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_269
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb18750e9d48964a9eddc1162442e67
+      internalID: 687643386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_270
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 19
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ebd78f59f13cb4ab49a33c81770311
+      internalID: -41102111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_271
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 19
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb53aa33eea98243b814724b6103518
+      internalID: -1266365575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_272
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 19
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7318d7db802d3a743a31123e38d992a9
+      internalID: 482492663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_273
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 19
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131e679955c90e247a11f93840577210
+      internalID: 1979255015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_274
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f060adbe3631024681dc4056a4ee775
+      internalID: 642086102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_275
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5471416fd2da543b94840b3493c2d2
+      internalID: -1652045413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_276
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1999df8bb9286bf43b7aabf5857064a0
+      internalID: 1058675137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_277
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2195923adcabc9b47b0b0ab97b946400
+      internalID: 841198571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_278
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5296e67e05469cd44b5b5c7d468a54d6
+      internalID: -1815674543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_279
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3499c16c0f539a14da3f696028b00c9d
+      internalID: -1145084980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_280
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdae7ba3f05a744ab87a145b3c56320
+      internalID: -562283151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_281
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cff487a95a7804184106ef44df863a
+      internalID: 1744445769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_282
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862379a119eef894c9c1e44806fb0116
+      internalID: 456437925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_283
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 19
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d416be0497c074f85c9bca774bcda2
+      internalID: 1779856388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_284
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 19
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6a0c062f5522240a2307710f173fb7
+      internalID: -798608275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotMetroid_285
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 240
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3388c1043d03694ab1ac28e3dfd38af
+      internalID: 2089272866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NotMetroid_27: -837117110
+      NotMetroid_274: 642086102
+      NotMetroid_35: -1985203478
+      NotMetroid_82: 1437772408
+      NotMetroid_183: 2143672762
+      NotMetroid_75: 494198240
+      NotMetroid_80: -835254522
+      NotMetroid_166: -1661270605
+      NotMetroid_238: 1961969559
+      NotMetroid_169: 1837505097
+      NotMetroid_64: -1436382096
+      NotMetroid_6: 2100190504
+      NotMetroid_263: -6972898
+      NotMetroid_186: 1713701003
+      NotMetroid_261: -1898631652
+      NotMetroid_34: 1359309015
+      NotMetroid_87: 710897034
+      NotMetroid_47: -1778896584
+      NotMetroid_237: -21730832
+      NotMetroid_258: -817224101
+      NotMetroid_63: 1049472372
+      NotMetroid_179: 1154256257
+      NotMetroid_88: 779990761
+      NotMetroid_253: 1388608206
+      NotMetroid_16: -614850382
+      NotMetroid_247: 1619115854
+      NotMetroid_231: -499608427
+      NotMetroid_267: -1154080514
+      NotMetroid_69: 580045376
+      NotMetroid_209: 2133956078
+      NotMetroid_28: 1996740192
+      NotMetroid_21: -1414860072
+      NotMetroid_44: -1438323132
+      NotMetroid_153: 22479974
+      NotMetroid_270: -41102111
+      NotMetroid_136: 1338945027
+      NotMetroid_94: 2137182899
+      NotMetroid_154: 1838543338
+      NotMetroid_115: -1741274596
+      NotMetroid_125: 1275685244
+      NotMetroid_204: 542279152
+      NotMetroid_78: 214979951
+      NotMetroid_227: -1882675732
+      NotMetroid_194: -1943260672
+      NotMetroid_221: -271745711
+      NotMetroid_251: -280856575
+      NotMetroid_176: -862478571
+      NotMetroid_138: -1819053466
+      NotMetroid_71: 1946024818
+      NotMetroid_200: -1797613161
+      NotMetroid_203: -2026247097
+      NotMetroid_214: -260530330
+      NotMetroid_113: 985893242
+      NotMetroid_23: -82367362
+      NotMetroid_277: 841198571
+      NotMetroid_19: 854383620
+      NotMetroid_195: -1736733612
+      NotMetroid_10: -941262362
+      NotMetroid_81: 912523189
+      NotMetroid_65: 1446473383
+      NotMetroid_159: -607726454
+      NotMetroid_160: -1434356250
+      NotMetroid_29: -1731656270
+      NotMetroid_76: -1178274606
+      NotMetroid_89: 991320757
+      NotMetroid_9: 290671207
+      NotMetroid_105: 1744450177
+      NotMetroid_206: 825274845
+      NotMetroid_152: -980469502
+      NotMetroid_38: 485818492
+      NotMetroid_36: 1739888655
+      NotMetroid_225: 1524683458
+      NotMetroid_57: 837973564
+      NotMetroid_193: 882239062
+      NotMetroid_266: -276395092
+      NotMetroid_145: 1374505676
+      NotMetroid_233: -1538616420
+      NotMetroid_181: 1996336920
+      NotMetroid_199: -191087546
+      NotMetroid_248: 203076007
+      NotMetroid_5: 846327596
+      NotMetroid_140: -418578580
+      NotMetroid_250: 1356037109
+      NotMetroid_257: -589342235
+      NotMetroid_280: -562283151
+      NotMetroid_68: 531059547
+      NotMetroid_197: 150924318
+      NotMetroid_106: 256775762
+      NotMetroid_139: 548974425
+      NotMetroid_142: 1246283763
+      NotMetroid_254: -1431897855
+      NotMetroid_51: 1468203992
+      NotMetroid_172: 918358129
+      NotMetroid_48: -2018032895
+      NotMetroid_32: -73248598
+      NotMetroid_178: -1838392012
+      NotMetroid_86: 1641194186
+      NotMetroid_158: 1896189974
+      NotMetroid_230: -1831108468
+      NotMetroid_167: -1078327305
+      NotMetroid_43: -1510416564
+      NotMetroid_249: -1920111646
+      NotMetroid_17: 13206455
+      NotMetroid_22: -1614313728
+      NotMetroid_116: -1414498902
+      NotMetroid_202: 2006090327
+      NotMetroid_242: 339037411
+      NotMetroid_278: -1815674543
+      NotMetroid_41: 545237286
+      NotMetroid_72: -1941933751
+      NotMetroid_149: 45736513
+      NotMetroid_210: -1861699444
+      NotMetroid_273: 1979255015
+      NotMetroid_15: -2147483445
+      NotMetroid_24: -420424520
+      NotMetroid_31: 1603993362
+      NotMetroid_170: -1396120423
+      NotMetroid_128: 386034243
+      NotMetroid_236: 709894329
+      NotMetroid_191: 1083062198
+      NotMetroid_207: -1121074326
+      NotMetroid_259: 1157614283
+      NotMetroid_7: 1631219114
+      NotMetroid_111: -539257020
+      NotMetroid_175: 802427236
+      NotMetroid_73: -893093696
+      NotMetroid_284: -798608275
+      NotMetroid_188: 1682949993
+      NotMetroid_177: -1660090723
+      NotMetroid_150: 1125896608
+      NotMetroid_185: 1623872578
+      NotMetroid_77: 1736565468
+      NotMetroid_101: 1770799342
+      NotMetroid_218: -757416275
+      NotMetroid_144: 391640887
+      NotMetroid_40: 1366677342
+      NotMetroid_98: -197901673
+      NotMetroid_61: 1686943817
+      NotMetroid_155: -57038106
+      NotMetroid_102: 1063527167
+      NotMetroid_240: -620051114
+      NotMetroid_205: -13891212
+      NotMetroid_123: -321066859
+      NotMetroid_282: 456437925
+      NotMetroid_235: -759687838
+      NotMetroid_91: 378800039
+      NotMetroid_52: -1593614210
+      NotMetroid_220: -2086459306
+      NotMetroid_260: -1220170144
+      NotMetroid_99: -1964979174
+      NotMetroid_110: 501955786
+      NotMetroid_171: 136096438
+      NotMetroid_104: -1399895887
+      NotMetroid_163: -1479541961
+      NotMetroid_114: 1209915268
+      NotMetroid_135: 1302024822
+      NotMetroid_1: -1536565392
+      NotMetroid_11: -645237683
+      NotMetroid_25: -2013311534
+      NotMetroid_93: 453289714
+      NotMetroid_265: -1022472211
+      NotMetroid_54: 2068975066
+      NotMetroid_124: -896338789
+      NotMetroid_56: -1115261897
+      NotMetroid_147: 1439577652
+      NotMetroid_198: 61437601
+      NotMetroid_96: 1755144032
+      NotMetroid_165: -410184943
+      NotMetroid_26: -2092763251
+      NotMetroid_126: -1385150471
+      NotMetroid_92: -1903328412
+      NotMetroid_4: 2051942180
+      NotMetroid_120: 143666826
+      NotMetroid_229: -975784901
+      NotMetroid_107: -741688011
+      NotMetroid_187: 830499646
+      NotMetroid_13: -1103641341
+      NotMetroid_146: 1899683887
+      NotMetroid_3: -1679528320
+      NotMetroid_217: -1402445446
+      NotMetroid_95: -2115747394
+      NotMetroid_215: 1709898584
+      NotMetroid_174: -1106081818
+      NotMetroid_109: 1863516034
+      NotMetroid_103: -1506941158
+      NotMetroid_244: 1007664850
+      NotMetroid_42: 1649453056
+      NotMetroid_12: 134959824
+      NotMetroid_112: -1802007579
+      NotMetroid_137: 949799055
+      NotMetroid_58: -725250521
+      NotMetroid_141: -117514927
+      NotMetroid_108: -691141692
+      NotMetroid_2: 1178126315
+      NotMetroid_180: 1520135399
+      NotMetroid_161: -1811786950
+      NotMetroid_131: -1119351335
+      NotMetroid_246: 2085956482
+      NotMetroid_173: 1803390742
+      NotMetroid_122: -1120292562
+      NotMetroid_283: 1779856388
+      NotMetroid_143: 266364491
+      NotMetroid_239: 875985828
+      NotMetroid_262: -677183494
+      NotMetroid_208: 1096432839
+      NotMetroid_182: 1591016364
+      NotMetroid_148: 1253496162
+      NotMetroid_45: 1584818421
+      NotMetroid_243: 1123722027
+      NotMetroid_83: -159075780
+      NotMetroid_232: 432750094
+      NotMetroid_66: 1568442097
+      NotMetroid_70: 1246293516
+      NotMetroid_256: -1709013133
+      NotMetroid_275: -1652045413
+      NotMetroid_133: -1052185532
+      NotMetroid_50: 1802389295
+      NotMetroid_46: 1596732629
+      NotMetroid_241: -1263037768
+      NotMetroid_118: -116656106
+      NotMetroid_127: -1077850317
+      NotMetroid_223: 1441649151
+      NotMetroid_132: 1265664990
+      NotMetroid_219: 1434257234
+      NotMetroid_151: 1214649786
+      NotMetroid_8: -1899017683
+      NotMetroid_37: -1097849690
+      NotMetroid_53: 1862600583
+      NotMetroid_62: 219372061
+      NotMetroid_100: -162146219
+      NotMetroid_79: 134461081
+      NotMetroid_97: 1076133720
+      NotMetroid_14: 686762325
+      NotMetroid_213: 1931258251
+      NotMetroid_192: -1309335215
+      NotMetroid_201: 645091095
+      NotMetroid_212: -1387610312
+      NotMetroid_272: 482492663
+      NotMetroid_226: -947786721
+      NotMetroid_129: 2020643953
+      NotMetroid_39: -1230505236
+      NotMetroid_20: -1972747452
+      NotMetroid_55: 1800634477
+      NotMetroid_228: 1464303306
+      NotMetroid_234: 2129596921
+      NotMetroid_224: -1650777418
+      NotMetroid_281: 1744445769
+      NotMetroid_168: 405158225
+      NotMetroid_264: -2064729727
+      NotMetroid_67: -1863951758
+      NotMetroid_255: -1361554367
+      NotMetroid_276: 1058675137
+      NotMetroid_117: -1813202328
+      NotMetroid_84: -1548933135
+      NotMetroid_156: 1424843633
+      NotMetroid_196: 60063681
+      NotMetroid_59: -602641499
+      NotMetroid_18: 977005302
+      NotMetroid_30: 897104204
+      NotMetroid_119: 1780651222
+      NotMetroid_121: -1851385154
+      NotMetroid_184: 60882108
+      NotMetroid_252: 493056892
+      NotMetroid_269: 687643386
+      NotMetroid_279: -1145084980
+      NotMetroid_60: -18714522
+      NotMetroid_49: -773337568
+      NotMetroid_74: -1233611926
+      NotMetroid_245: -1091600281
+      NotMetroid_271: -1266365575
+      NotMetroid_190: -142806382
+      NotMetroid_157: -689687130
+      NotMetroid_268: 190189686
+      NotMetroid_285: 2089272866
+      NotMetroid_216: 113789465
+      NotMetroid_85: 195264475
+      NotMetroid_164: -40150502
+      NotMetroid_222: 1012373050
+      NotMetroid_211: -280983226
+      NotMetroid_0: 686181766
+      NotMetroid_134: 2032206890
+      NotMetroid_189: 1910094296
+      NotMetroid_130: 1856057046
+      NotMetroid_162: -1497062075
+      NotMetroid_90: -80841940
+      NotMetroid_33: 1165675890
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

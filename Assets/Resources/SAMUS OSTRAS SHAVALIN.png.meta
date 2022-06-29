@@ -1,0 +1,6438 @@
+fileFormatVersion: 2
+guid: 5f169fc4be2bb0a4f81102d3075e1d86
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 539
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac8c67f16f6f3244b362166aa4c2aa7
+      internalID: 1112858017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 539
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3568b45d6d26b7346a9705d9fc98bb9a
+      internalID: 1942609920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 539
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0449cd16a88dcbb4e930280d5a7fd021
+      internalID: 117772169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 539
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc0c9248ce934949966b6122b73aad0
+      internalID: -1648712072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 539
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e36ecbcde5183640b12067aa10bd00e
+      internalID: 1934237744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 539
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7747392637aca9e42af92a4542a1f076
+      internalID: 1016937686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 573
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab794c6d4f180d44b4cc3810b71368f
+      internalID: -418348927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_7
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 559
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0fc24065929d24ebb556857df3471c
+      internalID: -179039102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_8
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 559
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b777c818773ee0a48a358e8e426919c0
+      internalID: 533382052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a71e4e02669a8d439ed65516c497b2d
+      internalID: 73529459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 572
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd8c2af1fc8f774aac2231dd606ad72
+      internalID: 783506116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_11
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 577
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54b593a71769554d88e296c80fb4d92
+      internalID: 1150631362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_12
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 574
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa07ca8598a69942b488777a0ff821a
+      internalID: 1298494131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 577
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05131a1beabbe76458e0fd596206581a
+      internalID: 1375112289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_14
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 572
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c6ec06b6d70094cbc33c58d2f169aa
+      internalID: 1754151870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_15
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 562
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b25bdb538776149aff341f28e6d70f
+      internalID: 572327502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_16
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 562
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bd1dcf2437ade48b531cebb825158a
+      internalID: 534228561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 563
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0823d7dced212a41b4bfcf2af707912
+      internalID: -1652552252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 561
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3511bdc47d4a640966f7125438b8ed
+      internalID: 1897575326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_19
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 558
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f8bfc3c31459248a08f8a7796db111
+      internalID: -822071836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 557
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24a579b8ea88c341a2fc9be3b721e15
+      internalID: -868254958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 557
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2735cdcab06f6346a4b9be3d61f89a6
+      internalID: 740211882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_22
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 557
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e53097c9a154a4795e817249e2f784
+      internalID: 1573137656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 559
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e213b09cf699c4b918aeb6b59e0844
+      internalID: 489660592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 555
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7f10ef6cd86f1428f689ac8ee21814
+      internalID: -1940704031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_25
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 559
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e30e29a6fcb6547b53f57073795b04
+      internalID: 2010464991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_26
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 559
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba59148a0d4f524eb084c96418e09c3
+      internalID: -1817433586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_27
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 559
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d66740347d03ab429704f09b27b8553
+      internalID: 2031120176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_28
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 559
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33441696e644c994d8887b0a1c0c1d06
+      internalID: -2131917623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_29
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 559
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f9ae93445e9d34981096c1861711f5
+      internalID: -1021806773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_30
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 559
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2feb0d0e4a6a64e98d7ceed251afa3
+      internalID: 1183878374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_31
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 560
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6985685728514b7498c588bad5e1ff5b
+      internalID: -1490010756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_32
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 561
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f15ae0b10f4e9247a159d948f6d6d9e
+      internalID: -384761507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_33
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 549
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c74a18f9a4ede4c850b759f22b2cb8
+      internalID: 1614558673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_34
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 547
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86f6d6248fa2a645aa6812de312af3d
+      internalID: -676945721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_35
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 543
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0625d9bb91a8564cbbe6a603d45d849
+      internalID: -886674014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_36
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 552
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f470642b317261c45a4a8fbfc26ddf93
+      internalID: -1312001315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_37
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 485
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aec00394a50684e889b7f9637971cb
+      internalID: -1475938578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_38
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 540
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7b42b162f4520479776feb32ec4920
+      internalID: 1083250425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_39
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 492
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f644c7d7db44054294a9fb6d46bf11e
+      internalID: -1401417896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_40
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 499
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c79a91a633db7646ac7978153d4d77e
+      internalID: -48366698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_41
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 480
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf4cd790d747ce4f8270f473abec4c2
+      internalID: 31431186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 483
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818c76aca351b384d8d0c545040e1c48
+      internalID: 680790123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_43
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 483
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bbe65bdd6324a4f95646df135df75e
+      internalID: -1272603368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_44
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 484
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b664a47653cee4eab6737218599a80
+      internalID: 253738974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_45
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 486
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b25b30d598eff94189a065dcff25b55
+      internalID: -472114131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_46
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 533
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e500ebacf6093b942afd58f098855782
+      internalID: 1424076610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_47
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 516
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6783573ef50249747a288586bba5ec3a
+      internalID: 1866408505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 483
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33667d7e006bb094184ffa08dc109bce
+      internalID: 368152303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_49
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 483
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80cbd5235e9c46488b73ed70d444342
+      internalID: 643821858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_50
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 483
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d575639ba15b54ea9d94a3e86cb7d2
+      internalID: 1710262785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 483
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ffb6d7a2e11194c97cd9be2806ef80
+      internalID: -1870790916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 483
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999e2140265dded4e9c5a5611176b656
+      internalID: 84313392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_53
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 483
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cf79032e1466c4886d1a157a7dba89
+      internalID: 740248727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 483
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5de4e8bbcb07864991d4e5514986bd1
+      internalID: 543996337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 483
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a872d5dec937aaf4a8d89a48b67ba116
+      internalID: -532208521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_56
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 483
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6aaaf2010ca80479da651868df74f9
+      internalID: 2034588182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_57
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 481
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97b441fb6e366048a314e2d4eb3850c
+      internalID: -1171281101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_58
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 481
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4921b8a848cfc459a7a3015e578b9c
+      internalID: 1635700989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_59
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 481
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fdc86b57e9f1b48bcdad4d35fe5986
+      internalID: 1763639725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_60
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 481
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4778a0cb3ab8755428e0eaad043a9fe3
+      internalID: 1516255493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_61
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 481
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edaad88441385444b38183a85fa9d2b
+      internalID: -1731784247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_62
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 483
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d70074077bfbd643b1359f0bec320a9
+      internalID: 1396312965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_63
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 483
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3ef45a97bc4bf41833c39530e6879f
+      internalID: -1468539453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_64
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 483
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66546114f435c454fae2400ea284dc10
+      internalID: -973729552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_65
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 486
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce09ba9661ce23d4993a018ff7ad8f52
+      internalID: 799000768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_66
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 486
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90ba0ca3269b5340bc2c059fba34819
+      internalID: 1577346559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_67
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 521
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab19f2c4f7e7fde4386599d2e947089d
+      internalID: 708928572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_68
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 510
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553d144811b34664a8a9189dc72b065b
+      internalID: 499358910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_69
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 480
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0620f7afd90557543948d025a80cc609
+      internalID: 816740680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_70
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 480
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f4f4b8929fb2b4db8ced0f066d7679
+      internalID: 1303802073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_71
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 481
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6674903d41cd608439d36ea9f68a5b53
+      internalID: 895588610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_72
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 481
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f36655ade65d94d8a9d6c35cc11cdb
+      internalID: 314383518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_73
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 511
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2419eca9008c2548b9a3e0e2e228cda
+      internalID: 1169073993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_74
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 513
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ba11d91ebc67840b9265a7f38b622b
+      internalID: 1548224755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_75
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 483
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4693dd2665b5fd046a346d2d4a54b52b
+      internalID: -1676684952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 419
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aabb28222d42a147a996ef29222057b
+      internalID: 421481004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_77
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 419
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f29472a833cd54d941fe8fb802166f
+      internalID: -531392426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_78
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 419
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4828e75e56014448332d937ff51e3c
+      internalID: 378536097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_79
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 419
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876aa72954657034ba641af6ee5bc8f5
+      internalID: 56387460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_80
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 419
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fe9e55ac631de4096cc34abc8f981a
+      internalID: 860294231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_81
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 419
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7937df71038e60b44b0f1201fa1eba1d
+      internalID: -1342244288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_82
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 419
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ab9533c8c4b5439a8e5cf23556021
+      internalID: 1850308197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_83
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 419
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9781a6556a2aa4bae5321b769b5268
+      internalID: -525024347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_84
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 419
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3a544f8646a1842a623cf009c6fd3e
+      internalID: -1741945761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_85
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 429
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14887302988db724b80afb6ae801af8b
+      internalID: -1423448835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_86
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 429
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdc517c8b7b2e049bc87774f202de84
+      internalID: -326585174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_87
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 429
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4873681bb6d14744c8e0f023c978ea3f
+      internalID: -1031576625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_88
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 429
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fd91c34ee951b4ebae5b58b21d0697
+      internalID: 118263634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_89
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 429
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e862252d7efbe7e49975dc67f6f8d173
+      internalID: -1211446821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_90
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 429
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4ce12a956845149b1b589dc4f57884
+      internalID: 1234452932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_91
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 429
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c540343b55a93cf478c909c9729dd5d0
+      internalID: -25169891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_92
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 429
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ef4179bdf1fad4db681274574f66b8
+      internalID: -2129532808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_93
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 427
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713f71dfd720de946a2a79d0a8d38d39
+      internalID: -258098542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_94
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 427
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa0705aa2a1cec49a82f02f4646676c
+      internalID: -1680587429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_95
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 427
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16625e7437b6ff49a1695a5a38543a8
+      internalID: -852359558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_96
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 426
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f680439322abd4a9b0e77802ba2685
+      internalID: 2010677370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_97
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 426
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8344a7303625f04ebeb94368cbc855d
+      internalID: -1403309064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_98
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 426
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c1eee1beab02949ab314462a1a815d
+      internalID: 60764536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_99
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 425
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453f31ab3a7351c49b556ea1e32c9968
+      internalID: -709813084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_100
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 426
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3278114b291324584fab73af9f06ef
+      internalID: -1624579907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_101
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 428
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b46133567b2354682841354377fce3
+      internalID: 1615108781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_102
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 428
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca3d1ed7e22979489d8fa3928c26512
+      internalID: 797068327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_103
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 429
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cb23a885b2f2541bac29479c00cf40
+      internalID: -758869898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_104
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 363
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bf38376f5b35447affeb56721eded9
+      internalID: 453131874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_105
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 363
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450cb1fb6879bf6459622c9cd0dbfe5c
+      internalID: -375970674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_106
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 363
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8789bd3546891d94d887e8c586340d2d
+      internalID: -142967259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_107
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 363
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a85e888eba1a34f9c5111333f0b3a0
+      internalID: 2011199725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_108
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 363
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a3198f350fb9f40a0fbe6a17fee17d
+      internalID: 1404964743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_109
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 363
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a699770f4a29e141812a8e367e07636
+      internalID: -1600139700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_110
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 363
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397bf45c5283d994e920d17ab21a82a4
+      internalID: 1405852815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_111
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 362
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4cfff15d1edd240b605161914e335c
+      internalID: 1565389625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_112
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 362
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6dc5d815c90c34eab7ed62fff0b2de
+      internalID: 1703652621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_113
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 369
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129f6e0c05e25fc499773602b25367e2
+      internalID: -1675379093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_114
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 379
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90889ef3654cf149833f41606794b93
+      internalID: 474900072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_115
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 379
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a543c6b4682e4a4e92f91ce591fbc6b
+      internalID: -944419696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_116
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 379
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3f657cbb6fdc249a5f4f51f0937ad0
+      internalID: -236373510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_117
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 379
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ba0ebc50dfe234285fd31f9ca49474
+      internalID: 1628349138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_118
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 379
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4ef8374deb02a46a969df33ff54b9f
+      internalID: 1221177739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_119
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 379
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544d3a039d16ec48a3bdd38023af4ee
+      internalID: -703868345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_120
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 379
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef05cad7d09db41a846c6c3eb4e349
+      internalID: -384038634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_121
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 379
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90915bd9a99a4404eb1ded529bf38949
+      internalID: -487499072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_122
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 379
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c643c648efe844d9da8872bb8bc647
+      internalID: 264931594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_123
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 379
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb9006110e6b0b46b5254cd82884aaa
+      internalID: 42844033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_124
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 379
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8acb72b7b497b49ad1bbaa65e4e421
+      internalID: -178985776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_125
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 379
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64e50f87583c9342872a09dec56fc18
+      internalID: 1467858874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_126
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 379
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3331cb428aa7e41b7eb9de2e7a0bc3
+      internalID: 1984810717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_127
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 379
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360b19661a648d540b63db26dd93b713
+      internalID: 2064685339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_128
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 379
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6540066fd467b2147be7714e4c8f2308
+      internalID: -921102588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_129
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 379
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c4b574eefb04c4cab9a9574f945c9b
+      internalID: -756732443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_130
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 379
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ebd91959adb344e8c22979c7a535fe
+      internalID: -514723380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_131
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 379
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9e0b4b93ec6e342a3d30dc42b0f569
+      internalID: 1835445919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_132
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 319
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794922921c6041a48897c8effc1f90d6
+      internalID: 636781229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_133
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 319
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c1153e8ad141447ae0f87cdcc28220
+      internalID: -1648402595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_134
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 319
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ed6410dc4d5284cbe030b13cd0cb35
+      internalID: 2058653387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_135
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 319
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc641a6a547e914fac8b084e3eac939
+      internalID: -429880034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_136
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 319
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186b9c174b4637c4ba6a322d44f3feda
+      internalID: -186572366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_137
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 319
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430df4bf7c9b7eb4f986afc6cef8a704
+      internalID: 1851337940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_138
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 318
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edabca5b9a756446b4637ca338fc5a5
+      internalID: -2064043476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_139
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 319
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4de02419a43e124f997066c45c025f0
+      internalID: 2067667533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_140
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 319
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dbebb4d429f2c419dbbd3366cc8e1f
+      internalID: -192132829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_141
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 315
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ac3886347527e4dbd3169440f1c46b
+      internalID: 1253951622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_142
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 315
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e277e79b297a214ca1641dc7369c45a
+      internalID: 407040446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_143
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 315
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091460b32cdc2404dbbaee2355b89eda
+      internalID: 1883073086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_144
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 315
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee206b002989754980457c28aadda24
+      internalID: 705608264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_145
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 315
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fb999e3f633c9479cc1b00688d5486
+      internalID: -2016364920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_146
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 315
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20bea329fd486743a290602abb2c3ab
+      internalID: -1962393117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_147
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 315
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86555319e5d249e4b9a29570c8d39706
+      internalID: -2002772787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_148
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 315
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25b4037543fdb04fb64062563992e7f
+      internalID: -1735003902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_149
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 315
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80fc3a756246a7459171fb13b25dcb4
+      internalID: -981378109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_150
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 315
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b471f564c826c24479716cf6150a8586
+      internalID: 1823925345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_151
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 315
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6de0f7e984aca498b06ab17f44d155
+      internalID: -1564437950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_152
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 315
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e59d7092ff730e43b3c13077f4b2ad1
+      internalID: -761930913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_153
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 315
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12e40bb820cb3b4aafb05f9143f2184
+      internalID: -260792071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_154
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 315
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73949e298a60074a87cc1afc9e74c44
+      internalID: 2068168201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_155
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 315
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df7361d597f17941b15eed29333cf3f
+      internalID: -4233119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_156
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 315
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38257a38fbe2ca4fa797015e1d1691b
+      internalID: 1438427345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_157
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 315
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ab3240b5f3d844da6139a5d413729a
+      internalID: 1741849318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_158
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 259
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57d360927ff49c409b41b7145972f6c
+      internalID: 1409386769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_159
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 259
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080bc46667c37a24bb5ae0c4e988b539
+      internalID: 1730530079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_160
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 259
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b63f6779fd48d94aae87b565a013063
+      internalID: -899227778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_161
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 259
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4c40675944570459a4b6b5f2087607
+      internalID: 817065160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_162
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 259
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f12c74fa9cb2245aed7c42b2244c81
+      internalID: 1455961490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_163
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 259
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc473125b923243978a41a8b08491d
+      internalID: -1740964774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_164
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 259
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4c37da315036b40bfd64ec0b8a69ae
+      internalID: -344525777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_165
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 259
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7902d152981cc41b73fbc1f24ae192
+      internalID: -626345576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_166
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 259
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b5900d312921a48a424c1cc2bd7c51
+      internalID: -1428788427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_167
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 259
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30859dbdc6df5564595e75e690ae38b2
+      internalID: 328871835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_168
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 251
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060860f258b730447a5d79932271d0f5
+      internalID: 433093740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_169
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 251
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a03299d1b368a247bf02e67b7c32554
+      internalID: 1281921408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_170
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 251
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf0c707367b84541a09ada293a9c483
+      internalID: 781605479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_171
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 247
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50671be30c0b5464da11d1c5cebf5d4d
+      internalID: 930153292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_172
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 247
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b7eedf1fbabfa4aacc3b5a62b06b90
+      internalID: 1380714954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_173
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 247
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fee801082322404daaa6a01906f3807
+      internalID: -1275216418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_174
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 247
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba8bae6b87a24a4fb1d15844246832a
+      internalID: -271405253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_175
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 247
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a7a9eacb5431644a34cc2e824739b5
+      internalID: -1392478459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_176
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 247
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed10a13f583c8d14ab7cda8e361d3133
+      internalID: -1688853286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_177
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 247
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea593f52631eb564a92671806e726c8c
+      internalID: -1181673388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_178
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 247
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443913f575c32864bb8ca63688bd0b01
+      internalID: 25523012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_179
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 247
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9956d5905eb9894b85d15d4018cb1ba
+      internalID: -487139348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_180
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 247
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0b5cc88e053374093dd10cde35674b
+      internalID: -1525959902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_181
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 247
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161daf7c1b48fe044980cdb5d77a88c5
+      internalID: 1042809381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_182
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 207
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649078314ed0e844c95a4d8d84f7ddce
+      internalID: -2067286610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_183
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 207
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dc7ecaa24aa344db1452a012c35263
+      internalID: -37929894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_184
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 207
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0f66de59fcd9445908c775516d9747
+      internalID: 1048313266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_185
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 207
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9771b68a01b0245bc65eb1a6f4663a
+      internalID: -2043614939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_186
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 207
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c587ee626b23f04e8f18f9b630284f0
+      internalID: 623781443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_187
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 207
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8f40a3647c58f428b69789f6002786
+      internalID: -1315059988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_188
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 207
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daebf591c67ef0d4ba90cbfe349dc8bf
+      internalID: 884357377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_189
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 207
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7a05ed94815cc41a6207d0f58a59a7
+      internalID: 822085027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_190
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 207
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcfceb58a749ee4a8e1eabe28b14074
+      internalID: -1231977883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_191
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 207
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0218e0522bd85d4dbcdfc09af170cfe
+      internalID: -1034325211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_192
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 207
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d41c07dc189fbb4cb15795bd58955ef
+      internalID: 1311253112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_193
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 207
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eeca418521b8e45a9859b739d1a946
+      internalID: -2061410681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_194
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 203
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918acc8ca6bf9234f8b6861121d7d653
+      internalID: 261652974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_195
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 203
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c1e81218491d6458d1bbdd9d153379
+      internalID: -1885634800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_196
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 203
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafbc621597922546a674c8dd26e6d9b
+      internalID: -1494822492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_197
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 187
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b03d31baad7fc244b822c1093dfc88c
+      internalID: -2063486497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_198
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 187
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c751424125467964383e157b4ff7b454
+      internalID: 2035805237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_199
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 187
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cb0a31db138cc4ca72f43c8ba8d199
+      internalID: -1704321416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_200
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 187
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8169809f0d3428f41a272a67d80b640d
+      internalID: -849869992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_201
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 187
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a88e25c75bc044489db97ef5215495
+      internalID: -1360993617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_202
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 187
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51682cc3c17fb5428a5cec68dd27f48
+      internalID: -578052594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_203
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 187
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c5035ab1050024fbde9be419d665cf
+      internalID: 1623317878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_204
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 187
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9538fde28f02804d9378916930a44f9
+      internalID: 736078573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_205
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 187
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3785802835597458e62a22e53f3e0b
+      internalID: -1839174057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_206
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 187
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2b258ffedf54c4c8b684b28ee99d8c
+      internalID: 645293003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_207
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 187
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db42afd0d26f17b4b8fcdd52de4a615e
+      internalID: 1521176590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_208
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 187
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf9d363b1163cf4ea5a63c4893f6313
+      internalID: 1597069338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_209
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 143
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f54063befa763542a765e2feb1664ca
+      internalID: 1551960186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 143
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95ae2fb2a482444c891a759f8107cf8
+      internalID: 450871741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_211
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 143
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd693f8863ff26742863ee5436cb51eb
+      internalID: 52873902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_212
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 143
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab080f7c71115b48b67105f33bcf9cd
+      internalID: -1754597437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_213
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 143
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1828b03e93b1e488d86f922485e099
+      internalID: 1428231246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_214
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 143
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ba3e80b0405c14e84e07aad849fb05
+      internalID: -1504815802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_215
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 143
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871628aa1727dba4aaf0f223fa9c7c33
+      internalID: -62662308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_216
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 143
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35e088048459894fbf6b45cfb18ed8a
+      internalID: -1080049345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_217
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 143
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f9215db9aa630489038d778fef3555
+      internalID: -2132878973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_218
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 143
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc5d4db756d31a4c93f058e0ac18f85
+      internalID: -278359678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_219
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 143
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7792d0a4a1792224b813af8bda149847
+      internalID: 801418739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_220
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 143
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dac2655145157142bdab5fd383115a6
+      internalID: 1526377311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_221
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 143
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73a526edea187a4da9b4ca55ccf6d4c
+      internalID: -740164450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_222
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 143
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779788bfad491d24484ae96fe189c547
+      internalID: -1301324581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_223
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 143
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94e5197720c3104bb78ec1ebb5030df
+      internalID: -768076676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_224
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 143
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9040a4a75a9b0641908b85f9a8386cc
+      internalID: 1475463733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_225
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 131
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1675303852a008e4185c834d4803d963
+      internalID: 636587537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_226
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 131
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a73830175f860499cdeef7b28819bb
+      internalID: 1175218146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_227
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 131
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745b9a4abab42c547afe1ff7095f81f7
+      internalID: 322990203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_228
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 131
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d9eebb959ff554494abaf325b3a304
+      internalID: 412817499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_229
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 131
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd28e634ef448cf41844d64c566e4c0c
+      internalID: 1405089433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_230
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 131
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a0c815a2145f24f9e49c521ec274a1
+      internalID: -650654283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_231
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 131
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050633278eb8649499ba896a57302047
+      internalID: 1659454200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_232
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 131
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03663d026e9bfe44e8fa790b804df29e
+      internalID: -699646248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_233
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 131
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27812fad7b2124641baffce042129026
+      internalID: 1550202732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_234
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 127
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd9c47fc99877246bd54cc3eaca7429
+      internalID: -796271970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_235
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 75
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fca92644f0a11146900727e4cb84893
+      internalID: -1384941309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_236
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cef1b915cf751246b93b3e44b47cbf1
+      internalID: -885170066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_237
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 75
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93813e75cef00ef469d9384eecdb5d7c
+      internalID: -1832865847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_238
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 75
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5367d7e282f144d898353ce1e03f99
+      internalID: -1854745485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_239
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 75
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823a9ee7d58c45041a1cf94502d356bc
+      internalID: 535219088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_240
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 75
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac86bb5f5705ad84f9d1e0d27da80124
+      internalID: 482795795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_241
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 75
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9820df1a512fd4d82cdf1a97541a92
+      internalID: -587017447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_242
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 75
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef655f3cf9897e48a95687167488198
+      internalID: -1973833640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_243
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 75
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f81d76a52027444c929d3fdaff6350a
+      internalID: 535620142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_244
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 75
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64ca8801a0180147ae3d075b249923c
+      internalID: -1539366730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_245
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 75
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66de83a211418b640abb907a8bad740d
+      internalID: -479502641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_246
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 75
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d239ef898cf8b944b4cdb5eca4ebdf2
+      internalID: 353831291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_247
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 79
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8f6d1e52a40864ea99c3115481395e
+      internalID: 262119551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_248
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 78
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b44f3aeea592a24eb6f86bea4597c8c
+      internalID: 420669759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_249
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 79
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a32bea0a4a3deb4a905899bb0d0d7bf
+      internalID: -1903307590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_250
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 75
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e73f4c1f9812e4581faf0775b9c267
+      internalID: 1254801504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_251
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 75
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c51064c115de342bffd1b409423123
+      internalID: 1830845031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_252
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 75
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03668ef0f87b78c44b90193707c039ab
+      internalID: -1276410901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_253
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 75
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe100d01a50f7241827571210433325
+      internalID: 2110426844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_254
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 75
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a153dbf01af8d34e8f4fb7351cd5b20
+      internalID: 902203563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_255
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 75
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3c9693e090ea148a88350455332ce9
+      internalID: -160948985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_256
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 75
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72adc1ea84a653b48a3643fd92edd3d9
+      internalID: 755414554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_257
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 75
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26c55570789ad243b6f8c65eb886f68
+      internalID: -1498813216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_258
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 75
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fedd66dce97cf4c8063032c2c10ff7
+      internalID: -1037757439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_259
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 75
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472c3b212b43c34287f430fc7a373b0
+      internalID: -233357020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_260
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 75
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19cc9aeadac9f24f9c6ed2ccb03ae98
+      internalID: -2055413077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_261
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 19
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605d0b20a6c2dd04d86ba27ded1bda5d
+      internalID: 1433272539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_262
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 19
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1787afea4c7984d9f33b8de43a957e
+      internalID: 536340931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_263
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 19
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8c5a42e867a0a45b1dc6f2f77c6892
+      internalID: -641872683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_264
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 19
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0278537d2264892489fd421faff96371
+      internalID: -1083811616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_265
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 19
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5526256e9e9f4f4cac01a5ec305aa65
+      internalID: 159668434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_266
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 19
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dec9b6bc732bd448aafc7a0bb1dc5ac
+      internalID: 709501323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_267
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 19
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f997d32c4d30d47bfee3474de12b32
+      internalID: -1186427672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_268
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 19
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb02221e8004ec4ebce0aeee1f607b6
+      internalID: -1979983722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_269
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 19
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae86103936de2448bc7d4dbaa5123b6
+      internalID: 472616563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_270
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 19
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f400544e51405c4f85ae017e97da3ce
+      internalID: 567556706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_271
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 19
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80581f469f9c6e74cbcd86c4bc5f7c9f
+      internalID: -1798190170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_272
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 19
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55122e0622362b14d8973a4073754de4
+      internalID: 1865432741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_273
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 19
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb42582e3b879540a20d284ded3eb6c
+      internalID: -760622439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_274
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1310a376a3358144a82a4c3e22f83aac
+      internalID: 454953087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_275
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b39cdab91e1664481144c314965275
+      internalID: -1428330224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_276
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c6dbb381d386a4c9bb396cfa523a4e
+      internalID: 482387889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_277
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e18e272f6629d46bf0e10134f1b939
+      internalID: -447979772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_278
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc44fd447821e594ca1c84fc8c0a46a3
+      internalID: 1790400764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_279
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c05bd53f8397a74a8fdd19053aad404
+      internalID: 1061430127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_280
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b405465abc1b947bec742b8300f0d5
+      internalID: 1895095164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_281
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30f93ccca108d643b21cd5a488e2162
+      internalID: 1103383582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_282
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4cf0ac5b6f03240802e8015fe2655a
+      internalID: -584199302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_283
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 19
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecf41be2ff80c34d8440092fc333be2
+      internalID: -1544627448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_284
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 19
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce4284f589abf949a3d5cc9fe60d3cc
+      internalID: -449438869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SAMUS OSTRAS SHAVALIN_285
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 0
+        width: 240
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34212e059481ad4b9a1d528016bfd77
+      internalID: 536984150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SAMUS OSTRAS SHAVALIN_227: 322990203
+      SAMUS OSTRAS SHAVALIN_277: -447979772
+      SAMUS OSTRAS SHAVALIN_283: -1544627448
+      SAMUS OSTRAS SHAVALIN_73: 1169073993
+      SAMUS OSTRAS SHAVALIN_107: 2011199725
+      SAMUS OSTRAS SHAVALIN_186: 623781443
+      SAMUS OSTRAS SHAVALIN_31: -1490010756
+      SAMUS OSTRAS SHAVALIN_2: 117772169
+      SAMUS OSTRAS SHAVALIN_46: 1424076610
+      SAMUS OSTRAS SHAVALIN_171: 930153292
+      SAMUS OSTRAS SHAVALIN_263: -641872683
+      SAMUS OSTRAS SHAVALIN_184: 1048313266
+      SAMUS OSTRAS SHAVALIN_92: -2129532808
+      SAMUS OSTRAS SHAVALIN_270: 567556706
+      SAMUS OSTRAS SHAVALIN_267: -1186427672
+      SAMUS OSTRAS SHAVALIN_168: 433093740
+      SAMUS OSTRAS SHAVALIN_284: -449438869
+      SAMUS OSTRAS SHAVALIN_5: 1016937686
+      SAMUS OSTRAS SHAVALIN_50: 1710262785
+      SAMUS OSTRAS SHAVALIN_80: 860294231
+      SAMUS OSTRAS SHAVALIN_1: 1942609920
+      SAMUS OSTRAS SHAVALIN_133: -1648402595
+      SAMUS OSTRAS SHAVALIN_221: -740164450
+      SAMUS OSTRAS SHAVALIN_113: -1675379093
+      SAMUS OSTRAS SHAVALIN_232: -699646248
+      SAMUS OSTRAS SHAVALIN_138: -2064043476
+      SAMUS OSTRAS SHAVALIN_11: 1150631362
+      SAMUS OSTRAS SHAVALIN_23: 489660592
+      SAMUS OSTRAS SHAVALIN_106: -142967259
+      SAMUS OSTRAS SHAVALIN_27: 2031120176
+      SAMUS OSTRAS SHAVALIN_102: 797068327
+      SAMUS OSTRAS SHAVALIN_109: -1600139700
+      SAMUS OSTRAS SHAVALIN_198: 2035805237
+      SAMUS OSTRAS SHAVALIN_110: 1405852815
+      SAMUS OSTRAS SHAVALIN_265: 159668434
+      SAMUS OSTRAS SHAVALIN_170: 781605479
+      SAMUS OSTRAS SHAVALIN_72: 314383518
+      SAMUS OSTRAS SHAVALIN_98: 60764536
+      SAMUS OSTRAS SHAVALIN_236: -885170066
+      SAMUS OSTRAS SHAVALIN_58: 1635700989
+      SAMUS OSTRAS SHAVALIN_285: 536984150
+      SAMUS OSTRAS SHAVALIN_116: -236373510
+      SAMUS OSTRAS SHAVALIN_120: -384038634
+      SAMUS OSTRAS SHAVALIN_95: -852359558
+      SAMUS OSTRAS SHAVALIN_25: 2010464991
+      SAMUS OSTRAS SHAVALIN_222: -1301324581
+      SAMUS OSTRAS SHAVALIN_127: 2064685339
+      SAMUS OSTRAS SHAVALIN_207: 1521176590
+      SAMUS OSTRAS SHAVALIN_35: -886674014
+      SAMUS OSTRAS SHAVALIN_124: -178985776
+      SAMUS OSTRAS SHAVALIN_248: 420669759
+      SAMUS OSTRAS SHAVALIN_51: -1870790916
+      SAMUS OSTRAS SHAVALIN_252: -1276410901
+      SAMUS OSTRAS SHAVALIN_185: -2043614939
+      SAMUS OSTRAS SHAVALIN_119: -703868345
+      SAMUS OSTRAS SHAVALIN_204: 736078573
+      SAMUS OSTRAS SHAVALIN_230: -650654283
+      SAMUS OSTRAS SHAVALIN_0: 1112858017
+      SAMUS OSTRAS SHAVALIN_142: 407040446
+      SAMUS OSTRAS SHAVALIN_253: 2110426844
+      SAMUS OSTRAS SHAVALIN_238: -1854745485
+      SAMUS OSTRAS SHAVALIN_52: 84313392
+      SAMUS OSTRAS SHAVALIN_60: 1516255493
+      SAMUS OSTRAS SHAVALIN_123: 42844033
+      SAMUS OSTRAS SHAVALIN_97: -1403309064
+      SAMUS OSTRAS SHAVALIN_160: -899227778
+      SAMUS OSTRAS SHAVALIN_54: 543996337
+      SAMUS OSTRAS SHAVALIN_10: 783506116
+      SAMUS OSTRAS SHAVALIN_166: -1428788427
+      SAMUS OSTRAS SHAVALIN_134: 2058653387
+      SAMUS OSTRAS SHAVALIN_254: 902203563
+      SAMUS OSTRAS SHAVALIN_274: 454953087
+      SAMUS OSTRAS SHAVALIN_282: -584199302
+      SAMUS OSTRAS SHAVALIN_64: -973729552
+      SAMUS OSTRAS SHAVALIN_29: -1021806773
+      SAMUS OSTRAS SHAVALIN_68: 499358910
+      SAMUS OSTRAS SHAVALIN_211: 52873902
+      SAMUS OSTRAS SHAVALIN_164: -344525777
+      SAMUS OSTRAS SHAVALIN_180: -1525959902
+      SAMUS OSTRAS SHAVALIN_203: 1623317878
+      SAMUS OSTRAS SHAVALIN_239: 535219088
+      SAMUS OSTRAS SHAVALIN_223: -768076676
+      SAMUS OSTRAS SHAVALIN_250: 1254801504
+      SAMUS OSTRAS SHAVALIN_104: 453131874
+      SAMUS OSTRAS SHAVALIN_145: -2016364920
+      SAMUS OSTRAS SHAVALIN_272: 1865432741
+      SAMUS OSTRAS SHAVALIN_156: 1438427345
+      SAMUS OSTRAS SHAVALIN_61: -1731784247
+      SAMUS OSTRAS SHAVALIN_137: 1851337940
+      SAMUS OSTRAS SHAVALIN_167: 328871835
+      SAMUS OSTRAS SHAVALIN_218: -278359678
+      SAMUS OSTRAS SHAVALIN_143: 1883073086
+      SAMUS OSTRAS SHAVALIN_191: -1034325211
+      SAMUS OSTRAS SHAVALIN_41: 31431186
+      SAMUS OSTRAS SHAVALIN_197: -2063486497
+      SAMUS OSTRAS SHAVALIN_59: 1763639725
+      SAMUS OSTRAS SHAVALIN_196: -1494822492
+      SAMUS OSTRAS SHAVALIN_12: 1298494131
+      SAMUS OSTRAS SHAVALIN_85: -1423448835
+      SAMUS OSTRAS SHAVALIN_76: 421481004
+      SAMUS OSTRAS SHAVALIN_28: -2131917623
+      SAMUS OSTRAS SHAVALIN_273: -760622439
+      SAMUS OSTRAS SHAVALIN_65: 799000768
+      SAMUS OSTRAS SHAVALIN_147: -2002772787
+      SAMUS OSTRAS SHAVALIN_99: -709813084
+      SAMUS OSTRAS SHAVALIN_24: -1940704031
+      SAMUS OSTRAS SHAVALIN_159: 1730530079
+      SAMUS OSTRAS SHAVALIN_206: 645293003
+      SAMUS OSTRAS SHAVALIN_262: 536340931
+      SAMUS OSTRAS SHAVALIN_247: 262119551
+      SAMUS OSTRAS SHAVALIN_216: -1080049345
+      SAMUS OSTRAS SHAVALIN_202: -578052594
+      SAMUS OSTRAS SHAVALIN_161: 817065160
+      SAMUS OSTRAS SHAVALIN_245: -479502641
+      SAMUS OSTRAS SHAVALIN_103: -758869898
+      SAMUS OSTRAS SHAVALIN_260: -2055413077
+      SAMUS OSTRAS SHAVALIN_128: -921102588
+      SAMUS OSTRAS SHAVALIN_114: 474900072
+      SAMUS OSTRAS SHAVALIN_144: 705608264
+      SAMUS OSTRAS SHAVALIN_131: 1835445919
+      SAMUS OSTRAS SHAVALIN_129: -756732443
+      SAMUS OSTRAS SHAVALIN_22: 1573137656
+      SAMUS OSTRAS SHAVALIN_43: -1272603368
+      SAMUS OSTRAS SHAVALIN_83: -525024347
+      SAMUS OSTRAS SHAVALIN_155: -4233119
+      SAMUS OSTRAS SHAVALIN_148: -1735003902
+      SAMUS OSTRAS SHAVALIN_157: 1741849318
+      SAMUS OSTRAS SHAVALIN_228: 412817499
+      SAMUS OSTRAS SHAVALIN_173: -1275216418
+      SAMUS OSTRAS SHAVALIN_182: -2067286610
+      SAMUS OSTRAS SHAVALIN_48: 368152303
+      SAMUS OSTRAS SHAVALIN_84: -1741945761
+      SAMUS OSTRAS SHAVALIN_39: -1401417896
+      SAMUS OSTRAS SHAVALIN_210: 450871741
+      SAMUS OSTRAS SHAVALIN_213: 1428231246
+      SAMUS OSTRAS SHAVALIN_275: -1428330224
+      SAMUS OSTRAS SHAVALIN_115: -944419696
+      SAMUS OSTRAS SHAVALIN_118: 1221177739
+      SAMUS OSTRAS SHAVALIN_255: -160948985
+      SAMUS OSTRAS SHAVALIN_32: -384761507
+      SAMUS OSTRAS SHAVALIN_150: 1823925345
+      SAMUS OSTRAS SHAVALIN_208: 1597069338
+      SAMUS OSTRAS SHAVALIN_244: -1539366730
+      SAMUS OSTRAS SHAVALIN_163: -1740964774
+      SAMUS OSTRAS SHAVALIN_151: -1564437950
+      SAMUS OSTRAS SHAVALIN_19: -822071836
+      SAMUS OSTRAS SHAVALIN_246: 353831291
+      SAMUS OSTRAS SHAVALIN_16: 534228561
+      SAMUS OSTRAS SHAVALIN_278: 1790400764
+      SAMUS OSTRAS SHAVALIN_280: 1895095164
+      SAMUS OSTRAS SHAVALIN_86: -326585174
+      SAMUS OSTRAS SHAVALIN_26: -1817433586
+      SAMUS OSTRAS SHAVALIN_269: 472616563
+      SAMUS OSTRAS SHAVALIN_108: 1404964743
+      SAMUS OSTRAS SHAVALIN_125: 1467858874
+      SAMUS OSTRAS SHAVALIN_100: -1624579907
+      SAMUS OSTRAS SHAVALIN_233: 1550202732
+      SAMUS OSTRAS SHAVALIN_122: 264931594
+      SAMUS OSTRAS SHAVALIN_268: -1979983722
+      SAMUS OSTRAS SHAVALIN_135: -429880034
+      SAMUS OSTRAS SHAVALIN_220: 1526377311
+      SAMUS OSTRAS SHAVALIN_241: -587017447
+      SAMUS OSTRAS SHAVALIN_258: -1037757439
+      SAMUS OSTRAS SHAVALIN_42: 680790123
+      SAMUS OSTRAS SHAVALIN_88: 118263634
+      SAMUS OSTRAS SHAVALIN_45: -472114131
+      SAMUS OSTRAS SHAVALIN_261: 1433272539
+      SAMUS OSTRAS SHAVALIN_139: 2067667533
+      SAMUS OSTRAS SHAVALIN_259: -233357020
+      SAMUS OSTRAS SHAVALIN_15: 572327502
+      SAMUS OSTRAS SHAVALIN_40: -48366698
+      SAMUS OSTRAS SHAVALIN_7: -179039102
+      SAMUS OSTRAS SHAVALIN_91: -25169891
+      SAMUS OSTRAS SHAVALIN_179: -487139348
+      SAMUS OSTRAS SHAVALIN_36: -1312001315
+      SAMUS OSTRAS SHAVALIN_154: 2068168201
+      SAMUS OSTRAS SHAVALIN_81: -1342244288
+      SAMUS OSTRAS SHAVALIN_17: -1652552252
+      SAMUS OSTRAS SHAVALIN_237: -1832865847
+      SAMUS OSTRAS SHAVALIN_55: -532208521
+      SAMUS OSTRAS SHAVALIN_37: -1475938578
+      SAMUS OSTRAS SHAVALIN_231: 1659454200
+      SAMUS OSTRAS SHAVALIN_96: 2010677370
+      SAMUS OSTRAS SHAVALIN_234: -796271970
+      SAMUS OSTRAS SHAVALIN_89: -1211446821
+      SAMUS OSTRAS SHAVALIN_20: -868254958
+      SAMUS OSTRAS SHAVALIN_152: -761930913
+      SAMUS OSTRAS SHAVALIN_93: -258098542
+      SAMUS OSTRAS SHAVALIN_66: 1577346559
+      SAMUS OSTRAS SHAVALIN_189: 822085027
+      SAMUS OSTRAS SHAVALIN_229: 1405089433
+      SAMUS OSTRAS SHAVALIN_18: 1897575326
+      SAMUS OSTRAS SHAVALIN_249: -1903307590
+      SAMUS OSTRAS SHAVALIN_190: -1231977883
+      SAMUS OSTRAS SHAVALIN_21: 740211882
+      SAMUS OSTRAS SHAVALIN_62: 1396312965
+      SAMUS OSTRAS SHAVALIN_71: 895588610
+      SAMUS OSTRAS SHAVALIN_111: 1565389625
+      SAMUS OSTRAS SHAVALIN_176: -1688853286
+      SAMUS OSTRAS SHAVALIN_201: -1360993617
+      SAMUS OSTRAS SHAVALIN_226: 1175218146
+      SAMUS OSTRAS SHAVALIN_192: 1311253112
+      SAMUS OSTRAS SHAVALIN_74: 1548224755
+      SAMUS OSTRAS SHAVALIN_175: -1392478459
+      SAMUS OSTRAS SHAVALIN_205: -1839174057
+      SAMUS OSTRAS SHAVALIN_225: 636587537
+      SAMUS OSTRAS SHAVALIN_199: -1704321416
+      SAMUS OSTRAS SHAVALIN_126: 1984810717
+      SAMUS OSTRAS SHAVALIN_174: -271405253
+      SAMUS OSTRAS SHAVALIN_217: -2132878973
+      SAMUS OSTRAS SHAVALIN_172: 1380714954
+      SAMUS OSTRAS SHAVALIN_6: -418348927
+      SAMUS OSTRAS SHAVALIN_67: 708928572
+      SAMUS OSTRAS SHAVALIN_101: 1615108781
+      SAMUS OSTRAS SHAVALIN_121: -487499072
+      SAMUS OSTRAS SHAVALIN_193: -2061410681
+      SAMUS OSTRAS SHAVALIN_112: 1703652621
+      SAMUS OSTRAS SHAVALIN_209: 1551960186
+      SAMUS OSTRAS SHAVALIN_105: -375970674
+      SAMUS OSTRAS SHAVALIN_146: -1962393117
+      SAMUS OSTRAS SHAVALIN_264: -1083811616
+      SAMUS OSTRAS SHAVALIN_141: 1253951622
+      SAMUS OSTRAS SHAVALIN_162: 1455961490
+      SAMUS OSTRAS SHAVALIN_94: -1680587429
+      SAMUS OSTRAS SHAVALIN_195: -1885634800
+      SAMUS OSTRAS SHAVALIN_132: 636781229
+      SAMUS OSTRAS SHAVALIN_69: 816740680
+      SAMUS OSTRAS SHAVALIN_165: -626345576
+      SAMUS OSTRAS SHAVALIN_169: 1281921408
+      SAMUS OSTRAS SHAVALIN_149: -981378109
+      SAMUS OSTRAS SHAVALIN_251: 1830845031
+      SAMUS OSTRAS SHAVALIN_224: 1475463733
+      SAMUS OSTRAS SHAVALIN_4: 1934237744
+      SAMUS OSTRAS SHAVALIN_117: 1628349138
+      SAMUS OSTRAS SHAVALIN_13: 1375112289
+      SAMUS OSTRAS SHAVALIN_194: 261652974
+      SAMUS OSTRAS SHAVALIN_34: -676945721
+      SAMUS OSTRAS SHAVALIN_266: 709501323
+      SAMUS OSTRAS SHAVALIN_215: -62662308
+      SAMUS OSTRAS SHAVALIN_200: -849869992
+      SAMUS OSTRAS SHAVALIN_279: 1061430127
+      SAMUS OSTRAS SHAVALIN_281: 1103383582
+      SAMUS OSTRAS SHAVALIN_140: -192132829
+      SAMUS OSTRAS SHAVALIN_9: 73529459
+      SAMUS OSTRAS SHAVALIN_242: -1973833640
+      SAMUS OSTRAS SHAVALIN_235: -1384941309
+      SAMUS OSTRAS SHAVALIN_75: -1676684952
+      SAMUS OSTRAS SHAVALIN_219: 801418739
+      SAMUS OSTRAS SHAVALIN_87: -1031576625
+      SAMUS OSTRAS SHAVALIN_256: 755414554
+      SAMUS OSTRAS SHAVALIN_178: 25523012
+      SAMUS OSTRAS SHAVALIN_53: 740248727
+      SAMUS OSTRAS SHAVALIN_276: 482387889
+      SAMUS OSTRAS SHAVALIN_188: 884357377
+      SAMUS OSTRAS SHAVALIN_47: 1866408505
+      SAMUS OSTRAS SHAVALIN_271: -1798190170
+      SAMUS OSTRAS SHAVALIN_212: -1754597437
+      SAMUS OSTRAS SHAVALIN_79: 56387460
+      SAMUS OSTRAS SHAVALIN_77: -531392426
+      SAMUS OSTRAS SHAVALIN_8: 533382052
+      SAMUS OSTRAS SHAVALIN_49: 643821858
+      SAMUS OSTRAS SHAVALIN_136: -186572366
+      SAMUS OSTRAS SHAVALIN_158: 1409386769
+      SAMUS OSTRAS SHAVALIN_183: -37929894
+      SAMUS OSTRAS SHAVALIN_14: 1754151870
+      SAMUS OSTRAS SHAVALIN_130: -514723380
+      SAMUS OSTRAS SHAVALIN_78: 378536097
+      SAMUS OSTRAS SHAVALIN_187: -1315059988
+      SAMUS OSTRAS SHAVALIN_33: 1614558673
+      SAMUS OSTRAS SHAVALIN_181: 1042809381
+      SAMUS OSTRAS SHAVALIN_214: -1504815802
+      SAMUS OSTRAS SHAVALIN_3: -1648712072
+      SAMUS OSTRAS SHAVALIN_243: 535620142
+      SAMUS OSTRAS SHAVALIN_90: 1234452932
+      SAMUS OSTRAS SHAVALIN_257: -1498813216
+      SAMUS OSTRAS SHAVALIN_177: -1181673388
+      SAMUS OSTRAS SHAVALIN_82: 1850308197
+      SAMUS OSTRAS SHAVALIN_153: -260792071
+      SAMUS OSTRAS SHAVALIN_57: -1171281101
+      SAMUS OSTRAS SHAVALIN_63: -1468539453
+      SAMUS OSTRAS SHAVALIN_56: 2034588182
+      SAMUS OSTRAS SHAVALIN_70: 1303802073
+      SAMUS OSTRAS SHAVALIN_44: 253738974
+      SAMUS OSTRAS SHAVALIN_38: 1083250425
+      SAMUS OSTRAS SHAVALIN_30: 1183878374
+      SAMUS OSTRAS SHAVALIN_240: 482795795
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

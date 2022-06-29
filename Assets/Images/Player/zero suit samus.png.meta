@@ -1,0 +1,7780 @@
+fileFormatVersion: 2
+guid: 4c7f506e9cc956241bdc738dad2a9581
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zero suit samus_0
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1152
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bd5599e36fb384fb67f55964b59c4e
+      internalID: 1578244446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1150
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fa89cfd216eae43878664ac1ee4f77
+      internalID: -438638296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1147
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6cec7a50ecd094790e49cee979d6bc
+      internalID: 1743657310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1152
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee7fb05917442b4b8437c3d60bb657c
+      internalID: -527226810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1151
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7127ada8ee2e809499b61bfaf32d785e
+      internalID: 75349639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1150
+        width: 88
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1397951a1d86f2743978dfa284d9e6e0
+      internalID: -1502063829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1149
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11be1175fd9f1d9469213e9e5772f0a7
+      internalID: -1352128791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_7
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1153
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32872e681512646448a411439cd01f30
+      internalID: 539114523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1153
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b134681b5a1b8a64aafa2b9835ee8285
+      internalID: 1762951915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_9
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1155
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2bbaefea292614c97aa7b636ca16ac
+      internalID: -256991047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1157
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf2644386a237d479c2582778e1266e
+      internalID: 307030628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_11
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1157
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a155774fc7556941a4b2887b719665c
+      internalID: -320075167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_12
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1157
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3c97e4463962c49a042dbe647acd49
+      internalID: -841661152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_13
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1098
+        width: 34
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de679df10c2c647bc9849a86633d7a
+      internalID: 1351161217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_14
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1166
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f8185e70820c84ba54418dd39fa47c
+      internalID: 845245026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_15
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1166
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079fd5cbdaa911d46894a9a0a3c61f96
+      internalID: -1418571319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_16
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1168
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c063da01ff92ac8409d96ab5fad81612
+      internalID: 681961220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_17
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1166
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3194dc5431a27ea40ac60219ab935ae5
+      internalID: 194302878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_18
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1165
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e8514b888e8f24ea825f771ba6f443
+      internalID: 1602089019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_19
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1143
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0342dc7ec46189d4bab3655bfbc31d47
+      internalID: -78326716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_20
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1143
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479db66831d8a9344ae38b0e7e816987
+      internalID: -636691068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_21
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1143
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f8084caeb34f3478c9b5b7f776fca6
+      internalID: -360664137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1099
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667b8392a2736ea49b40bdd74faf12ff
+      internalID: -76089251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1095
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e643a7ff62c047b03cd5de2457b61
+      internalID: 114406739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_24
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1098
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91bf3a2fcaeb6143b93ffb429099c74
+      internalID: -248530117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1100
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f496be550021e34c935358b28fc3099
+      internalID: -972930619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_26
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1097
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fccc82d91824514781064faab04f178
+      internalID: 1479825721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1097
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d0c57d44be8764fa158648e18ae6f3
+      internalID: -994884493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1098
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3774e3a1731a33c44b91262b200b5994
+      internalID: 63883078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_29
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1095
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577fe9267d33bb342bbe835e73f61f8c
+      internalID: 884605723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_30
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1096
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c957ec0dc7d3a4ebdc4351ad7e3a20
+      internalID: 250044889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_31
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1099
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086278d0a723cd740aad61e4330fd200
+      internalID: -1456121127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_32
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1101
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3188b7cf076ba844947af51841a9698
+      internalID: 528850634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_33
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1103
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecde23ac8cbb7494ca05056f759a2a82
+      internalID: -1231851051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_34
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1105
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4923363dc29cb0a499159698406c9a74
+      internalID: 717924185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_35
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1105
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0634b30afbc597044807489f52d1f79f
+      internalID: 656453198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_36
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc85165eeccae74eb91734e4d7f20b1
+      internalID: 1836544450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_37
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1120
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f184280db36324db3f8303991cacbc
+      internalID: -2097396063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_38
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1118
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f1b6b1eea15064cb770847b5051f06
+      internalID: -1194947389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_39
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1119
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08efd732360e1c14bb60ed7f77e8a245
+      internalID: -1856726021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_40
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1117
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9de76f4d4cc1204a88989885e07daae
+      internalID: -216506592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_41
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1118
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4095ee42c8fbc2a41b1dd45aa1540b89
+      internalID: -1942619057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_42
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1098
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8560ae453e51f04aaef9053f034a067
+      internalID: -1609274495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_43
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1032
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845e6d45635f55e4b9f34ccb5d42f991
+      internalID: -1976095572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_44
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1037
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07091dbb0a44b924daa495724845fd66
+      internalID: 792975453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_45
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1034
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c453f4429d6a94140af4c01a9337cbae
+      internalID: -2039722668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_46
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1034
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18ee68ba9e9ce74d806d918615105e7
+      internalID: -1560951045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_47
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1033
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587a3e77a81498040b196895cf4196b5
+      internalID: 1401310991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_48
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1032
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81defb1192e0c1d44b1a3a74793c1fc1
+      internalID: -1065677886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_49
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1032
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca487cdad3788d4fa03b9bbb7668f82
+      internalID: 57737285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_50
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1034
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa1f1b860d73be45ac5466497e4299b
+      internalID: -707101829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_51
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1031
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d5a16ef22d3974fba96ce4fbc37cca
+      internalID: 144285220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_52
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1034
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee82d4d302c8b5649ae01c22f9a8ce0a
+      internalID: 875589428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_53
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1036
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ce300a77c1d47418a1e87837afc90e
+      internalID: -114437573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_54
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1034
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b679e7516ae2f449862c53bec277061
+      internalID: -2093065205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_55
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1037
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d111f6b4461486945a0f8b60f822bf6d
+      internalID: 1369892515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_56
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1038
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e449d2169cd804b9c817227e190c64
+      internalID: -772395521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_57
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 975
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8854ad540807a14390f971aedbded11
+      internalID: -1459434905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_58
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 973
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889387ab2cfdf224c85145990023a60b
+      internalID: 489966550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_59
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 975
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e42261ca1137141bc1f1a67ff954bc
+      internalID: -508453457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_60
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 977
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652a960c53421cb4dbfaeb86cfd17714
+      internalID: -2058439722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_61
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 976
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b421de1c3940f543b08a960930fb308
+      internalID: 1859345078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_62
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 973
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9df66b5e4f69e40bc406064381184b
+      internalID: 1693473910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_63
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 971
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f8d34c0157db34f93b19bd883b0318
+      internalID: -496873303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_64
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 971
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516edae4f65bde54690c04aa61565bea
+      internalID: 1923543206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_65
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 973
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455876d3b27ebf14a9d7791ca8eb94ed
+      internalID: -1898722961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_66
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 969
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4548bd3b36fb585499776a05a23b386f
+      internalID: 1484054352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_67
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 969
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff2355a0d6e86d44b904450cfd18ff3
+      internalID: -1701851817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_68
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 971
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73120305574c316498dadd1dcb2f06c6
+      internalID: -401275681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_69
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 973
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba399cdfc0b7265469ab8ad3c95df2bc
+      internalID: 1766724225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_70
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 972
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddaefddea28f1a47bf0bb3f993661ea
+      internalID: -235110599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_71
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 997
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6650c5fa6ec9c43859133d00f32388
+      internalID: 1596908248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_72
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 997
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592087f3cd4bbef40be7518edcdeb8c9
+      internalID: 1784100808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_73
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 997
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1360740a76e621444ab836d2a4d74518
+      internalID: -2061238860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_74
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 955
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9052a082621354eb0841a2e00c00d1
+      internalID: 540395454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_75
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 955
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3acf218485b13445bad5f75ce851aee
+      internalID: 2052616495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_76
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 955
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41cd05a76ababd4d855bbd6d177cb3d
+      internalID: 1561083149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_77
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 920
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18d4bd76039b2342b0c26123065c1a3
+      internalID: -1276600498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_78
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 924
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a792f0be2daeb948840ef571d7a5c63
+      internalID: -2059972481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_79
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 920
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1382237fbbaacb419689761ef8ee38e
+      internalID: 526356166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_80
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 922
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254626786b4dbbd49bb64f1398353b26
+      internalID: 439250264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_81
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 922
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f395d64f80b62245932d28b02656c1e
+      internalID: -1204448205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_82
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 921
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f15114fcd1f175499fbaa448cf32510
+      internalID: 1051089257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_83
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 923
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daa3717179061749a34eed94ee717bb
+      internalID: 274184648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_84
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 921
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c73a49124cb25d428e3f9879edf99b9
+      internalID: 67309256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_85
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 922
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c968f211f7f76d4da499b819aa055fa
+      internalID: -191077419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_86
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 923
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c459c8fc959afe48aea696734ca9fc1
+      internalID: 2140941741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_87
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 922
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3982282ac63e39843992330c181579b6
+      internalID: 943991005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_88
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 920
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d089a71c21aee745b725b5197e84d3c
+      internalID: -1232470262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_89
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 925
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d709402fc9042134ebdf2e3543630f8d
+      internalID: -1339871481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_90
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 922
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a8c9bc93705144a822fdf2bbba3419
+      internalID: -1273140191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_91
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 872
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f0473999015ff44a5053318b8fd5eb
+      internalID: -63753520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_92
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 870
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a9106ddd3927f4d8e9ec6e853858a2
+      internalID: -2094411130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_93
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 871
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfafbda1aebb7aa4d95373360f14cf3b
+      internalID: -868025486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_94
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 871
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc734d5567a67e4baa0ed5b5d035e2e
+      internalID: 303490575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_95
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 874
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9831aa9ecbeffec48a2ef1fc0eb9b8f4
+      internalID: 1906128153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_96
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 869
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1dfb3be3466db49bc4c30549e3dfd7
+      internalID: -1469309554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_97
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 871
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba88e5f36eeb0874894019f7b8921276
+      internalID: 207798850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_98
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 872
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dc6faa18d1302488d4d8ed2333f6d6
+      internalID: 1456051336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_99
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 871
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b027b4a39ae484cbd977f0147aa1da
+      internalID: -1358232906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_100
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 874
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e79c2d1be0a0845a4d99092677f44d
+      internalID: 1124884677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_101
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 871
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccaffce0e033bd448357cbb3c4ffcc5
+      internalID: 1315476600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_102
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 875
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b8c3ca77cdaca47bbf60b9409203df
+      internalID: 416891855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_103
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 873
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da694941e6e8bee4cbe1c34e66e3c734
+      internalID: 1500828925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_104
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 871
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ef19537be454e4a8f88eee0b9e9eaf
+      internalID: 1813457448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_105
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 812
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21afe0f73d44e74aa67f8697b3a52c7
+      internalID: 174431176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_106
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 840
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6515c91208d7934ebc88f1297fb94ce
+      internalID: -444439410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_107
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 814
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35ba025b220cbe429a0f55ae163314a
+      internalID: 728505269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_108
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 812
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4962bea1f6e0924393ccb9bd5885a64
+      internalID: -1330664971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_109
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 815
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e036addd7a464f4f8e7b90816f982e8
+      internalID: 1863818311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_110
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 813
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d90e0e9f16407469c455712bff36a3
+      internalID: -924919662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_111
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 814
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1ad2ca715059d4ca1eb46dff592314
+      internalID: 483710169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_112
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 804
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1141a438c004fc4299caafa419d78df
+      internalID: 1148935962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_113
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 808
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b32a4fdec0dc2946af816e9075410bf
+      internalID: -452743519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_114
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 806
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e079e61aaa4c5478a188f54819f126
+      internalID: 426481908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_115
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 808
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44420a00870031f489ccde851f765263
+      internalID: 687515333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_116
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 806
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3764b2e383db0e40b2a3f1f8f91a960
+      internalID: -1071925068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_117
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 766
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0371d149f124c0143b4f61cbbee21db0
+      internalID: 2125408443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_118
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 808
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85804990dfe753e4694f203693ae7fed
+      internalID: -1091135662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_119
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 808
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8a084b51d7ec54b98d13c66e0c2e26
+      internalID: 2000477350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_120
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 765
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd91d3511a5cf847a867f791241cec2
+      internalID: -1331486760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_121
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 793
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7e052550c6cc64f85c046f119acd56
+      internalID: -1350563714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_122
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 739
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f0b4ed2902d124f8dd69e30ecdec5a
+      internalID: -1216255065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_123
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 737
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223f52ac19be9814b92100ff7de5a531
+      internalID: -1549721997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_124
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 734
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8eaca29efa1f44e9e0483f23de87c7
+      internalID: -469237661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_125
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 730
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3cf84410fe9c44f8319eda18667279
+      internalID: -938419800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_126
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 732
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b627eecd847b24c8fc533cb6f4f17f
+      internalID: -1409355369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_127
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 734
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ee3752748c6b94080edb6d0331d98f
+      internalID: -1805037525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_128
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 730
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc47617a0634de042bcd588cfd5bc172
+      internalID: -865305150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_129
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 730
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc0c8a9072c401438b3bdeaa32ada61
+      internalID: 1218661025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_130
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 732
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f9c2e7a8bef124fb02d4451ec1abea
+      internalID: 1734279699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_131
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 739
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1c314d28122e94da4565d98ce2b566
+      internalID: 1634357631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_132
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 739
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c0ea6d58effdc4daa1450a95993883
+      internalID: -1175196597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_133
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 736
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a54808207b9ff046baf8648effe481c
+      internalID: 606960808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_134
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 735
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2786c91e2e9b0d442babdd49d4b586fe
+      internalID: -929905089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_135
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 738
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfcb6965302a8245b536e2f3aa02dc0
+      internalID: -113825221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_136
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 742
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0c3511e3f5b14439b641074d9cf7f1
+      internalID: 514991073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_137
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 738
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7ad9a47c08a644d89fb35ca77b8f70
+      internalID: -1042377934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_138
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 666
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a37779f5964fb3409a2254faa69be98
+      internalID: -608930945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_139
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 670
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35865c7582986f84787336ce322015df
+      internalID: 258834727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_140
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 671
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c91ec4ae82a484da6df8f8116b477b
+      internalID: 20605846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_141
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 668
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7311cfa62066bb645ae0ec5e18306f99
+      internalID: -1982964271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_142
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 669
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0cc10247535e243b519b898e95b5ae
+      internalID: 11021416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_143
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 666
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2134cbeb746b44d85597c975092891
+      internalID: 561196845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_144
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 664
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b9bce8312ff18419981e16947ad4a5
+      internalID: 378522138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_145
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 298
+        width: 318
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b923f9d38e8cfe409b7e02591731815
+      internalID: -2009812606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_146
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 672
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca416a8523819340ade0b36b4260f54
+      internalID: 2066162299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_147
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 670
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4566d88a59f975d4bb25cc6f98e5c7e6
+      internalID: -1561369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_148
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 672
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9beb1bce6a3faa48b6ccc9f36d22d35
+      internalID: -904000429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_149
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 672
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd38d095727b4bb479df148840c5f87e
+      internalID: 1127528636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_150
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 675
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8effa7bfc1dc494439e7e66c463d98e5
+      internalID: -1066730353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_151
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 674
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fefc7692b074ef40a47e664700b4c3b
+      internalID: 905545096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_152
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 609
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f3cf096ce5be7429573e870609929f
+      internalID: 1503999623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_153
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 613
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be0dcb4643e0b847a00abda74cc5f17
+      internalID: 1453923519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_154
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 612
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db86b419163b04a4c8f010c1ec3e0887
+      internalID: 453233482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_155
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 618
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3da6f4633c58c544b08dbfc96e0ff8d
+      internalID: 1385381495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_156
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 615
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c3b541cf515b241aaf10a544b9b2d1
+      internalID: 590976021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_157
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 614
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc32fd42313cd6458ff7674caf448c2
+      internalID: -1830338345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_158
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 617
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dafa7b7017fdec45b8f8f661be481b6
+      internalID: 755243827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_159
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 617
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f721b39b5b80fd04f8539f2bdf08f953
+      internalID: -418306960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_160
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 619
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c61a73ac0a3c1489f85d412f79ea01
+      internalID: -769485700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_161
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 619
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7783509f1859ebf48bdaafacb03a628e
+      internalID: 866357753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_162
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 619
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72682b0bace6cb343992dff659de358a
+      internalID: -1691330173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_163
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 620
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778dc33188e87b74d8fcc1cdfb6d00aa
+      internalID: 849589405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_164
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 621
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1bf72c19d67f44cbdbf297b266579e
+      internalID: -1753735474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_165
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 524
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0203508b34eba80439644d5370fcbc2a
+      internalID: 117365123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_166
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 555
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cddadd5a8326d439b911065708e7f3
+      internalID: 1041775102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_167
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 556
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f85e3fd807a4f479315bba47ca6ac3
+      internalID: -473944501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_168
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 560
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2708bbb53da7d984d98150b3473bf9b8
+      internalID: 1080494860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_169
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 560
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6a670be8a682d4bbc0eecd756fbce5
+      internalID: 654204735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_170
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 561
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a82372c373a2e4eb1b76fc2a0f6291
+      internalID: 247062464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_171
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 565
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd45ef2928081344bc9e952cf4683f4
+      internalID: 108545633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_172
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 566
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2347cc13d3b843948b370117797ac83a
+      internalID: -383303744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_173
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 557
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d5c0aa6e770a04db0c5e6d21124425
+      internalID: -816438674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_174
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 570
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974612ecfe7b6dd4989145be8800b8b5
+      internalID: 2086890439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_175
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 568
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c7c6e9f1c94f54e9ba56af4f5023a6
+      internalID: 459277868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_176
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 570
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ad787819312814796a5cad26523946
+      internalID: 1422003376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_177
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 566
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42705836d435416419b518009438c4cf
+      internalID: -12142963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_178
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 520
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e1db6229ff8364b881079ece93da28
+      internalID: 1070894658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db0b204e768ebd42b63b18b710de4f4
+      internalID: -2089031589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_180
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 547
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8346d1abe24eba441b00e745215fd3a8
+      internalID: -921621231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_181
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 514
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1faad65324e8543bfca42ebcfb0dbd
+      internalID: -709612780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_182
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 516
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2487f5be0e890840ad32ebdbc53b960
+      internalID: 1515831476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_183
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 518
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9f9be15c6c7c0449eef66784660022
+      internalID: -465299888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_184
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 515
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6ed159b39736b48b93a56bc778c5fd
+      internalID: 1387173349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_185
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 504
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019c807e1a48cc04bb560889adfb4800
+      internalID: 1121215252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_186
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 502
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea86313dba990c40a1fa5c86d171a5c
+      internalID: -805243126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_187
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 508
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b155bf3019d9b4e9215941fa5808c8
+      internalID: -653033966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_188
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 507
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab23d7fe915b6cd4c9f5e13da25d68aa
+      internalID: -292865923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_189
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 505
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e0912832885a44a9ac03c7c8bd46b0
+      internalID: -1216603823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_190
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 507
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a22d20bbd040544b8f76a14f1e3249
+      internalID: -1026086114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_191
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 515
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b7a02142d2c0847b734bafbf58bc3f
+      internalID: -925160428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_192
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 514
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bde2fc253f7f3f488bacfde80c7399a
+      internalID: 201892953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_193
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 449
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eda942242c4d4148bd2447370f8ad19
+      internalID: 1648994630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_194
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 453
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff1597f6e40f754184d91d43451b309
+      internalID: -456319332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_195
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 457
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1950c082370a24b8197a770ec6af51
+      internalID: -1896772401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_196
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 454
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147fbf63672d9824abb2208420f478c6
+      internalID: -1024030973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_197
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 458
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a848d2c35bd5c594e83c8f5d0bf0d08b
+      internalID: 1170105265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_198
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 467
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d6f2c5065c0344f8cb67a12c99ed13
+      internalID: -1367334989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_199
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 469
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f70d25319d74848b8cb488b5e0a52c
+      internalID: 879982587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_200
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 465
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8ba6926d700de48a39d14bb745449f
+      internalID: -170443436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_201
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 467
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e3f103825d04447a8966e7b97c5e23
+      internalID: 1846641497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_202
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 400
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ad09459236bcb4a9bed39c4436285c
+      internalID: -1291307144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_203
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 402
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66791aac25338df499842c277809688e
+      internalID: 911912150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_204
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 402
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f653dc357cba141805ccc3336260fc
+      internalID: -2052256359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_205
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 404
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2774841b25f0914cbc748a69a35c25b
+      internalID: 1200164397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_206
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 400
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edce02664cce1d24f98da8210fa6904d
+      internalID: -1466874319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_207
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 401
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c2b24e9aaf3934eaf4500a2d2ff2de
+      internalID: -1217125049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_208
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 401
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219967557fbebd442ab057897963e93d
+      internalID: -771404920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_209
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 403
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff3498df43be4b438598dfb0ee40d47
+      internalID: 1649289296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_210
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 402
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1dce7c83ab8ae4cab025ef426ee418
+      internalID: 1873407988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_211
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 402
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef48594cc4bff2e4e9bf74b5ddb2d7b0
+      internalID: -70952751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_212
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 402
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771c70ac12ffa7c4299ec43a3a01566d
+      internalID: 1455180499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_213
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 403
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a33ae55fbe4bdf498eed84e66723da4
+      internalID: 726169033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_214
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 404
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d415f76dee552e4da6b35878b6c174d
+      internalID: 1179860875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_215
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 358
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa78f6bd5615a44abf0640747f404b2
+      internalID: 503315683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_216
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 355
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73e80be51e92134bb4ad66bc12eb1a2
+      internalID: 961113639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_217
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 354
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e16b4b05290d147b5910b5a49105cd
+      internalID: -1495945297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_218
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 354
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33638165470ab5a44932afc8b519e51d
+      internalID: 1334508332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_219
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 354
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa843da00b9ee5c419405d1903943afc
+      internalID: 481607518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_220
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 350
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fccede6374e4a2428f85908ffc2da49
+      internalID: -1068342073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_221
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 348
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aa2ffe377df7a43b10c42b5c496f9d
+      internalID: 1024037415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_222
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 353
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f399ccaff80314f9565872813f9027
+      internalID: -2102781406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_223
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 351
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75da8995e1144bd4a907a219c4a9997f
+      internalID: -994088797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_224
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 353
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d524bc3a52e9a84ab76bca915a0313b
+      internalID: 949457747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_225
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 351
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44fa4322250b5645981b9ed5ca88f26
+      internalID: -577944488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_226
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 354
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5197d2c80e73af5438a881de49b292eb
+      internalID: 1646089778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_227
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 355
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91882057bfa59d24c998c1eacfc01f8b
+      internalID: -1077287538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_228
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 354
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3d6c255c79e7f47b40e33fb10b4a27
+      internalID: 948984755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_229
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 304
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8752add05a581445b1ac619f0f545dd
+      internalID: 719238812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_230
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 305
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d979169e597275248b9056bf61ffb536
+      internalID: -1037895838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_231
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 301
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71750eaac02a224bab4463b82c9373a
+      internalID: 1001978170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_232
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 304
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bba83657be0864fbc2e0786d406cd5
+      internalID: -1143449822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_233
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 299
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9623dbbb78c1384429904e43b679f221
+      internalID: -562537421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_234
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 300
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9999b33e886204295193a9c5a53b2b
+      internalID: 660522271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_235
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 296
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419d546a66854a845a7681a0a8a6ee46
+      internalID: 2030611929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_236
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 296
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7b5d1b30eab4549b4f40b8c1a508a5
+      internalID: -1755750568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_237
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 296
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b10ef693bc20b64094e3db26a3bdbfd
+      internalID: 2058447961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_238
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 295
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90483010ea046314db83ae46d2a36cf9
+      internalID: -628814057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_239
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 295
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccc57d8884c84c408eea4c149524d50
+      internalID: -2125433420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_240
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 294
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec81339ddc283c45b1c00c516a7998d
+      internalID: -872107110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_241
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 297
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441414c74cf10e74b903925a2737493c
+      internalID: -1629829731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_242
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 296
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8a9112b548f6f4182a8a99b0ff7c68
+      internalID: 1677756648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_243
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 296
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa6167e4d8ad184282c538ec1c1d505
+      internalID: -1847598936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_244
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 298
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d425c32be7146d340b510ca3b8f255d8
+      internalID: 1534715988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_245
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 298
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f417b13033a761e40acd18d0c22b37a8
+      internalID: 146239292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_246
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 300
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e65a93f23720d44ebda1e440f7f0196
+      internalID: 1257952620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_247
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 250
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3ab8e300b00f541a1f32399656f7c3
+      internalID: 1953233974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_248
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 250
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4d34b16a1a7b8458d5734360616a5a
+      internalID: -754041765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_249
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 249
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec05c77e228c23b439d8e74bea77f4c6
+      internalID: -379835707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_250
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 249
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66511146d618b04fbdd85c14ad932f2
+      internalID: 187657142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_251
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 253
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62af2bb5c7e07e54bbfa7eb9734da3e1
+      internalID: -11350230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_252
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 253
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f538e7251127afd4383666b40a0ce6ef
+      internalID: -1130817243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_253
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 252
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9854b19d626a7e049b39653034139119
+      internalID: 1504426229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_254
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 253
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b216822d80fbb6549b3f26ee672e9401
+      internalID: 1077047596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_255
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 254
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cea7e818450296469229cdf8f01ab43
+      internalID: -157198400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_256
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 252
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb96e66609a24943b4aa0c96b0c2fce
+      internalID: 1822492757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_257
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 243
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e16ebf57faf2845988b8325cc041c5
+      internalID: 1659479195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_258
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 250
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b500e0a2371634c4b8c8de04a4af8e5f
+      internalID: -1782802367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_259
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 252
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf2cfdcd11e5d349a25eaa5b5254150
+      internalID: -646784995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_260
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 249
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739862c67ac40be49a47b7668d1539ae
+      internalID: -1589094647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_261
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 249
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa6e8c8484e47b4cb7658d468e31b77
+      internalID: 1986317291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_262
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 250
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e12670ce4d42f44943083354d10444
+      internalID: 1261971370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_263
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 251
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f7189382042ea439e8843c3e8bfec3
+      internalID: 155560647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_264
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 250
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84020856d9443ad44a03d3a04374a708
+      internalID: -1398308059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_265
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 252
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227fae3f56cdd21458a85361eb5ccd3b
+      internalID: -619732256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_266
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 251
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9484f4b1d4a149b418cc37c39c98e21c
+      internalID: 109756300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_267
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 204
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16679ec02a306742a2d955c747e2ccc
+      internalID: 313160438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_268
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 203
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0ab40e1dd36c14284fa8c29e73d967
+      internalID: 172957455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_269
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 206
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bd258c9771a4040926db87406ac2b9
+      internalID: -314271763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_270
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 201
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db18e64347b7ccb46af8d58d26aac6f2
+      internalID: 1036191233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_271
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 200
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfeb2ff9df297b419c227888af1f3e3
+      internalID: -677975153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_272
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 200
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f9fcd8585975c4189de9b8c8c4ba95
+      internalID: 250051758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_273
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 202
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41a61140627fab4a877a28a29c6cd6a
+      internalID: -188080234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_274
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 200
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4606d7bbdcd4c9a47b774d16a496f2bc
+      internalID: -81421376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_275
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 199
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b9caf232ae9c54999812a20f99fead
+      internalID: -1351451802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_276
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 200
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f35ae09efdc1754fae5e7645ae21afd
+      internalID: 1244756860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_277
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 200
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e57f4bc56d00644a64e2f6e51b3715
+      internalID: 993667945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_278
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 200
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b3dc685c5c8dc4f9ede4cdb45b2339
+      internalID: 1144534940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_279
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 203
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a25d3b41d892143b8a45c1e4b18fab
+      internalID: 1962574677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_280
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 164
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a88a1fc578483140849867afe00ca35
+      internalID: -1840500209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_281
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 207
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e1ff8f12d6b0948920068d407b345b
+      internalID: -1442668074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_282
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 207
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad5bb403c1bfa4b991f14a70755e68
+      internalID: 1013451979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_283
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 205
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c42bd240fa41994495b381644f11edc
+      internalID: -1708439686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_284
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 148
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6870df042214474cadd5d61a01018f5
+      internalID: 1285023873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_285
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 148
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad86a35051cb9147ac15fd7b77c7ff7
+      internalID: -1708566935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_286
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 148
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b068c80687f15164e8bd9fac363cc5ec
+      internalID: -1072886366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_287
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 149
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b555f3a39226e4bb7579e8e90e4e31
+      internalID: 960602981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_288
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 151
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e26e5a45097440489eac463aeaaddbc
+      internalID: 1731794946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_289
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 149
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fbcea353e9f944fba27106e6c393f5
+      internalID: 79897579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_290
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 149
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f319fbb713b0e488b39acfb114e2fb
+      internalID: -1257620364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_291
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 149
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaeb9f4b4568724d8c9eb58c75c6165
+      internalID: -199564862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_292
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 151
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c64ee6dd6f7cc7488cc726d349047ef
+      internalID: -316531637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_293
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 150
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ade53607c02cc4f8d153db37e04e66
+      internalID: 1141757930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_294
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 162
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4e7d175318a8641a5ba26b4e3f6de6
+      internalID: -1304248856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_295
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 162
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a752e946429189747a34faa21e8f64e6
+      internalID: 1580612612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_296
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 163
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1440b059fbfb574fb3f83416d60409a
+      internalID: -2081149818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_297
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 163
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1fac3b31696234d8e14304c209267f
+      internalID: -884666979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_298
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 163
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f146e4cc57bee47b969a8b64409f76
+      internalID: 347656180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_299
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 164
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63baf5194971b44786bb528edf14724
+      internalID: 1300801248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_300
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 161
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5715ad0555133154d9104266c0376713
+      internalID: 868931385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_301
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 104
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0c2fb0e8416e9439569ed91c88afb0
+      internalID: -1840402447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_302
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 110
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46d2ea2b6e926e46a939ef9e83e432c
+      internalID: -109972199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_303
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 111
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db52115340760e4da39029de0d82e0b
+      internalID: 447187425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_304
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 106
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cf9ee3181ebd34b93ae293fc1f3d90
+      internalID: 1919901277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_305
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 108
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742d9b591e84b0143aa4e24dc20c968e
+      internalID: -435265679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_306
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 108
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c68f2cbea4b6024fa13dd0e50ec5534
+      internalID: 280953448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_307
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 107
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932255e1206b5774a97854c914535cb9
+      internalID: 37823084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_308
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 107
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948e00207b465404cb18a255cd1c996c
+      internalID: -656236494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_309
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 110
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b96a6afdafbac4b8cb8fccd87ebd2b
+      internalID: 498371655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_310
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 109
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f47f87c56f9b548a3ca7bb2e4f2ce7
+      internalID: 1923500456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_311
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 111
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a28c547d0fdab4bb74ecf394444d11
+      internalID: -1476043014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_312
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 111
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c154cb6c4da9b041b3ba7319d6a366c
+      internalID: 539635382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_313
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 113
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8407b311b7c73414eaf22b1f332eba37
+      internalID: -1487128458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_314
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 101
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc0019416fd3764ba0576abe7508f49
+      internalID: -1240188361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_315
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 115
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd5778b117ef18408ba259b5a21772d
+      internalID: 2095078199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_316
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 116
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740f1fafd04bb694b8f0ce3997384aef
+      internalID: 76330344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_317
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 117
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e21a17797d613343beb889563a76798
+      internalID: -1372058243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_318
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 118
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d34d6bda937e84449e79847d1e44fec
+      internalID: -829482104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_319
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 116
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d315b4952b5ff43a24051c2054793a
+      internalID: -831739646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_320
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 119
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f870e295234834b81923ba3d46ed21
+      internalID: -768259841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_321
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 70
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa84677555568ef4e80b12d322f89158
+      internalID: 2119992419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_322
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 71
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825a75511d7c50447bfdabd9bfa1d3c8
+      internalID: -248814991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_323
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 71
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0483564a8e74044a971122e39d32dd
+      internalID: -106152988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_324
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 66
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff5214ebdccbac4b999fd615f2355ea
+      internalID: 2097698116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_325
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 67
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e0397989ec0d24c840f1d8f674023e
+      internalID: 1954770123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_326
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 65
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd5eb377de811148889d85a6ca6e5a7
+      internalID: -2018598273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_327
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 64
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458ff7dbcdd2bc84cb0169e4867ab356
+      internalID: 1282823004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_328
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 64
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b037b45ce8178448b2c7f6be8f3ff9
+      internalID: 505395915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_329
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 63
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e14391bcee1f3048852796464364f10
+      internalID: 2037222594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_330
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 63
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998db2c25aa15454bb99bbac6a5c0cc4
+      internalID: 1362688825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_331
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 13
+        width: 275
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda443340e70b3a4d81b1665eb244350
+      internalID: 2125673068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_332
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 37
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5855ae01e80ba14c8e672bf9b54e24d
+      internalID: 1492598706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_333
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 36
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1375c40b596731c46a7c1a77d56ec0ed
+      internalID: -783632053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_334
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4038939d2cd430b4b952ca4ee9428b7c
+      internalID: 1911578559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_335
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 36
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918f66ad2fec4cb4a84c3966a1ea2447
+      internalID: -1122904489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_336
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f9491a416f75547a4528cdfa546e9f
+      internalID: 1447108484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_337
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0b9f6065c4112458eb2df339ba744d
+      internalID: -497662013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_338
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 31
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6271419b460c147458f90ec1ec2f3101
+      internalID: 150907797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_339
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 30
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fe5a639e26962459de3651edb3f50c
+      internalID: -154059863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_340
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 30
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a87ff029ba80ba41b66dca89c4fd838
+      internalID: -743835429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_341
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1e1222b19e43b43a5bcf71fbd07e64
+      internalID: -1579444451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_342
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec8f5c35cceabb46b58c3303f4311b0
+      internalID: 1255450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_343
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc0d82cc90751743bb63961d4ba88ac
+      internalID: 1032318073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_344
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 6
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d84b690b88a64d45bcefff47bbb4bcf
+      internalID: -138117931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_345
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 5
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8d7f1dc0a24d349999e520c7b07807
+      internalID: 1152862690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero suit samus_346
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04d1160463657d409bb9012e48f19fa
+      internalID: 1962610108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zero suit samus_4: 75349639
+      zero suit samus_33: -1231851051
+      zero suit samus_71: 1596908248
+      zero suit samus_300: 868931385
+      zero suit samus_96: -1469309554
+      zero suit samus_244: 1534715988
+      zero suit samus_292: -316531637
+      zero suit samus_285: -1708566935
+      zero suit samus_280: -1840500209
+      zero suit samus_216: 961113639
+      zero suit samus_215: 503315683
+      zero suit samus_60: -2058439722
+      zero suit samus_130: 1734279699
+      zero suit samus_329: 2037222594
+      zero suit samus_118: -1091135662
+      zero suit samus_45: -2039722668
+      zero suit samus_154: 453233482
+      zero suit samus_127: -1805037525
+      zero suit samus_333: -783632053
+      zero suit samus_125: -938419800
+      zero suit samus_193: 1648994630
+      zero suit samus_237: 2058447961
+      zero suit samus_204: -2052256359
+      zero suit samus_89: -1339871481
+      zero suit samus_305: -435265679
+      zero suit samus_323: -106152988
+      zero suit samus_197: 1170105265
+      zero suit samus_191: -925160428
+      zero suit samus_126: -1409355369
+      zero suit samus_152: 1503999623
+      zero suit samus_218: 1334508332
+      zero suit samus_341: -1579444451
+      zero suit samus_208: -771404920
+      zero suit samus_268: 172957455
+      zero suit samus_62: 1693473910
+      zero suit samus_124: -469237661
+      zero suit samus_53: -114437573
+      zero suit samus_144: 378522138
+      zero suit samus_282: 1013451979
+      zero suit samus_184: 1387173349
+      zero suit samus_297: -884666979
+      zero suit samus_238: -628814057
+      zero suit samus_119: 2000477350
+      zero suit samus_312: 539635382
+      zero suit samus_322: -248814991
+      zero suit samus_235: 2030611929
+      zero suit samus_251: -11350230
+      zero suit samus_232: -1143449822
+      zero suit samus_265: -619732256
+      zero suit samus_100: 1124884677
+      zero suit samus_194: -456319332
+      zero suit samus_317: -1372058243
+      zero suit samus_142: 11021416
+      zero suit samus_34: 717924185
+      zero suit samus_3: -527226810
+      zero suit samus_240: -872107110
+      zero suit samus_334: 1911578559
+      zero suit samus_128: -865305150
+      zero suit samus_248: -754041765
+      zero suit samus_36: 1836544450
+      zero suit samus_210: 1873407988
+      zero suit samus_82: 1051089257
+      zero suit samus_250: 187657142
+      zero suit samus_134: -929905089
+      zero suit samus_57: -1459434905
+      zero suit samus_139: 258834727
+      zero suit samus_302: -109972199
+      zero suit samus_38: -1194947389
+      zero suit samus_116: -1071925068
+      zero suit samus_40: -216506592
+      zero suit samus_163: 849589405
+      zero suit samus_88: -1232470262
+      zero suit samus_321: 2119992419
+      zero suit samus_67: -1701851817
+      zero suit samus_225: -577944488
+      zero suit samus_83: 274184648
+      zero suit samus_269: -314271763
+      zero suit samus_318: -829482104
+      zero suit samus_319: -831739646
+      zero suit samus_295: 1580612612
+      zero suit samus_338: 150907797
+      zero suit samus_110: -924919662
+      zero suit samus_6: -1352128791
+      zero suit samus_326: -2018598273
+      zero suit samus_135: -113825221
+      zero suit samus_151: 905545096
+      zero suit samus_206: -1466874319
+      zero suit samus_47: 1401310991
+      zero suit samus_207: -1217125049
+      zero suit samus_330: 1362688825
+      zero suit samus_241: -1629829731
+      zero suit samus_73: -2061238860
+      zero suit samus_199: 879982587
+      zero suit samus_123: -1549721997
+      zero suit samus_224: 949457747
+      zero suit samus_328: 505395915
+      zero suit samus_173: -816438674
+      zero suit samus_255: -157198400
+      zero suit samus_132: -1175196597
+      zero suit samus_102: 416891855
+      zero suit samus_253: 1504426229
+      zero suit samus_113: -452743519
+      zero suit samus_104: 1813457448
+      zero suit samus_37: -2097396063
+      zero suit samus_192: 201892953
+      zero suit samus_93: -868025486
+      zero suit samus_19: -78326716
+      zero suit samus_252: -1130817243
+      zero suit samus_14: 845245026
+      zero suit samus_276: 1244756860
+      zero suit samus_146: 2066162299
+      zero suit samus_230: -1037895838
+      zero suit samus_170: 247062464
+      zero suit samus_172: -383303744
+      zero suit samus_202: -1291307144
+      zero suit samus_337: -497662013
+      zero suit samus_236: -1755750568
+      zero suit samus_339: -154059863
+      zero suit samus_11: -320075167
+      zero suit samus_107: 728505269
+      zero suit samus_332: 1492598706
+      zero suit samus_32: 528850634
+      zero suit samus_278: 1144534940
+      zero suit samus_190: -1026086114
+      zero suit samus_148: -904000429
+      zero suit samus_43: -1976095572
+      zero suit samus_101: 1315476600
+      zero suit samus_275: -1351451802
+      zero suit samus_24: -248530117
+      zero suit samus_145: -2009812606
+      zero suit samus_272: 250051758
+      zero suit samus_23: 114406739
+      zero suit samus_279: 1962574677
+      zero suit samus_85: -191077419
+      zero suit samus_105: 174431176
+      zero suit samus_179: -2089031589
+      zero suit samus_48: -1065677886
+      zero suit samus_28: 63883078
+      zero suit samus_221: 1024037415
+      zero suit samus_264: -1398308059
+      zero suit samus_81: -1204448205
+      zero suit samus_293: 1141757930
+      zero suit samus_69: 1766724225
+      zero suit samus_10: 307030628
+      zero suit samus_289: 79897579
+      zero suit samus_171: 108545633
+      zero suit samus_245: 146239292
+      zero suit samus_137: -1042377934
+      zero suit samus_345: 1152862690
+      zero suit samus_91: -63753520
+      zero suit samus_198: -1367334989
+      zero suit samus_176: 1422003376
+      zero suit samus_180: -921621231
+      zero suit samus_106: -444439410
+      zero suit samus_185: 1121215252
+      zero suit samus_29: 884605723
+      zero suit samus_213: 726169033
+      zero suit samus_52: 875589428
+      zero suit samus_346: 1962610108
+      zero suit samus_103: 1500828925
+      zero suit samus_39: -1856726021
+      zero suit samus_308: -656236494
+      zero suit samus_115: 687515333
+      zero suit samus_209: 1649289296
+      zero suit samus_178: 1070894658
+      zero suit samus_15: -1418571319
+      zero suit samus_121: -1350563714
+      zero suit samus_211: -70952751
+      zero suit samus_35: 656453198
+      zero suit samus_262: 1261971370
+      zero suit samus_84: 67309256
+      zero suit samus_315: 2095078199
+      zero suit samus_288: 1731794946
+      zero suit samus_291: -199564862
+      zero suit samus_111: 483710169
+      zero suit samus_249: -379835707
+      zero suit samus_306: 280953448
+      zero suit samus_217: -1495945297
+      zero suit samus_246: 1257952620
+      zero suit samus_18: 1602089019
+      zero suit samus_304: 1919901277
+      zero suit samus_49: 57737285
+      zero suit samus_188: -292865923
+      zero suit samus_27: -994884493
+      zero suit samus_274: -81421376
+      zero suit samus_242: 1677756648
+      zero suit samus_342: 1255450
+      zero suit samus_76: 1561083149
+      zero suit samus_143: 561196845
+      zero suit samus_324: 2097698116
+      zero suit samus_2: 1743657310
+      zero suit samus_108: -1330664971
+      zero suit samus_133: 606960808
+      zero suit samus_309: 498371655
+      zero suit samus_26: 1479825721
+      zero suit samus_162: -1691330173
+      zero suit samus_87: 943991005
+      zero suit samus_99: -1358232906
+      zero suit samus_200: -170443436
+      zero suit samus_256: 1822492757
+      zero suit samus_325: 1954770123
+      zero suit samus_219: 481607518
+      zero suit samus_78: -2059972481
+      zero suit samus_157: -1830338345
+      zero suit samus_42: -1609274495
+      zero suit samus_150: -1066730353
+      zero suit samus_283: -1708439686
+      zero suit samus_65: -1898722961
+      zero suit samus_247: 1953233974
+      zero suit samus_114: 426481908
+      zero suit samus_50: -707101829
+      zero suit samus_70: -235110599
+      zero suit samus_166: 1041775102
+      zero suit samus_307: 37823084
+      zero suit samus_9: -256991047
+      zero suit samus_161: 866357753
+      zero suit samus_16: 681961220
+      zero suit samus_277: 993667945
+      zero suit samus_267: 313160438
+      zero suit samus_169: 654204735
+      zero suit samus_95: 1906128153
+      zero suit samus_8: 1762951915
+      zero suit samus_140: 20605846
+      zero suit samus_160: -769485700
+      zero suit samus_0: 1578244446
+      zero suit samus_243: -1847598936
+      zero suit samus_182: 1515831476
+      zero suit samus_203: 911912150
+      zero suit samus_299: 1300801248
+      zero suit samus_296: -2081149818
+      zero suit samus_165: 117365123
+      zero suit samus_313: -1487128458
+      zero suit samus_226: 1646089778
+      zero suit samus_195: -1896772401
+      zero suit samus_164: -1753735474
+      zero suit samus_75: 2052616495
+      zero suit samus_259: -646784995
+      zero suit samus_98: 1456051336
+      zero suit samus_212: 1455180499
+      zero suit samus_205: 1200164397
+      zero suit samus_41: -1942619057
+      zero suit samus_290: -1257620364
+      zero suit samus_343: 1032318073
+      zero suit samus_175: 459277868
+      zero suit samus_149: 1127528636
+      zero suit samus_327: 1282823004
+      zero suit samus_109: 1863818311
+      zero suit samus_177: -12142963
+      zero suit samus_120: -1331486760
+      zero suit samus_153: 1453923519
+      zero suit samus_86: 2140941741
+      zero suit samus_167: -473944501
+      zero suit samus_92: -2094411130
+      zero suit samus_281: -1442668074
+      zero suit samus_223: -994088797
+      zero suit samus_17: 194302878
+      zero suit samus_97: 207798850
+      zero suit samus_129: 1218661025
+      zero suit samus_228: 948984755
+      zero suit samus_1: -438638296
+      zero suit samus_56: -772395521
+      zero suit samus_336: 1447108484
+      zero suit samus_94: 303490575
+      zero suit samus_220: -1068342073
+      zero suit samus_159: -418306960
+      zero suit samus_286: -1072886366
+      zero suit samus_258: -1782802367
+      zero suit samus_63: -496873303
+      zero suit samus_271: -677975153
+      zero suit samus_30: 250044889
+      zero suit samus_141: -1982964271
+      zero suit samus_66: 1484054352
+      zero suit samus_270: 1036191233
+      zero suit samus_25: -972930619
+      zero suit samus_231: 1001978170
+      zero suit samus_31: -1456121127
+      zero suit samus_263: 155560647
+      zero suit samus_311: -1476043014
+      zero suit samus_261: 1986317291
+      zero suit samus_46: -1560951045
+      zero suit samus_79: 526356166
+      zero suit samus_273: -188080234
+      zero suit samus_68: -401275681
+      zero suit samus_80: 439250264
+      zero suit samus_344: -138117931
+      zero suit samus_5: -1502063829
+      zero suit samus_44: 792975453
+      zero suit samus_310: 1923500456
+      zero suit samus_7: 539114523
+      zero suit samus_51: 144285220
+      zero suit samus_136: 514991073
+      zero suit samus_187: -653033966
+      zero suit samus_284: 1285023873
+      zero suit samus_294: -1304248856
+      zero suit samus_122: -1216255065
+      zero suit samus_72: 1784100808
+      zero suit samus_61: 1859345078
+      zero suit samus_12: -841661152
+      zero suit samus_183: -465299888
+      zero suit samus_158: 755243827
+      zero suit samus_331: 2125673068
+      zero suit samus_174: 2086890439
+      zero suit samus_320: -768259841
+      zero suit samus_131: 1634357631
+      zero suit samus_59: -508453457
+      zero suit samus_233: -562537421
+      zero suit samus_340: -743835429
+      zero suit samus_21: -360664137
+      zero suit samus_90: -1273140191
+      zero suit samus_257: 1659479195
+      zero suit samus_239: -2125433420
+      zero suit samus_138: -608930945
+      zero suit samus_54: -2093065205
+      zero suit samus_260: -1589094647
+      zero suit samus_55: 1369892515
+      zero suit samus_77: -1276600498
+      zero suit samus_117: 2125408443
+      zero suit samus_112: 1148935962
+      zero suit samus_298: 347656180
+      zero suit samus_335: -1122904489
+      zero suit samus_254: 1077047596
+      zero suit samus_156: 590976021
+      zero suit samus_303: 447187425
+      zero suit samus_201: 1846641497
+      zero suit samus_234: 660522271
+      zero suit samus_314: -1240188361
+      zero suit samus_147: -1561369
+      zero suit samus_181: -709612780
+      zero suit samus_266: 109756300
+      zero suit samus_58: 489966550
+      zero suit samus_196: -1024030973
+      zero suit samus_20: -636691068
+      zero suit samus_74: 540395454
+      zero suit samus_186: -805243126
+      zero suit samus_22: -76089251
+      zero suit samus_316: 76330344
+      zero suit samus_189: -1216603823
+      zero suit samus_64: 1923543206
+      zero suit samus_13: 1351161217
+      zero suit samus_155: 1385381495
+      zero suit samus_287: 960602981
+      zero suit samus_227: -1077287538
+      zero suit samus_229: 719238812
+      zero suit samus_301: -1840402447
+      zero suit samus_214: 1179860875
+      zero suit samus_168: 1080494860
+      zero suit samus_222: -2102781406
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

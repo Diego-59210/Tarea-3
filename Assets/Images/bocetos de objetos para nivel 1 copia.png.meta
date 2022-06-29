@@ -1,0 +1,965 @@
+fileFormatVersion: 2
+guid: 5139d7621b0740c45a8dbe0d91f1c4da
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_0
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 3792
+        width: 369
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d9de3194c0aed4c9e17c23f274045a
+      internalID: -1590076261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_1
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 3774
+        width: 516
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0a320fde2567a4b826403f88397ed5
+      internalID: -1012621545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_4
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3648
+        width: 40
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9004ab23343e2374a85fe7a27193a488
+      internalID: -283516621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_5
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 3725
+        width: 35
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa22d462a40bddd47860b17b0b46101c
+      internalID: 2051207514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_6
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 3785
+        width: 35
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d418488d5b146408099c364e1b042c
+      internalID: 2084355253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_8
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 3557
+        width: 294
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fac967dd371834da1f15bfe4425f42
+      internalID: 322629983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_11
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 3370
+        width: 41
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6850219acd03e468b64342e050ceab
+      internalID: 1814957530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_12
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 3447
+        width: 34
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4202e83eb1de34b8cdf33e636c2ab7
+      internalID: 1481406493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_13
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 3507
+        width: 35
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f273c500dd87d24fb4f1f216cab21f3
+      internalID: -486728941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_14
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3179
+        width: 367
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9334c816bb0c04d8c3e98613a2ef6f
+      internalID: 822132708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_16
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 3190
+        width: 517
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870a998f068bba5418589e81f2c1e128
+      internalID: -2147355030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_17
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 3116
+        width: 436
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cede4ba915453c442847f357e07ac560
+      internalID: 1360683969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_18
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3110
+        width: 173
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a76a136777ac0459809219d59a1f17
+      internalID: 219342522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_19
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 3211
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087bcb493c835394791a90ca1f7e5b38
+      internalID: -1562345151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_20
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 3212
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7abd355b6e9ce4f87a483a1918750a
+      internalID: -1850952675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_21
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 3215
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a14c5d2cfbcf304d976ac1c66a40a06
+      internalID: -1374362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_22
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 3217
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836b84b09dff2df4f8d174468ec8b128
+      internalID: 1440874738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_23
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 3218
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0865b013f9b75b3488401de15f164c3a
+      internalID: 59255466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_24
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 3221
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4be96c4eaa07a49a68d632940f365f
+      internalID: -147709143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_25
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 3222
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b593122fbf5db54593ce3e472cd3b23
+      internalID: -2076829088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_27
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2958
+        width: 446
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b3eadb122fd1442809316e846d8577
+      internalID: 1459142208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_29
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 3109
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c58b63a1fef864489082a9ab0965210
+      internalID: 1070429866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_30
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 2923
+        width: 337
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d581df5fdbbcd4697064f0355100b5
+      internalID: -1049649657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_32
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 2903
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934b44424af6ca9498617383acb16581
+      internalID: -1715976130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_33
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 2904
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f43334253ffbd4b9ac6180878b53db
+      internalID: -1056293650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_34
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 2895
+        width: 151
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2931ff898abcaa4f944a88dd3132f82
+      internalID: -1222918687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_35
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 2894
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a26aabc04ff86d41806b25f4a3c8d47
+      internalID: 803309762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_36
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 2895
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a9add1a408ae542a3f5777d623ceb2
+      internalID: 582108916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_37
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 2886
+        width: 151
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0003846621b9f448878b89dfdae533
+      internalID: 1423309111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_39
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 2689
+        width: 446
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ec850f0cf3ff447a4d7d9103a3f9e2
+      internalID: -1023336463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_41
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1635
+        width: 1920
+        height: 1081
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aa24c76e65ca448bdb7c82069cda2c
+      internalID: -694066416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1638
+        width: 1908
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801b8d0ce4a79a1479fbace87a4729ec
+      internalID: -1501371134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 115
+        width: 781
+        height: 1032
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2002506fb8fe31438eb465417a4966f
+      internalID: 1091453586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_53
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 160
+        width: 521
+        height: 747
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f580529b6392e9a4fbca031de721f875
+      internalID: 1035666168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_2
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 711
+        width: 113
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2590c4a34b6403c46a1110e2934fb4f5
+      internalID: -619875859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1 copia_3
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 711
+        width: 123
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02229216cabe96046b45f8563ea88be3
+      internalID: -1555497754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bocetos de objetos para nivel 1 copia_44: 1091453586
+      bocetos de objetos para nivel 1 copia_9: -911412977
+      bocetos de objetos para nivel 1 copia_13: -486728941
+      bocetos de objetos para nivel 1 copia_28: 764417223
+      bocetos de objetos para nivel 1 copia_38: 1168164851
+      bocetos de objetos para nivel 1 copia_0: -1590076261
+      bocetos de objetos para nivel 1 copia_51: -57145434
+      bocetos de objetos para nivel 1 copia_41: -694066416
+      bocetos de objetos para nivel 1 copia_50: 395839141
+      bocetos de objetos para nivel 1 copia_21: -1374362
+      bocetos de objetos para nivel 1 copia_1: -1012621545
+      bocetos de objetos para nivel 1 copia_24: -147709143
+      bocetos de objetos para nivel 1 copia_29: 1070429866
+      bocetos de objetos para nivel 1 copia_58: -461729837
+      bocetos de objetos para nivel 1 copia_48: 1021886969
+      bocetos de objetos para nivel 1 copia_11: 1814957530
+      bocetos de objetos para nivel 1 copia_23: 59255466
+      bocetos de objetos para nivel 1 copia_46: 457110982
+      bocetos de objetos para nivel 1 copia_16: -2147355030
+      bocetos de objetos para nivel 1 copia_19: -1562345151
+      bocetos de objetos para nivel 1 copia_52: 526073943
+      bocetos de objetos para nivel 1 copia_61: -560154657
+      bocetos de objetos para nivel 1 copia_62: -1828155345
+      bocetos de objetos para nivel 1 copia_43: -1501371134
+      bocetos de objetos para nivel 1 copia_12: 1481406493
+      bocetos de objetos para nivel 1 copia_6: 2084355253
+      bocetos de objetos para nivel 1 copia_31: 1304722368
+      bocetos de objetos para nivel 1 copia_49: 902765532
+      bocetos de objetos para nivel 1 copia_18: 219342522
+      bocetos de objetos para nivel 1 copia_32: -1715976130
+      bocetos de objetos para nivel 1 copia_15: -2046820317
+      bocetos de objetos para nivel 1 copia_60: -344202390
+      bocetos de objetos para nivel 1 copia_3: -1555497754
+      bocetos de objetos para nivel 1 copia_4: -283516621
+      bocetos de objetos para nivel 1 copia_47: 255960206
+      bocetos de objetos para nivel 1 copia_59: 1764199915
+      bocetos de objetos para nivel 1 copia_45: -756491711
+      bocetos de objetos para nivel 1 copia_57: -1015065593
+      bocetos de objetos para nivel 1 copia_30: -1049649657
+      bocetos de objetos para nivel 1 copia_27: 1459142208
+      bocetos de objetos para nivel 1 copia_36: 582108916
+      bocetos de objetos para nivel 1 copia_33: -1056293650
+      bocetos de objetos para nivel 1 copia_14: 822132708
+      bocetos de objetos para nivel 1 copia_35: 803309762
+      bocetos de objetos para nivel 1 copia_56: 1916112644
+      bocetos de objetos para nivel 1 copia_55: -177039174
+      bocetos de objetos para nivel 1 copia_40: -1238356150
+      bocetos de objetos para nivel 1 copia_2: -619875859
+      bocetos de objetos para nivel 1 copia_26: -1534006009
+      bocetos de objetos para nivel 1 copia_17: 1360683969
+      bocetos de objetos para nivel 1 copia_39: -1023336463
+      bocetos de objetos para nivel 1 copia_37: 1423309111
+      bocetos de objetos para nivel 1 copia_10: -1364093141
+      bocetos de objetos para nivel 1 copia_5: 2051207514
+      bocetos de objetos para nivel 1 copia_8: 322629983
+      bocetos de objetos para nivel 1 copia_54: 303067842
+      bocetos de objetos para nivel 1 copia_20: -1850952675
+      bocetos de objetos para nivel 1 copia_42: -110050363
+      bocetos de objetos para nivel 1 copia_22: 1440874738
+      bocetos de objetos para nivel 1 copia_7: 305835817
+      bocetos de objetos para nivel 1 copia_53: 1035666168
+      bocetos de objetos para nivel 1 copia_34: -1222918687
+      bocetos de objetos para nivel 1 copia_25: -2076829088
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
