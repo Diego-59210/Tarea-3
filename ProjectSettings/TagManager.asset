@@ -6,11 +6,14 @@ TagManager:
   tags:
   - Pickup
   - Ground
+  - Enemy
+  - Bullet
+  - Enemie 1
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - post process
   - Water
   - UI
   - 
