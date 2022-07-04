@@ -104,490 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cuadro
-      rect:
-        serializedVersion: 2
-        x: 1851
-        y: 3932
-        width: 160
-        height: 120
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7575be016053c764d890f8db73648f3d
-      internalID: -1047941629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Velador
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 3721
-        width: 189
-        height: 196
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e705f42cab78d7c40a582e7f3b34a966
-      internalID: 436537007
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cama
-      rect:
-        serializedVersion: 2
-        x: 812
-        y: 3734
-        width: 339
-        height: 164
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b552fac4b2289454bb642cb28d98b93c
-      internalID: -1437353013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basurero
-      rect:
-        serializedVersion: 2
-        x: 1202
-        y: 3741
-        width: 73
-        height: 81
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed10076381deeb64dbcc4f0b9bb4fae4
-      internalID: 860988422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Escritorio
-      rect:
-        serializedVersion: 2
-        x: 1410
-        y: 3738
-        width: 267
-        height: 149
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55da4c48527c06447b6ea50ce45127f6
-      internalID: 2101837689
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Nave espacial
-      rect:
-        serializedVersion: 2
-        x: 1963
-        y: 3807
-        width: 47
-        height: 25
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 22211e6294b84c94a9a9a7a7e2705574
-      internalID: -2078676665
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Lampara
-      rect:
-        serializedVersion: 2
-        x: 2141
-        y: 3749
-        width: 56
-        height: 59
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af661a7d5090a914d8ecd441133e51fa
-      internalID: 414672575
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Osito
-      rect:
-        serializedVersion: 2
-        x: 1754
-        y: 3760
-        width: 32
-        height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 398ba37f3240cc9438a76142753814fa
-      internalID: -138282932
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Dinosaurio
-      rect:
-        serializedVersion: 2
-        x: 1810
-        y: 3750
-        width: 82
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3139df70e63e56044895f4be4ab38022
-      internalID: 2045876073
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cubitos
-      rect:
-        serializedVersion: 2
-        x: 1930
-        y: 3768
-        width: 31
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b4ff458234c452f418b9621c7ab2589d
-      internalID: -1665264290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Autito
-      rect:
-        serializedVersion: 2
-        x: 2039
-        y: 3746
-        width: 39
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e9db6057f4e0d845a2c7d0065a3d1aa
-      internalID: -320269371
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basura
-      rect:
-        serializedVersion: 2
-        x: 1306
-        y: 3713
-        width: 40
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 46117ea75eed7ce4084849cbffc34652
-      internalID: -1080777370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Basurita
-      rect:
-        serializedVersion: 2
-        x: 1369
-        y: 3712
-        width: 23
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 70d33e09693df0a4786ed7f4f2dae028
-      internalID: 1614484281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cubito
-      rect:
-        serializedVersion: 2
-        x: 1978
-        y: 3734
-        width: 24
-        height: 25
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79572a47305822a448dd8763100e29cf
-      internalID: -1355923939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Florero
-      rect:
-        serializedVersion: 2
-        x: 1552
-        y: 3355
-        width: 116
-        height: 279
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 705a7840cad159a4e80656bad57023b0
-      internalID: 405496476
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Pelota
-      rect:
-        serializedVersion: 2
-        x: 1823
-        y: 3623
-        width: 88
-        height: 85
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a417eb45448865142833c58a1f53df41
-      internalID: 1089023789
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ventana
-      rect:
-        serializedVersion: 2
-        x: 250
-        y: 3462
-        width: 180
-        height: 112
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2e21d16dac6707b4a9c6e1a6500c8fc0
-      internalID: 160560743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cortina
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 3385
-        width: 210
-        height: 171
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5eedba1abf5eeb145897f5c4e37ced70
-      internalID: -1388899819
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Puerta
-      rect:
-        serializedVersion: 2
-        x: 997
-        y: 3194
-        width: 179
-        height: 374
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 120ab09fa116e2c408facdd95c71eb4c
-      internalID: 594214154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flores 2
-      rect:
-        serializedVersion: 2
-        x: 1234
-        y: 3453
-        width: 71
-        height: 108
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 44e8a4f3ede14bc4a85b59d9a3cc224a
-      internalID: 1316824882
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flores 3
-      rect:
-        serializedVersion: 2
-        x: 1368
-        y: 3447
-        width: 78
-        height: 112
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dcef597fddce26147bc7e76018c967cf
-      internalID: 2100862198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Macetero
-      rect:
-        serializedVersion: 2
-        x: 1365
-        y: 3352
-        width: 108
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a42a29d34005d1d4b91b81a0aec06bf0
-      internalID: -731721221
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Libros
-      rect:
-        serializedVersion: 2
-        x: 1834
-        y: 3362
-        width: 297
-        height: 92
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 09cae8775f2d5e549aba23a71ac91f51
-      internalID: -2119524855
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bocetos de objetos para nivel 1_23
+      name: Despertador
       rect:
         serializedVersion: 2
         x: 2311
@@ -608,7 +125,490 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Telara\xF1a grande 1"
+      name: Cuadro
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 3932
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147dd4e04fd509242b53532ef93fbd1c
+      internalID: -193287180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mueble
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 3721
+        width: 189
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b73fa8a7534324e95e770d7acf426a
+      internalID: -584491619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cama
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 3734
+        width: 339
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01ed753d55207848b6bdb0bbe242d7b
+      internalID: -563500083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurero
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3741
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789ad9080ed79a84794e32fd0cfc1838
+      internalID: 1242987144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escritorio
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 3738
+        width: 267
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bc336d4ecbe884d819f8ab9260d51f
+      internalID: 1083304564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nave espacial
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 3807
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e6b9fe7c93a85448eac154e0f6bed6
+      internalID: 268580297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lampara
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 3749
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318e058f38ddd7142a59477d3ce69fc5
+      internalID: -1611489075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Osito
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 3760
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cd58ec7dd4c10459ed305ba4c06862
+      internalID: -327389445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dinosaurio
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 3750
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c7dbe6823ff394aa890bdaf615d1ce
+      internalID: -1891673285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cubitos
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 3768
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c66f60e06c699409a412a348240891
+      internalID: 1773647860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autito
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 3746
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a8e2ba9e945664c89704411c7cf4a3
+      internalID: 355494992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basura
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3713
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f9f4fe13a92b643856a635f2e895ae
+      internalID: 1537790107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurita
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 3712
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3ce326c88f89f458d54d109056b396
+      internalID: -1729647139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cubito
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 3734
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa01721a0aa4d6409b49a1466d0ed92
+      internalID: -921664309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jarron
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 3355
+        width: 116
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032e1909f5ff5704eb5a6abf707d7070
+      internalID: -794534594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pelota
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 3623
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84076d201aab6b84dacc6458d6899181
+      internalID: 1427757589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ventana
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3462
+        width: 180
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a68e9357fef91743a4b9c52212fbc02
+      internalID: -895089001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cortinas
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3385
+        width: 210
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b087ae27ac317a45adaf6ed8442e293
+      internalID: 86566071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 3194
+        width: 179
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f70a96a6294e334d9d34fc09baea3a0
+      internalID: -899924702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flores 2
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 3453
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43b8f8e0e98da543ab5f04c127f6ca0
+      internalID: 1466540856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flores 3
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 3447
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5f97bf317089746882be67e2833052
+      internalID: -1757550990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Macetero
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3352
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649801aedcba3c84a92da8bae60512dc
+      internalID: 654004407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libros
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 3362
+        width: 297
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0bbe7501777b848be2fd8c5b9cf880
+      internalID: -1039402767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Telara\xF1a bonita 1"
       rect:
         serializedVersion: 2
         x: 2546
@@ -622,14 +622,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df312b7621fd0ae478bb3025217de136
-      internalID: 1389055546
+      spriteID: d85bbee1a617d574d8563ca281e19368
+      internalID: -1512786438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Telara\xF1a 1"
+      name: "Telara\xF1a fea 1"
       rect:
         serializedVersion: 2
         x: 1900
@@ -643,14 +643,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2701dc814867b1a4fb9747167ce673c4
-      internalID: 1772837618
+      spriteID: ee62f19f2772b334bab617e19cd9adcf
+      internalID: 858373626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Telara\xF1a 2"
+      name: "Telara\xF1a fea 2"
       rect:
         serializedVersion: 2
         x: 2122
@@ -664,14 +664,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7eb45689a4a73af4082ebde368f3fdb0
-      internalID: 449645215
+      spriteID: a93715128db6f974396f007d298309a1
+      internalID: 1328949711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Telara\xF1a grande 2"
+      name: "Telara\xF1a bonita 2"
       rect:
         serializedVersion: 2
         x: 3207
@@ -685,20 +685,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08a312c276371a1428c817cb99ab607e
-      internalID: 54114684
+      spriteID: 8af929e946bad734d8a984a6fe16ddf7
+      internalID: -1171793966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pared lateral de madera
+      name: Pared de madera lateral
       rect:
         serializedVersion: 2
-        x: 189
-        y: 2317
-        width: 78
-        height: 568
+        x: 144
+        y: 2302
+        width: 97
+        height: 576
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -706,8 +706,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a911d86f2515404c86349a77891ba28
-      internalID: 236710156
+      spriteID: 4712599e70ce9594891549ba10821817
+      internalID: 1816401810
       vertices: []
       indices: 
       edges: []
@@ -717,9 +717,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 351
-        y: 2476
+        y: 2477
         width: 1418
-        height: 383
+        height: 381
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -727,14 +727,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f202c3605d4a27f4291704f7d73c0970
-      internalID: 1541916993
+      spriteID: 6ec3300dd1ef1b94a8a9cd7123b3184f
+      internalID: -92507445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ampolleta
+      name: ampolleta
       rect:
         serializedVersion: 2
         x: 2591
@@ -748,8 +748,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53ba303a5d529b84997787c789f40e33
-      internalID: -1280794191
+      spriteID: 97a95fe846691ec458f91968155cb685
+      internalID: -183074183
       vertices: []
       indices: 
       edges: []
@@ -759,9 +759,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 284
-        y: 2291
+        y: 2289
         width: 1550
-        height: 148
+        height: 150
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -769,14 +769,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 741f93ff9bff21a469b5f2e2d0033399
-      internalID: -733172047
+      spriteID: 8b40e2bd702821e4da7b86285c4dc2bb
+      internalID: -1278101981
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Luz
+      name: Foco blanco
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 2020
+        width: 331
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458c868014312cb40aa59e9bd1ab51f2
+      internalID: 1041526384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foco amarillo
       rect:
         serializedVersion: 2
         x: 2440
@@ -790,14 +811,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bccda904d0e7fc741a338925a03028d6
-      internalID: 607038133
+      spriteID: a2ae23f410def9b4f8d3fdff0b3ce95c
+      internalID: 1775685784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sombra peque\xF1a"
+      name: "Sombreado peque\xF1o"
       rect:
         serializedVersion: 2
         x: 2928
@@ -811,14 +832,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4a093237d2d66d74ab8165bbe0b0b38c
-      internalID: 274303261
+      spriteID: f597bb400978557469095bd51f5db254
+      internalID: 72542028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sombra grande
+      name: Sombreado grande
       rect:
         serializedVersion: 2
         x: 3231
@@ -832,8 +853,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1dc10a49358167742890ff370d8c1b55
-      internalID: -70819788
+      spriteID: af26d9041502d854ebcc8c3b04ca6fd8
+      internalID: 1148601253
       vertices: []
       indices: 
       edges: []
@@ -853,14 +874,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1734ea20a6c73fe43894b44583a9b66e
-      internalID: 1932350576
+      spriteID: 66f99b57892f8b74ea629e28b4d734ff
+      internalID: -1226397925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: particula grande
+      name: Particula grande
       rect:
         serializedVersion: 2
         x: 3333
@@ -874,20 +895,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41b2ab1872e4e624ba22896832864136
-      internalID: 1479711199
+      spriteID: 1263eaa396187e24db0029b85ec1c7fc
+      internalID: -1206263728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pared de madera personalizada
+      name: Fondo de madera con ventana
       rect:
         serializedVersion: 2
         x: 360
-        y: 1725
+        y: 1724
         width: 1418
-        height: 383
+        height: 385
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -895,8 +916,428 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 576de628642b8c646bec0b964affd8ec
-      internalID: -1105880067
+      spriteID: 855891562323cdc46bda98f4c6ce27b1
+      internalID: -1605635192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mesita peque\xF1a"
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 1650
+        width: 205
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad34b5a476caa8b4ebca6d125108e5fc
+      internalID: -598858986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silla
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 1654
+        width: 76
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bccc26c1842964fb84ec5755b46b00
+      internalID: 1108575446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mesa
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 1645
+        width: 284
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea676b0d80c99f47b1f8a0f701d2e88
+      internalID: 1403135545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botell
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 1659
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de42be2b2917f4a4eb52d25eae769605
+      internalID: 2074301319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suciedad
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 1645
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2634662b1af332b4793088c2c55454a2
+      internalID: -1143631180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botella
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 1660
+        width: 54
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e3f2d14d667e34bb6c280ef34099d1
+      internalID: 1115689411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pared lateral de ba\xF1o"
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 554
+        width: 89
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3adfbc03fc2174ba2c63cfb747626c
+      internalID: 410477860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Mueble de ba\xF1o"
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1083
+        width: 391
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2851108f5a20404191d3d2dcc8c0621
+      internalID: -831831455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espejo
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 1034
+        width: 185
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9162cc31eeb4e43840da2d1e168519
+      internalID: -1610289482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frio
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 953
+        width: 168
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcd4c0de0206154f87c7a3707bbdd59
+      internalID: -347125624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horno
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 959
+        width: 169
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cf7b6ca0bd96a4b96431ddf330b029
+      internalID: 741397843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lavamanos
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 961
+        width: 305
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531f0977388267a41b0c1177843bd1ae
+      internalID: 2023364535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pared de ba\xF1o"
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 710
+        width: 655
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379fbac1c636a884cb863c6653d0b26e
+      internalID: -237054894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Conforcito
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 909
+        width: 101
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917c2910462dbaf488460d175adef571
+      internalID: -840052540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inodoro
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 674
+        width: 161
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a1f9cca6f22164690c329aef0ad4e6
+      internalID: 653689354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lavadero
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 708
+        width: 305
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09df0bddc76d8f4280009574b134c8c
+      internalID: -948750291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Llave de ba\xF1o"
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 468
+        width: 36
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc5e8cec0df69f46a4355256cfdeb0c
+      internalID: 162869791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Piso de ba\xF1o"
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 555
+        width: 780
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2355381ef778d54cab9be21b237ef10
+      internalID: -1176461653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tacho de basura
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 690
+        width: 96
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25623d9c99f59fd44926b16d0406d5b0
+      internalID: -976536089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tina
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 437
+        width: 142
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ce2dc59a3d46348afa934ee9ecf82b
+      internalID: -965824144
       vertices: []
       indices: 
       edges: []
@@ -912,44 +1353,66 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      "Telara\xF1a 2": 449645215
-      Cama: -1437353013
-      "Telara\xF1a grande 1": 1389055546
-      Nave espacial: -2078676665
-      bocetos de objetos para nivel 1_23: -1870780155
-      Basurita: 1614484281
-      Flores 3: 2100862198
-      Escritorio: 2101837689
-      Piso de madera: -733172047
-      Cubitos: -1665264290
-      Lampara: 414672575
-      Ampolleta: -1280794191
-      Autito: -320269371
-      "Telara\xF1a grande 2": 54114684
-      Cortina: -1388899819
-      "Telara\xF1a 1": 1772837618
-      particula grande: 1479711199
-      Libros: -2119524855
-      Flores 2: 1316824882
-      Sombra grande: -70819788
-      Macetero: -731721221
-      Velador: 436537007
-      Pared de madera: 1541916993
-      Pared de madera personalizada: -1105880067
-      "Sombra peque\xF1a": 274303261
-      Basurero: 860988422
-      "Particula peque\xF1a": 1932350576
-      Osito: -138282932
-      Pelota: 1089023789
-      Ventana: 160560743
-      Dinosaurio: 2045876073
-      Luz: 607038133
-      Pared lateral de madera: 236710156
-      Basura: -1080777370
-      Cubito: -1355923939
-      Cuadro: -1047941629
-      Florero: 405496476
-      Puerta: 594214154
+      Lavamanos: 2023364535
+      "Piso de ba\xF1o": -1176461653
+      Particula grande: -1206263728
+      Nave espacial: 268580297
+      Mueble: -584491619
+      Flores 3: -1757550990
+      Suciedad: -1143631180
+      "Llave de ba\xF1o": 162869791
+      Pared de madera: -92507445
+      "Pared lateral de ba\xF1o": 410477860
+      Frio: -347125624
+      Autito: 355494992
+      "Telara\xF1a bonita 1": -1512786438
+      Tacho de basura: -976536089
+      Flores 2: 1466540856
+      Macetero: 654004407
+      Silla: 1108575446
+      "Sombreado peque\xF1o": 72542028
+      Espejo: -1610289482
+      Basurero: 1242987144
+      Lavadero: -948750291
+      "Telara\xF1a bonita 2": -1171793966
+      "Particula peque\xF1a": -1226397925
+      Osito: -327389445
+      Pelota: 1427757589
+      Ventana: -895089001
+      Conforcito: -840052540
+      bocetos de objetos para nivel 1_39: 1423860446
+      Cortinas: 86566071
+      Cuadro: -193287180
+      Basura: 1537790107
+      Foco blanco: 1041526384
+      Puerta: -899924702
+      Jarron: -794534594
+      Cama: -563500083
+      Mesa: 1403135545
+      Fondo de madera con ventana: -1605635192
+      Foco amarillo: 1775685784
+      Basurita: -1729647139
+      Escritorio: 1083304564
+      "Pared de ba\xF1o": -237054894
+      Piso de madera: -1278101981
+      Cubitos: 1773647860
+      Lampara: -1611489075
+      ampolleta: -183074183
+      "Mueble de ba\xF1o": -831831455
+      Botella: 1115689411
+      Libros: -1039402767
+      Tina: -965824144
+      Despertador: -1870780155
+      "Mesita peque\xF1a": -598858986
+      "Telara\xF1a fea 2": 1328949711
+      Horno: 741397843
+      Pared de madera lateral: 1816401810
+      Dinosaurio: -1891673285
+      "Telara\xF1a fea 1": 858373626
+      inodoro: 653689354
+      Sombreado grande: 1148601253
+      Cubito: -921664309
+      Botell: 2074301319
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 1

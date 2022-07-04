@@ -22,8 +22,8 @@ public class Jump : Physics2DObject
 
 	private bool canJump = true;
 
-	public bool hasSecondJump = false;
-	private bool canSecondJump = false;
+	public bool hasSecondJump = true;
+	private bool canSecondJump = true;
 
 	// Read the input from the player
 	void Update()
