@@ -104,28 +104,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Despertador
-      rect:
-        serializedVersion: 2
-        x: 2311
-        y: 3337
-        width: 71
-        height: 80
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 759d500b737aca24691fc2e9779ac1ed
-      internalID: -1870780155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Cuadro
+      name: bocetos de objetos para nivel 1_0
       rect:
         serializedVersion: 2
         x: 1851
@@ -139,14 +118,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 147dd4e04fd509242b53532ef93fbd1c
-      internalID: -193287180
+      spriteID: 245719fee6ba0e849aa55b374ce25f1e
+      internalID: -1977917562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mueble
+      name: bocetos de objetos para nivel 1_1
       rect:
         serializedVersion: 2
         x: 360
@@ -160,14 +139,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2b73fa8a7534324e95e770d7acf426a
-      internalID: -584491619
+      spriteID: 3cd81fabf62ff8643bf1de97556c7cce
+      internalID: 1650514890
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cama
+      name: bocetos de objetos para nivel 1_2
       rect:
         serializedVersion: 2
         x: 812
@@ -181,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f01ed753d55207848b6bdb0bbe242d7b
-      internalID: -563500083
+      spriteID: f40c989e01bd5ad4881eb81b0ca50fa3
+      internalID: 296786739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basurero
+      name: bocetos de objetos para nivel 1_3
       rect:
         serializedVersion: 2
         x: 1202
@@ -202,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 789ad9080ed79a84794e32fd0cfc1838
-      internalID: 1242987144
+      spriteID: 740e1854b6ac9704e985dee971e9a0a4
+      internalID: 1029681729
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Escritorio
+      name: bocetos de objetos para nivel 1_4
       rect:
         serializedVersion: 2
         x: 1410
@@ -223,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88bc336d4ecbe884d819f8ab9260d51f
-      internalID: 1083304564
+      spriteID: ffa2d2459db6e954cb7c3eaa4970ee62
+      internalID: -379724014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nave espacial
+      name: bocetos de objetos para nivel 1_5
       rect:
         serializedVersion: 2
         x: 1963
@@ -244,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45e6b9fe7c93a85448eac154e0f6bed6
-      internalID: 268580297
+      spriteID: 035872892b292d345872b6e94bd415b3
+      internalID: 1535392999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lampara
+      name: bocetos de objetos para nivel 1_6
       rect:
         serializedVersion: 2
         x: 2141
@@ -265,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 318e058f38ddd7142a59477d3ce69fc5
-      internalID: -1611489075
+      spriteID: 34ca09e8d1195da4794c6dd3881fb7df
+      internalID: -359555095
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Osito
+      name: bocetos de objetos para nivel 1_7
       rect:
         serializedVersion: 2
         x: 1754
@@ -286,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31cd58ec7dd4c10459ed305ba4c06862
-      internalID: -327389445
+      spriteID: 246ca3acddf954a4993c9fab9faf4e0d
+      internalID: -971724509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dinosaurio
+      name: bocetos de objetos para nivel 1_8
       rect:
         serializedVersion: 2
         x: 1810
@@ -307,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62c7dbe6823ff394aa890bdaf615d1ce
-      internalID: -1891673285
+      spriteID: 567eeee2ac7e1ca4588ba4f582b434e3
+      internalID: -1776179638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cubitos
+      name: bocetos de objetos para nivel 1_9
       rect:
         serializedVersion: 2
         x: 1930
@@ -328,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66c66f60e06c699409a412a348240891
-      internalID: 1773647860
+      spriteID: df2d0ac218ddd4d4db5e2d9a65a17e93
+      internalID: 2094888279
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Autito
+      name: bocetos de objetos para nivel 1_10
       rect:
         serializedVersion: 2
         x: 2039
@@ -349,14 +328,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42a8e2ba9e945664c89704411c7cf4a3
-      internalID: 355494992
+      spriteID: 4d938e047fbbece45ad9d8b82c37c35e
+      internalID: 1159804872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basura
+      name: bocetos de objetos para nivel 1_11
       rect:
         serializedVersion: 2
         x: 1306
@@ -370,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9f9f4fe13a92b643856a635f2e895ae
-      internalID: 1537790107
+      spriteID: a99ae5df71311974a91b870f7ad77f33
+      internalID: -1438620552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Basurita
+      name: bocetos de objetos para nivel 1_12
       rect:
         serializedVersion: 2
         x: 1369
@@ -391,14 +370,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc3ce326c88f89f458d54d109056b396
-      internalID: -1729647139
+      spriteID: 35b88b2cde6547d48ad9826da363173c
+      internalID: 1686353096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cubito
+      name: bocetos de objetos para nivel 1_13
       rect:
         serializedVersion: 2
         x: 1978
@@ -412,14 +391,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfa01721a0aa4d6409b49a1466d0ed92
-      internalID: -921664309
+      spriteID: 8f5883547e7c5744a95c3325d080ec1a
+      internalID: 2020017624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jarron
+      name: bocetos de objetos para nivel 1_14
       rect:
         serializedVersion: 2
         x: 1552
@@ -433,14 +412,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 032e1909f5ff5704eb5a6abf707d7070
-      internalID: -794534594
+      spriteID: e8ec49a768e43dd44832c191577071ed
+      internalID: 443810193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pelota
+      name: bocetos de objetos para nivel 1_15
       rect:
         serializedVersion: 2
         x: 1823
@@ -454,14 +433,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84076d201aab6b84dacc6458d6899181
-      internalID: 1427757589
+      spriteID: 4f4de72d89e2cea4893db0a7f3569aab
+      internalID: -870406533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Ventana
+      name: bocetos de objetos para nivel 1_16
       rect:
         serializedVersion: 2
         x: 250
@@ -475,14 +454,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a68e9357fef91743a4b9c52212fbc02
-      internalID: -895089001
+      spriteID: b35dcaa1ea3a8d1449ecf15731b0806d
+      internalID: 1027015270
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cortinas
+      name: bocetos de objetos para nivel 1_17
       rect:
         serializedVersion: 2
         x: 640
@@ -496,14 +475,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b087ae27ac317a45adaf6ed8442e293
-      internalID: 86566071
+      spriteID: 9b4bfb9df25a0f842b20233e0926de24
+      internalID: 1309741216
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Puerta
+      name: bocetos de objetos para nivel 1_18
       rect:
         serializedVersion: 2
         x: 997
@@ -517,14 +496,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f70a96a6294e334d9d34fc09baea3a0
-      internalID: -899924702
+      spriteID: a493ceea1005c474989ee7c6928733a2
+      internalID: 1263085887
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flores 2
+      name: bocetos de objetos para nivel 1_19
       rect:
         serializedVersion: 2
         x: 1234
@@ -538,14 +517,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e43b8f8e0e98da543ab5f04c127f6ca0
-      internalID: 1466540856
+      spriteID: 01226af5e1a8e574eb75d0352dc2ffba
+      internalID: 2032909050
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Flores 3
+      name: bocetos de objetos para nivel 1_20
       rect:
         serializedVersion: 2
         x: 1368
@@ -559,14 +538,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a5f97bf317089746882be67e2833052
-      internalID: -1757550990
+      spriteID: bbd35468dc4600b4385d0c7e457f83be
+      internalID: 926706849
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Macetero
+      name: bocetos de objetos para nivel 1_21
       rect:
         serializedVersion: 2
         x: 1365
@@ -580,14 +559,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 649801aedcba3c84a92da8bae60512dc
-      internalID: 654004407
+      spriteID: 5a8f93020b9018f4aa8586411c4017e9
+      internalID: 205189258
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Libros
+      name: bocetos de objetos para nivel 1_22
       rect:
         serializedVersion: 2
         x: 1834
@@ -601,14 +580,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb0bbe7501777b848be2fd8c5b9cf880
-      internalID: -1039402767
+      spriteID: e957e83b44b3f3448924ce90c72d62d7
+      internalID: -568313946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Telara\xF1a bonita 1"
+      name: bocetos de objetos para nivel 1_23
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 3337
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2976cc2b7818bb48b94fdc73ec41e90
+      internalID: 860177374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_24
       rect:
         serializedVersion: 2
         x: 2546
@@ -622,14 +622,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d85bbee1a617d574d8563ca281e19368
-      internalID: -1512786438
+      spriteID: 1d915bb13ac4b4b438014a446c429a14
+      internalID: -1833525081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Telara\xF1a fea 1"
+      name: bocetos de objetos para nivel 1_25
       rect:
         serializedVersion: 2
         x: 1900
@@ -643,14 +643,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee62f19f2772b334bab617e19cd9adcf
-      internalID: 858373626
+      spriteID: e7a12cd95980f0e46a8277110895e1a4
+      internalID: -1094849091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Telara\xF1a fea 2"
+      name: bocetos de objetos para nivel 1_26
       rect:
         serializedVersion: 2
         x: 2122
@@ -664,18 +664,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a93715128db6f974396f007d298309a1
-      internalID: 1328949711
+      spriteID: 9cc92fe6322f57d4980907f2598b65f3
+      internalID: 859212862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Telara\xF1a bonita 2"
+      name: bocetos de objetos para nivel 1_27
       rect:
         serializedVersion: 2
-        x: 3207
-        y: 2950
+        x: 2629
+        y: 2883
         width: 319
         height: 254
       alignment: 0
@@ -685,20 +685,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8af929e946bad734d8a984a6fe16ddf7
-      internalID: -1171793966
+      spriteID: ff543897a7b6ef147a0f6c3d41af7677
+      internalID: -1672139458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pared de madera lateral
+      name: bocetos de objetos para nivel 1_28
       rect:
         serializedVersion: 2
-        x: 144
-        y: 2302
-        width: 97
-        height: 576
+        x: 157
+        y: 2306
+        width: 78
+        height: 568
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -706,20 +706,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4712599e70ce9594891549ba10821817
-      internalID: 1816401810
+      spriteID: cda1d5307d777e047aa32fdd633a9cff
+      internalID: -333615730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pared de madera
+      name: bocetos de objetos para nivel 1_29
       rect:
         serializedVersion: 2
         x: 351
-        y: 2477
+        y: 2475
         width: 1418
-        height: 381
+        height: 385
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -727,14 +727,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ec3300dd1ef1b94a8a9cd7123b3184f
-      internalID: -92507445
+      spriteID: 188cba9cc6658124eac74fdc5a28d1c3
+      internalID: 461620418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ampolleta
+      name: bocetos de objetos para nivel 1_30
       rect:
         serializedVersion: 2
         x: 2591
@@ -748,14 +748,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97a95fe846691ec458f91968155cb685
-      internalID: -183074183
+      spriteID: f7413e25ea4312243b94068330d9c72b
+      internalID: 759691777
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Piso de madera
+      name: bocetos de objetos para nivel 1_31
       rect:
         serializedVersion: 2
         x: 284
@@ -769,14 +769,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b40e2bd702821e4da7b86285c4dc2bb
-      internalID: -1278101981
+      spriteID: e0b07b39fb8d8594fa082337acfe53b2
+      internalID: 969375576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Foco blanco
+      name: bocetos de objetos para nivel 1_32
       rect:
         serializedVersion: 2
         x: 2059
@@ -790,20 +790,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 458c868014312cb40aa59e9bd1ab51f2
-      internalID: 1041526384
+      spriteID: 73da139d10885fc4fa325cf3fd1ff515
+      internalID: -1952796202
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Foco amarillo
+      name: bocetos de objetos para nivel 1_33
       rect:
         serializedVersion: 2
-        x: 2440
-        y: 2021
-        width: 331
-        height: 618
+        x: 2441
+        y: 2020
+        width: 330
+        height: 617
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -811,14 +811,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2ae23f410def9b4f8d3fdff0b3ce95c
-      internalID: 1775685784
+      spriteID: 952e2944db6763b4cadb13afc6431020
+      internalID: 958347272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Sombreado peque\xF1o"
+      name: bocetos de objetos para nivel 1_34
       rect:
         serializedVersion: 2
         x: 2928
@@ -832,14 +832,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f597bb400978557469095bd51f5db254
-      internalID: 72542028
+      spriteID: eaf06fd4033144040a9fbb3aaa90ee64
+      internalID: -160295396
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sombreado grande
+      name: bocetos de objetos para nivel 1_35
       rect:
         serializedVersion: 2
         x: 3231
@@ -853,8 +853,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: af26d9041502d854ebcc8c3b04ca6fd8
-      internalID: 1148601253
+      spriteID: beba082ec996a664ebabbe841a5aaf21
+      internalID: 1345003380
       vertices: []
       indices: 
       edges: []
@@ -874,8 +874,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66f99b57892f8b74ea629e28b4d734ff
-      internalID: -1226397925
+      spriteID: 42143588bb671004b979fef78dfdc5b5
+      internalID: -570174080
       vertices: []
       indices: 
       edges: []
@@ -895,14 +895,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1263eaa396187e24db0029b85ec1c7fc
-      internalID: -1206263728
+      spriteID: 4d6d78bc1b3d8434a8c18a775e3b4c45
+      internalID: 918635738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fondo de madera con ventana
+      name: bocetos de objetos para nivel 1_38
       rect:
         serializedVersion: 2
         x: 360
@@ -916,14 +916,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 855891562323cdc46bda98f4c6ce27b1
-      internalID: -1605635192
+      spriteID: 7ebf29ce7db56594fbc87050515ec4fe
+      internalID: -2096308238
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Mesita peque\xF1a"
+      name: bocetos de objetos para nivel 1_39
       rect:
         serializedVersion: 2
         x: 2784
@@ -937,14 +937,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad34b5a476caa8b4ebca6d125108e5fc
-      internalID: -598858986
+      spriteID: 1b3e2a94adec32a40bcccbca74d9ee15
+      internalID: 1423860446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Silla
+      name: bocetos de objetos para nivel 1_40
       rect:
         serializedVersion: 2
         x: 3037
@@ -958,14 +958,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5bccc26c1842964fb84ec5755b46b00
-      internalID: 1108575446
+      spriteID: 2d1202c231c12f444a3347f499c357b4
+      internalID: 1211073364
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mesa
+      name: bocetos de objetos para nivel 1_41
       rect:
         serializedVersion: 2
         x: 3150
@@ -979,14 +979,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ea676b0d80c99f47b1f8a0f701d2e88
-      internalID: 1403135545
+      spriteID: a766a66b392424547a686eed31769def
+      internalID: 536121489
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Botell
+      name: bocetos de objetos para nivel 1_42
       rect:
         serializedVersion: 2
         x: 3454
@@ -1000,35 +1000,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de42be2b2917f4a4eb52d25eae769605
-      internalID: 2074301319
+      spriteID: 1bc5a2547e8171144813e6ab053ab68a
+      internalID: 239349006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Suciedad
-      rect:
-        serializedVersion: 2
-        x: 3475
-        y: 1645
-        width: 30
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2634662b1af332b4793088c2c55454a2
-      internalID: -1143631180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Botella
+      name: bocetos de objetos para nivel 1_43
       rect:
         serializedVersion: 2
         x: 3496
@@ -1042,14 +1021,35 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30e3f2d14d667e34bb6c280ef34099d1
-      internalID: 1115689411
+      spriteID: 7a56d07d2fd14eb4895abba30519503c
+      internalID: 1464096345
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Pared lateral de ba\xF1o"
+      name: bocetos de objetos para nivel 1_44
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 1645
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b953464bb9d664db5bd15000a450ee
+      internalID: 1185131079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_45
       rect:
         serializedVersion: 2
         x: 591
@@ -1063,14 +1063,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c3adfbc03fc2174ba2c63cfb747626c
-      internalID: 410477860
+      spriteID: 2e028ad20c20ec848aafcd642a52c025
+      internalID: 1508005296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Mueble de ba\xF1o"
+      name: bocetos de objetos para nivel 1_46
       rect:
         serializedVersion: 2
         x: 1601
@@ -1084,14 +1084,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2851108f5a20404191d3d2dcc8c0621
-      internalID: -831831455
+      spriteID: d6f3f3b9b570ad54f85eaf32098ff226
+      internalID: -519158159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espejo
+      name: bocetos de objetos para nivel 1_47
       rect:
         serializedVersion: 2
         x: 2145
@@ -1105,14 +1105,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe9162cc31eeb4e43840da2d1e168519
-      internalID: -1610289482
+      spriteID: 1671a377bddc5c242acd26ca9d3cbe56
+      internalID: 858329141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Frio
+      name: bocetos de objetos para nivel 1_48
       rect:
         serializedVersion: 2
         x: 2734
@@ -1126,14 +1126,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bcd4c0de0206154f87c7a3707bbdd59
-      internalID: -347125624
+      spriteID: 0e9016c461e430b46a2cebb244f8b162
+      internalID: -1502748356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Horno
+      name: bocetos de objetos para nivel 1_49
       rect:
         serializedVersion: 2
         x: 3033
@@ -1147,14 +1147,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4cf7b6ca0bd96a4b96431ddf330b029
-      internalID: 741397843
+      spriteID: da29cf8f99da83442b19223507e2cfd7
+      internalID: -400897334
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lavamanos
+      name: bocetos de objetos para nivel 1_50
       rect:
         serializedVersion: 2
         x: 3261
@@ -1168,14 +1168,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 531f0977388267a41b0c1177843bd1ae
-      internalID: 2023364535
+      spriteID: e88d6233b9cb16d4a8844dde57be9cf9
+      internalID: 423063826
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Pared de ba\xF1o"
+      name: bocetos de objetos para nivel 1_51
       rect:
         serializedVersion: 2
         x: 797
@@ -1189,14 +1189,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 379fbac1c636a884cb863c6653d0b26e
-      internalID: -237054894
+      spriteID: 7b8ea7cd9635abb4b9adaa7e9449b5d9
+      internalID: -1620024604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Conforcito
+      name: bocetos de objetos para nivel 1_52
       rect:
         serializedVersion: 2
         x: 1595
@@ -1210,14 +1210,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 917c2910462dbaf488460d175adef571
-      internalID: -840052540
+      spriteID: 4c6d95107b75b364fa17a2d836d44e5e
+      internalID: -495904053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: inodoro
+      name: bocetos de objetos para nivel 1_53
       rect:
         serializedVersion: 2
         x: 1765
@@ -1231,14 +1231,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03a1f9cca6f22164690c329aef0ad4e6
-      internalID: 653689354
+      spriteID: 847cdbd0bdbf7674fad31de751b37004
+      internalID: -40529523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lavadero
+      name: bocetos de objetos para nivel 1_54
       rect:
         serializedVersion: 2
         x: 2090
@@ -1252,35 +1252,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e09df0bddc76d8f4280009574b134c8c
-      internalID: -948750291
+      spriteID: 2f208044eac62e84495707578439c86e
+      internalID: 348688456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "Llave de ba\xF1o"
-      rect:
-        serializedVersion: 2
-        x: 2370
-        y: 468
-        width: 36
-        height: 162
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7fc5e8cec0df69f46a4355256cfdeb0c
-      internalID: 162869791
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Piso de ba\xF1o"
+      name: bocetos de objetos para nivel 1_55
       rect:
         serializedVersion: 2
         x: 722
@@ -1294,14 +1273,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2355381ef778d54cab9be21b237ef10
-      internalID: -1176461653
+      spriteID: dae9230bdca879a45af9dc0092e50df9
+      internalID: 1818994548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tacho de basura
+      name: bocetos de objetos para nivel 1_56
       rect:
         serializedVersion: 2
         x: 1966
@@ -1315,17 +1294,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25623d9c99f59fd44926b16d0406d5b0
-      internalID: -976536089
+      spriteID: fcf6b14fa5849a844a37b285932e79ff
+      internalID: 265832596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Tina
+      name: bocetos de objetos para nivel 1_57
       rect:
         serializedVersion: 2
-        x: 2144
+        x: 2145
         y: 437
         width: 142
         height: 212
@@ -1336,8 +1315,491 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6ce2dc59a3d46348afa934ee9ecf82b
-      internalID: -965824144
+      spriteID: 978a8efbf23a2974897c219e20aac794
+      internalID: -218955312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_58
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 468
+        width: 36
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014e13d786ff0e144beff2ce7c5cf611
+      internalID: -742045125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_59
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 586
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16171bd3dc310943b60d5e6de2dd63b
+      internalID: 102206317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_60
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 603
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdf9788b8b65d545b12c8041e4920db
+      internalID: -1706124115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_61
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 592
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3332a997a38b84ebd24fd7cdf36fb7
+      internalID: 43543506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_62
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 307
+        width: 155
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bf185a5027f71478b59d42331c7034
+      internalID: -2036454102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_63
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 330
+        width: 209
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0e386575148ae41b3707d94bc9ab17
+      internalID: 128754197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_64
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 330
+        width: 209
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f327d7526c89cc4dae79b525611cf49
+      internalID: -1481123575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_65
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 325
+        width: 218
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ec956593189c344ae202f966a4b54d
+      internalID: -1992345127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_66
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 49
+        width: 215
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7184392c6199ed5438e03b9484c0cf09
+      internalID: -1482115174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_67
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 1606
+        width: 178
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a311af092a1ce8a4683e8ed6d77dabd2
+      internalID: -31740957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_68
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 1601
+        width: 178
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfbe374fb653794bb8786c6e06da787
+      internalID: -1647739946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_69
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1577
+        width: 178
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f7ade663da4d04cb21002c22cc57d8
+      internalID: -311474472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_70
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 41
+        width: 172
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1a286c02a43564196a6b7d002f112a
+      internalID: 1985379647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_71
+      rect:
+        serializedVersion: 2
+        x: 3037
+        y: 32
+        width: 178
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93412e4313ffd4419d7452f3990c4f8
+      internalID: 881124676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_72
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 44
+        width: 146
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987a9a7e0095d80459fcab93f6768a71
+      internalID: 731589371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_73
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 1967
+        width: 451
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bf04ee5f0cdb347b42ff86fed076ce
+      internalID: -852135468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_74
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 1291
+        width: 417
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae69fd13763ddf468ff0eace2873ef6
+      internalID: -845431605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_75
+      rect:
+        serializedVersion: 2
+        x: 3654
+        y: 1285
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afa18f257970be4182be69685379e0a
+      internalID: 1778291358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_36
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 49
+        width: 158
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdee9190ddac42419733b267b56ede6
+      internalID: -741617283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_37
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 48
+        width: 151
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef9856d19dd95442a8a64f53a56a995
+      internalID: -1389124949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Escalones
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 2997
+        width: 225
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e28cb6ce1e605e40ae4699d362176e5
+      internalID: -1708907838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puerta lateral
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 2994
+        width: 44
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c635375e785ce6c4cb046ff5a3f8a4bb
+      internalID: -1244753891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candado
+      rect:
+        serializedVersion: 2
+        x: 3835
+        y: 3159
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a217bbdc39055745aceabf76a034412
+      internalID: -1352609164
       vertices: []
       indices: 
       edges: []
@@ -1353,66 +1815,87 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Lavamanos: 2023364535
-      "Piso de ba\xF1o": -1176461653
-      Particula grande: -1206263728
-      Nave espacial: 268580297
-      Mueble: -584491619
-      Flores 3: -1757550990
-      Suciedad: -1143631180
-      "Llave de ba\xF1o": 162869791
-      Pared de madera: -92507445
-      "Pared lateral de ba\xF1o": 410477860
-      Frio: -347125624
-      Autito: 355494992
-      "Telara\xF1a bonita 1": -1512786438
-      Tacho de basura: -976536089
-      Flores 2: 1466540856
-      Macetero: 654004407
-      Silla: 1108575446
-      "Sombreado peque\xF1o": 72542028
-      Espejo: -1610289482
-      Basurero: 1242987144
-      Lavadero: -948750291
-      "Telara\xF1a bonita 2": -1171793966
-      "Particula peque\xF1a": -1226397925
-      Osito: -327389445
-      Pelota: 1427757589
-      Ventana: -895089001
-      Conforcito: -840052540
+      bocetos de objetos para nivel 1_18: 1263085887
+      bocetos de objetos para nivel 1_55: 1818994548
+      bocetos de objetos para nivel 1_0: -1977917562
+      bocetos de objetos para nivel 1_11: -1438620552
+      bocetos de objetos para nivel 1_14: 443810193
+      bocetos de objetos para nivel 1_67: -31740957
+      Particula grande: 918635738
+      bocetos de objetos para nivel 1_29: 461620418
+      bocetos de objetos para nivel 1_73: -852135468
+      bocetos de objetos para nivel 1_59: 102206317
+      bocetos de objetos para nivel 1_45: 1508005296
+      bocetos de objetos para nivel 1_36: -741617283
+      bocetos de objetos para nivel 1_20: 926706849
+      bocetos de objetos para nivel 1_3: 1029681729
+      Puerta lateral: -1244753891
+      bocetos de objetos para nivel 1_49: -400897334
+      bocetos de objetos para nivel 1_5: 1535392999
+      bocetos de objetos para nivel 1_26: 859212862
+      bocetos de objetos para nivel 1_31: 969375576
+      bocetos de objetos para nivel 1_44: 1185131079
+      bocetos de objetos para nivel 1_68: -1647739946
+      bocetos de objetos para nivel 1_47: 858329141
+      bocetos de objetos para nivel 1_75: 1778291358
+      bocetos de objetos para nivel 1_58: -742045125
+      "Particula peque\xF1a": -570174080
+      bocetos de objetos para nivel 1_60: -1706124115
+      bocetos de objetos para nivel 1_27: -1672139458
       bocetos de objetos para nivel 1_39: 1423860446
-      Cortinas: 86566071
-      Cuadro: -193287180
-      Basura: 1537790107
-      Foco blanco: 1041526384
-      Puerta: -899924702
-      Jarron: -794534594
-      Cama: -563500083
-      Mesa: 1403135545
-      Fondo de madera con ventana: -1605635192
-      Foco amarillo: 1775685784
-      Basurita: -1729647139
-      Escritorio: 1083304564
-      "Pared de ba\xF1o": -237054894
-      Piso de madera: -1278101981
-      Cubitos: 1773647860
-      Lampara: -1611489075
-      ampolleta: -183074183
-      "Mueble de ba\xF1o": -831831455
-      Botella: 1115689411
-      Libros: -1039402767
-      Tina: -965824144
-      Despertador: -1870780155
-      "Mesita peque\xF1a": -598858986
-      "Telara\xF1a fea 2": 1328949711
-      Horno: 741397843
-      Pared de madera lateral: 1816401810
-      Dinosaurio: -1891673285
-      "Telara\xF1a fea 1": 858373626
-      inodoro: 653689354
-      Sombreado grande: 1148601253
-      Cubito: -921664309
-      Botell: 2074301319
+      bocetos de objetos para nivel 1_9: 2094888279
+      bocetos de objetos para nivel 1_33: 958347272
+      bocetos de objetos para nivel 1_25: -1094849091
+      bocetos de objetos para nivel 1_53: -40529523
+      bocetos de objetos para nivel 1_10: 1159804872
+      bocetos de objetos para nivel 1_41: 536121489
+      bocetos de objetos para nivel 1_28: -333615730
+      bocetos de objetos para nivel 1_42: 239349006
+      bocetos de objetos para nivel 1_74: -845431605
+      bocetos de objetos para nivel 1_52: -495904053
+      bocetos de objetos para nivel 1_63: 128754197
+      bocetos de objetos para nivel 1_30: 759691777
+      bocetos de objetos para nivel 1_48: -1502748356
+      bocetos de objetos para nivel 1_38: -2096308238
+      bocetos de objetos para nivel 1_57: -218955312
+      bocetos de objetos para nivel 1_35: 1345003380
+      bocetos de objetos para nivel 1_16: 1027015270
+      bocetos de objetos para nivel 1_23: 860177374
+      bocetos de objetos para nivel 1_34: -160295396
+      bocetos de objetos para nivel 1_37: -1389124949
+      bocetos de objetos para nivel 1_24: -1833525081
+      bocetos de objetos para nivel 1_15: -870406533
+      bocetos de objetos para nivel 1_6: -359555095
+      bocetos de objetos para nivel 1_32: -1952796202
+      bocetos de objetos para nivel 1_69: -311474472
+      bocetos de objetos para nivel 1_17: 1309741216
+      bocetos de objetos para nivel 1_1: 1650514890
+      Escalones: -1708907838
+      bocetos de objetos para nivel 1_70: 1985379647
+      bocetos de objetos para nivel 1_13: 2020017624
+      bocetos de objetos para nivel 1_64: -1481123575
+      bocetos de objetos para nivel 1_62: -2036454102
+      bocetos de objetos para nivel 1_56: 265832596
+      bocetos de objetos para nivel 1_71: 881124676
+      Candado: -1352609164
+      bocetos de objetos para nivel 1_12: 1686353096
+      bocetos de objetos para nivel 1_22: -568313946
+      bocetos de objetos para nivel 1_66: -1482115174
+      bocetos de objetos para nivel 1_2: 296786739
+      bocetos de objetos para nivel 1_46: -519158159
+      bocetos de objetos para nivel 1_72: 731589371
+      bocetos de objetos para nivel 1_65: -1992345127
+      bocetos de objetos para nivel 1_19: 2032909050
+      bocetos de objetos para nivel 1_40: 1211073364
+      bocetos de objetos para nivel 1_4: -379724014
+      bocetos de objetos para nivel 1_21: 205189258
+      bocetos de objetos para nivel 1_50: 423063826
+      bocetos de objetos para nivel 1_61: 43543506
+      bocetos de objetos para nivel 1_54: 348688456
+      bocetos de objetos para nivel 1_7: -971724509
+      bocetos de objetos para nivel 1_51: -1620024604
+      bocetos de objetos para nivel 1_43: 1464096345
+      bocetos de objetos para nivel 1_8: -1776179638
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 1

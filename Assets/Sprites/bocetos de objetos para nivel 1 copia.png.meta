@@ -1,0 +1,1178 @@
+fileFormatVersion: 2
+guid: 03e67f465e21d5147ac3a08930fd120f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Efecto de agua 1
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2844
+        width: 125
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acad3d0fe81f28344a4004cd041505f2
+      internalID: 1743680472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efecto de agua 2
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 2784
+        width: 242
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc3456922d2eaa4f958501a7e3419e3
+      internalID: 1763924560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efecto de agua 3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2676
+        width: 389
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54621dd327a39c4b817c86354b6e06e
+      internalID: 1722936378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efecto de agua 4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2554
+        width: 570
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d78e5ad91897b945a4d308ab9955c2c
+      internalID: 1647497149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efecto de agua 5
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2414
+        width: 568
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add944366f45c8641b206b9dc0a5ef6e
+      internalID: 585690477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efecto de agua 1.1
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2737
+        width: 247
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb548da11f86b2d4abcdf5a25ef6648c
+      internalID: 1857134968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efecto de agua 1.2
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 2608
+        width: 250
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d197801d4aafa4bb557e0c35b2c842
+      internalID: -1793306765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Efecto de agua 1.3
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 2428
+        width: 240
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9784cce97660d334884a8a5e89cc2a8f
+      internalID: -581986126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol grande
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 174
+        width: 848
+        height: 952
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cedce460325c934693c6dcbb63a0037
+      internalID: -612892924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbol mediano
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 181
+        width: 732
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf231971085656d4c8a77cedd626f13e
+      internalID: -311346594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Suelo de pasto
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 188
+        width: 1345
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1e5cc8f73cfce4ea67d87ce54151f7
+      internalID: 1807224481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Agua
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 663
+        width: 1289
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba784b62b3356794bad90ad541f382f4
+      internalID: 1725506935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cielo
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1635
+        width: 1920
+        height: 1081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cda00530a8da0f4b900d819a095c079
+      internalID: 1871560035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Arbusto peque\xF1o"
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 3441
+        width: 298
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19abecbf5fedf04089760bf4ec18119
+      internalID: 217890289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbusto mediano
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 3451
+        width: 335
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd5f2b3542eac64dad05add0408bc81
+      internalID: 269872578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbusto grande
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 3453
+        width: 431
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585fcaa051a0c944791a673e33ab81bb
+      internalID: -539358460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abedul
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 3334
+        width: 21
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9347bc35048100e4fb11fbf5850e2266
+      internalID: -1515314146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedrota
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 3118
+        width: 406
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dd7e635f2d1284ba121861dfe8075b
+      internalID: -383479975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Piedra mediana
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 3103
+        width: 228
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c4ea4f6665e614493c5e32676a8852
+      internalID: -1410152022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "roca peque\xF1a 1"
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 2907
+        width: 222
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a877352ef600a40a9f706612510d60
+      internalID: -1368620563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "roca peque\xF1a 2"
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 2929
+        width: 212
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2e63c2689591549b90192394100e94
+      internalID: 1608039425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "roca peque\xF1a 3"
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 2973
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d6282551754b74d9f2ec6ba93a510e
+      internalID: -1689554026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de fondo 1
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 3486
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b96f745c92c45b45b65d1e7be1feb14
+      internalID: 1018095654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja de fondo 2
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 3504
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8d8239c26a043478d41e39e974032e
+      internalID: 1036421267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja (Fondo) 1
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 3390
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6186a2b6fc77a3642bee78bc4ae867d4
+      internalID: -730150713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja (Fondo) 2
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 3405
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206c5e30e675eb2419fe2e618ba44bb0
+      internalID: 1088668105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja (Fondo) 3
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 3414
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95930781786c9924fa07222c70fe0c51
+      internalID: 2033862454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja (Fondo) 4
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 3315
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59e27cdc56389a4181be4db2ce9624e
+      internalID: -1855251083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja (Fondo) 5
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 3314
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4605014fadac7045932428f7e7eb3a3
+      internalID: 1437553430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja (Fondo) 6
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 3325
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1f6978a35420647b3ebc33141ac868
+      internalID: 2038868673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja (Fondo) 7
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 3526
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778b509d45a90b24d98f9ad9d97f1da2
+      internalID: 560318571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja (Fondo) 8
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 3515
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6d5c0a6b87b2e4e80503bee79781e3
+      internalID: 1717174763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Liana Grande
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 3369
+        width: 50
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ceb10e2c00c7e44a0c3c40356e2d04
+      internalID: -1971003936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Liana mediana
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 3441
+        width: 53
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5951ecd3f7742b94aaacb81b6a33d90f
+      internalID: -1693467734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Liana peque\xF1a"
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 3502
+        width: 56
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4c6262e25324a4bbe13310f5a285ad
+      internalID: -1040879870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Liana (Fondo) Grande
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 3645
+        width: 49
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8845eb8234a8b20408599d0ecb675c3d
+      internalID: 908302815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Liana (Fondo) Mediano
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 3717
+        width: 48
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ee8990beb2944439d3ffd1ea03a0d2
+      internalID: 117156462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Liana (Fondo) peque\xF1a"
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 3775
+        width: 47
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778072f4405fc749b681f8688d3a3e1
+      internalID: 1072849736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetacion  (Fondo) 1
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 2894
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edf213c3bdf2d24ba4db34aeaa16582
+      internalID: 977296554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetacion  (Fondo) 2
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 2903
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1062045ffdb134f821129765354fdf
+      internalID: -923993595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetacion  (Fondo) 3
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 2886
+        width: 161
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f60f2e3af544d489da4e431f171d41
+      internalID: -325382074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetacion 1
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 2889
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac9f3e332d4304d95f37e6b1694d6c
+      internalID: 772619003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetacion 2
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 2889
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f5f04c17d1c3444a2942aaba1a209f
+      internalID: 2022961301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegetacion 3
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 2872
+        width: 158
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7439c0412626c54bb8c3b61a26a25d0
+      internalID: 910518538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasto 1
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 3053
+        width: 111
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bfd2909c49a4c45ad7b6e8da104a19
+      internalID: -1355225288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasto 2
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 3058
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb46985e2483534c9e9f8d7e6819b8d
+      internalID: -31134989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pasto 3
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3057
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd10918acfde3dc46aa67830affa2294
+      internalID: -34886661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Florcita
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 3207
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f29fbab3fa456c4fbb002d6b648ad4b
+      internalID: -1203921904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Liana (Fondo) Grande: -612892924
+      Suelo de pasto: -4837962
+      Vegetacion 3: 269872578
+      Hoja de fondo 1: 2133471454
+      Hoja (Fondo) 2: 645089560
+      Liana mediana: 1779422521
+      "Liana peque\xF1a": 1722936378
+      Vegetacion  (Fondo) 1: 217890289
+      Vegetacion  (Fondo) 2: 269872578
+      Cielo: 314933471
+      Arbusto grande: -1643340014
+      Piedra mediana: -1557064892
+      Vegetacion 2: 269872578
+      Efecto de agua 5: -855257552
+      Piedrota: 131660102
+      Liana (Fondo) Mediano: -311346594
+      Efecto de agua 1.2: 1848302755
+      Efecto de agua 1.3: -1901389629
+      abedul: 1912535803
+      Arbol mediano: -1143408407
+      Agua: 109826621
+      "roca peque\xF1a 1": -1361429611
+      Hoja de fondo 2: 1965458663
+      Efecto de agua 1.1: 1019517060
+      Hoja (Fondo) 7: 2089321949
+      Efecto de agua 3: 1292654276
+      Pasto 2: -1515314146
+      Liana Grande: -2145585444
+      Hoja (Fondo) 8: -779810872
+      Pasto 3: -1515314146
+      Florcita: -1410152022
+      "roca peque\xF1a 3": -218891339
+      Hoja (Fondo) 4: -1697338847
+      Arbol grande: -112452026
+      "Liana (Fondo) peque\xF1a": 1807224481
+      "Arbusto peque\xF1o": 1838442515
+      "roca peque\xF1a 2": 2006909011
+      Hoja (Fondo) 5: 1964023016
+      Hoja (Fondo) 3: 1419777361
+      Vegetacion 1: 269872578
+      Efecto de agua 1: -785248054
+      Hoja (Fondo) 6: 395578216
+      Hoja (Fondo) 1: -113852767
+      Efecto de agua 2: -1724880108
+      Efecto de agua 4: -1993751617
+      Pasto 1: -539358460
+      Vegetacion  (Fondo) 3: 269872578
+      Arbusto mediano: -1920717013
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
