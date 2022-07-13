@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Comedor.unity
+    path: Assets/Scenes/Menu principal 1.1.unity
+    guid: e53c9f65efb92d541be029891c1dca11
+  - enabled: 1
+    path: Assets/Scenes/Level 1 - Habitacion.unity
+    guid: 6a8c25732f0cb5d4594bb4b33a13839a
+  - enabled: 1
+    path: Assets/Scenes/Level 1 - Comedor.unity
     guid: c50e32ed03d7a83498a2d5991662b6b7
   - enabled: 1
-    path: Assets/Scenes/Habitacion 1.unity
-    guid: 6a8c25732f0cb5d4594bb4b33a13839a
+    path: "Assets/Scenes/Level 1 - Ba\xF1o.unity"
+    guid: 8392d45a9a26b2b478b07bf8958a8f37
   m_configObjects: {}
