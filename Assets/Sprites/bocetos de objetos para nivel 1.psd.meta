@@ -1897,7 +1897,7 @@ TextureImporter:
       bocetos de objetos para nivel 1_43: 1464096345
       bocetos de objetos para nivel 1_8: -1776179638
   spritePackingTag: 
-  pSDRemoveMatte: 0
+  pSDRemoveMatte: 1
   pSDShowRemoveMatteOption: 1
   userData: 
   assetBundleName: 

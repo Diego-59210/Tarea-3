@@ -3720,7 +3720,7 @@ GameObject:
   - component: {fileID: 270248578}
   - component: {fileID: 270248577}
   m_Layer: 0
-  m_Name: Puerta lateral (1)
+  m_Name: Puerta Salida
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9919,7 +9919,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 826111004}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.2999666, y: -2.4075782, z: -10}
+  m_LocalPosition: {x: -1.2999666, y: -2.4076898, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11687,7 +11687,7 @@ GameObject:
   - component: {fileID: 967382408}
   - component: {fileID: 967382407}
   m_Layer: 0
-  m_Name: Puerta lateral
+  m_Name: "Puerta Ba\xF1o"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23395,7 +23395,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7777778, y: 1}
+    m_SensorSize: {x: 1.3333334, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
