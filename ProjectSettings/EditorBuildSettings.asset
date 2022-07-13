@@ -6,12 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Level 1.unity
-    guid: 8d835a88f849e2342b4ad632d000048b
+    path: Assets/Scenes/Comedor.unity
+    guid: c50e32ed03d7a83498a2d5991662b6b7
   - enabled: 1
-    path: Assets/Scenes/Level 2 01-06.unity
-    guid: b6b6ef38c54a8dd43ac2bb988af09c0f
-  - enabled: 1
-    path: Assets/Scenes/Level 3.unity
-    guid: 0ee793382a8dbf440a63032f885e6fb3
+    path: Assets/Scenes/Habitacion 1.unity
+    guid: 6a8c25732f0cb5d4594bb4b33a13839a
   m_configObjects: {}
