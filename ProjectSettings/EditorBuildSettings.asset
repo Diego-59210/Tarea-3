@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu principal 1.1.unity
     guid: e53c9f65efb92d541be029891c1dca11
   - enabled: 1
-    path: Assets/Scenes/Level 1 - Habitacion.unity
-    guid: 6a8c25732f0cb5d4594bb4b33a13839a
-  - enabled: 1
     path: Assets/Scenes/Level 1 - Comedor.unity
     guid: c50e32ed03d7a83498a2d5991662b6b7
   - enabled: 1
@@ -20,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/escena de muerte.unity
     guid: c2fdfc99e184dfa40957e00588e6b62f
+  - enabled: 1
+    path: Assets/Scenes/Level 1 - Habitacion.unity
+    guid: 6a8c25732f0cb5d4594bb4b33a13839a
   m_configObjects: {}
