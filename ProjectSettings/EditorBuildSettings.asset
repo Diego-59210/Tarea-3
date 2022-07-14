@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/Scenes/Level 1 - Ba\xF1o.unity"
     guid: 8392d45a9a26b2b478b07bf8958a8f37
+  - enabled: 1
+    path: Assets/Scenes/escena de muerte.unity
+    guid: c2fdfc99e184dfa40957e00588e6b62f
   m_configObjects: {}

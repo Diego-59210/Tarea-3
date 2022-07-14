@@ -1603,7 +1603,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: c1176373ca264074a87f4a4a2ac4c6b8, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.555
+  m_Volume: 0.932
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1611,7 +1611,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 152
   DopplerLevel: 0
-  MinDistance: 44.944565
+  MinDistance: 56.66121
   MaxDistance: 98.3873
   Pan2D: 0
   rolloffMode: 2
@@ -1640,7 +1640,7 @@ AudioSource:
       inWeight: 0.33333334
       outWeight: 0.57818633
     - serializedVersion: 3
-      time: 0.3033446
+      time: 0.3295592
       value: 0.6191101
       inSlope: -3.879828
       outSlope: -3.879828
@@ -1649,8 +1649,8 @@ AudioSource:
       inWeight: 0.26419768
       outWeight: 0
     - serializedVersion: 3
-      time: 0.47677973
-      value: 0.00010681152
+      time: 0.5728948
+      value: 0.0065460205
       inSlope: -1.0442065
       outSlope: -1.0442065
       tangentMode: 0
@@ -3846,7 +3846,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1573363708}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -24.4, y: -1.25, z: 0}
+  m_LocalPosition: {x: 24.3, y: 3.3, z: 0}
   m_LocalScale: {x: 0.88421524, y: 0.88421524, z: 0.88421524}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3895,8 +3895,8 @@ MonoBehaviour:
   - {fileID: 1082109684}
   - {fileID: 1070711931}
   m_Bounds:
-    m_Center: {x: -0.028563678, y: 0.105380535, z: 0}
-    m_Extent: {x: 0.9652345, y: 2.9436204, z: 0}
+    m_Center: {x: -0.028564632, y: 0.10538101, z: 0}
+    m_Extent: {x: 0.96523356, y: 2.9436207, z: 0}
   m_UseBatching: 1
   m_AlwaysUpdate: 1
   m_AutoRebind: 0
@@ -4359,7 +4359,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1781217015}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -18.91, y: 2.32, z: -10}
+  m_LocalPosition: {x: 24, y: 5.8, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
