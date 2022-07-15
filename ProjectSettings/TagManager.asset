@@ -9,6 +9,7 @@ TagManager:
   - Enemy
   - Bullet
   - Rope
+  - Confiner
   layers:
   - Default
   - TransparentFX
@@ -45,4 +46,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Encima del player
+    uniqueID: 29460503
     locked: 0
