@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/Scenes/NIVEL 1/Level 1 - Habitacion.unity
     guid: 6a8c25732f0cb5d4594bb4b33a13839a
   - enabled: 1
-    path: Assets/Scenes/NIVEL 1/Hab Futuro.unity
+    path: Assets/Scenes/NIVEL 1/Hab. Mama.unity
     guid: 442dc842bb0070c4f8ed738e2d049c6a
+  - enabled: 1
+    path: "Assets/Scenes/NIVEL 1/Hab ni\xF1o futura.unity"
+    guid: dde88d14f0d693a4d9c53c9ab326d661
   m_configObjects: {}
