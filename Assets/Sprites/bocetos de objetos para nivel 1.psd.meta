@@ -569,8 +569,8 @@ TextureImporter:
       name: bocetos de objetos para nivel 1_22
       rect:
         serializedVersion: 2
-        x: 1834
-        y: 3362
+        x: 1743
+        y: 3270
         width: 297
         height: 92
       alignment: 0
@@ -800,8 +800,8 @@ TextureImporter:
       name: bocetos de objetos para nivel 1_33
       rect:
         serializedVersion: 2
-        x: 2441
-        y: 2020
+        x: 2426
+        y: 1999
         width: 330
         height: 617
       alignment: 0
@@ -821,8 +821,8 @@ TextureImporter:
       name: bocetos de objetos para nivel 1_34
       rect:
         serializedVersion: 2
-        x: 2928
-        y: 2421
+        x: 2839
+        y: 2329
         width: 278
         height: 277
       alignment: 0
@@ -842,8 +842,8 @@ TextureImporter:
       name: bocetos de objetos para nivel 1_35
       rect:
         serializedVersion: 2
-        x: 3231
-        y: 2420
+        x: 3140
+        y: 2328
         width: 278
         height: 277
       alignment: 0
@@ -863,8 +863,8 @@ TextureImporter:
       name: "Particula peque\xF1a"
       rect:
         serializedVersion: 2
-        x: 3026
-        y: 2333
+        x: 2936
+        y: 2241
         width: 78
         height: 77
       alignment: 0
@@ -884,8 +884,8 @@ TextureImporter:
       name: Particula grande
       rect:
         serializedVersion: 2
-        x: 3333
-        y: 2329
+        x: 3244
+        y: 2237
         width: 78
         height: 77
       alignment: 0
@@ -1640,10 +1640,10 @@ TextureImporter:
       name: bocetos de objetos para nivel 1_73
       rect:
         serializedVersion: 2
-        x: 2868
-        y: 1967
-        width: 451
-        height: 245
+        x: 2842
+        y: 2048
+        width: 414
+        height: 101
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1750,7 +1750,7 @@ TextureImporter:
         width: 225
         height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1771,7 +1771,7 @@ TextureImporter:
         width: 44
         height: 484
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1792,7 +1792,7 @@ TextureImporter:
         width: 65
         height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1800,6 +1800,132 @@ TextureImporter:
       bones: []
       spriteID: 3a217bbdc39055745aceabf76a034412
       internalID: -1352609164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_76
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 1537
+        width: 216
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ee394f76f5f0d4288ca21a1544c762
+      internalID: -885846528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_77
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 3556
+        width: 726
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7cb6ba0c046784cb9c282cdbfe0af8
+      internalID: -161609510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_78
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 2657
+        width: 315
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8df2ae1f497e549b6a2ed0d611d6b9
+      internalID: 118190735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_79
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3856
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd69b4b657e90d7419ec548e2a3611f5
+      internalID: 110374475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bocetos de objetos para nivel 1_80
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 3859
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f267c121831a7c4daffc9379060c6a4
+      internalID: -738148331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Llave
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 3457
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff62add7d43fb954ea0a2dec9bd86ed5
+      internalID: 1039671633
       vertices: []
       indices: 
       edges: []
@@ -1815,87 +1941,93 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bocetos de objetos para nivel 1_18: 1263085887
       bocetos de objetos para nivel 1_55: 1818994548
       bocetos de objetos para nivel 1_0: -1977917562
       bocetos de objetos para nivel 1_11: -1438620552
       bocetos de objetos para nivel 1_14: 443810193
       bocetos de objetos para nivel 1_67: -31740957
       Particula grande: 918635738
-      bocetos de objetos para nivel 1_29: 461620418
       bocetos de objetos para nivel 1_73: -852135468
       bocetos de objetos para nivel 1_59: 102206317
-      bocetos de objetos para nivel 1_45: 1508005296
-      bocetos de objetos para nivel 1_36: -741617283
       bocetos de objetos para nivel 1_20: 926706849
       bocetos de objetos para nivel 1_3: 1029681729
       Puerta lateral: -1244753891
       bocetos de objetos para nivel 1_49: -400897334
-      bocetos de objetos para nivel 1_5: 1535392999
       bocetos de objetos para nivel 1_26: 859212862
       bocetos de objetos para nivel 1_31: 969375576
       bocetos de objetos para nivel 1_44: 1185131079
+      bocetos de objetos para nivel 1_60: -1706124115
+      bocetos de objetos para nivel 1_27: -1672139458
+      bocetos de objetos para nivel 1_9: 2094888279
+      bocetos de objetos para nivel 1_33: 958347272
+      bocetos de objetos para nivel 1_74: -845431605
+      bocetos de objetos para nivel 1_25: -1094849091
+      bocetos de objetos para nivel 1_53: -40529523
+      bocetos de objetos para nivel 1_42: 239349006
+      bocetos de objetos para nivel 1_48: -1502748356
+      bocetos de objetos para nivel 1_38: -2096308238
+      bocetos de objetos para nivel 1_34: -160295396
+      bocetos de objetos para nivel 1_32: -1952796202
+      bocetos de objetos para nivel 1_69: -311474472
+      bocetos de objetos para nivel 1_17: 1309741216
+      bocetos de objetos para nivel 1_1: 1650514890
+      bocetos de objetos para nivel 1_70: 1985379647
+      bocetos de objetos para nivel 1_71: 881124676
+      Candado: -1352609164
+      bocetos de objetos para nivel 1_12: 1686353096
+      bocetos de objetos para nivel 1_22: -568313946
+      bocetos de objetos para nivel 1_72: 731589371
+      bocetos de objetos para nivel 1_65: -1992345127
+      bocetos de objetos para nivel 1_19: 2032909050
+      bocetos de objetos para nivel 1_40: 1211073364
+      bocetos de objetos para nivel 1_21: 205189258
+      bocetos de objetos para nivel 1_61: 43543506
+      bocetos de objetos para nivel 1_8: -1776179638
+      bocetos de objetos para nivel 1_18: 1263085887
+      bocetos de objetos para nivel 1_29: 461620418
+      bocetos de objetos para nivel 1_45: 1508005296
+      bocetos de objetos para nivel 1_36: -741617283
+      Llave: 1039671633
+      bocetos de objetos para nivel 1_5: 1535392999
+      bocetos de objetos para nivel 1_78: 118190735
       bocetos de objetos para nivel 1_68: -1647739946
       bocetos de objetos para nivel 1_47: 858329141
       bocetos de objetos para nivel 1_75: 1778291358
       bocetos de objetos para nivel 1_58: -742045125
       "Particula peque\xF1a": -570174080
-      bocetos de objetos para nivel 1_60: -1706124115
-      bocetos de objetos para nivel 1_27: -1672139458
       bocetos de objetos para nivel 1_39: 1423860446
-      bocetos de objetos para nivel 1_9: 2094888279
-      bocetos de objetos para nivel 1_33: 958347272
-      bocetos de objetos para nivel 1_25: -1094849091
-      bocetos de objetos para nivel 1_53: -40529523
+      bocetos de objetos para nivel 1_37: -1389124949
       bocetos de objetos para nivel 1_10: 1159804872
       bocetos de objetos para nivel 1_41: 536121489
-      bocetos de objetos para nivel 1_28: -333615730
-      bocetos de objetos para nivel 1_42: 239349006
-      bocetos de objetos para nivel 1_74: -845431605
       bocetos de objetos para nivel 1_52: -495904053
+      bocetos de objetos para nivel 1_28: -333615730
       bocetos de objetos para nivel 1_63: 128754197
       bocetos de objetos para nivel 1_30: 759691777
-      bocetos de objetos para nivel 1_48: -1502748356
-      bocetos de objetos para nivel 1_38: -2096308238
       bocetos de objetos para nivel 1_57: -218955312
       bocetos de objetos para nivel 1_35: 1345003380
       bocetos de objetos para nivel 1_16: 1027015270
       bocetos de objetos para nivel 1_23: 860177374
-      bocetos de objetos para nivel 1_34: -160295396
-      bocetos de objetos para nivel 1_37: -1389124949
+      bocetos de objetos para nivel 1_80: -738148331
       bocetos de objetos para nivel 1_24: -1833525081
       bocetos de objetos para nivel 1_15: -870406533
       bocetos de objetos para nivel 1_6: -359555095
-      bocetos de objetos para nivel 1_32: -1952796202
-      bocetos de objetos para nivel 1_69: -311474472
-      bocetos de objetos para nivel 1_17: 1309741216
-      bocetos de objetos para nivel 1_1: 1650514890
       Escalones: -1708907838
-      bocetos de objetos para nivel 1_70: 1985379647
       bocetos de objetos para nivel 1_13: 2020017624
       bocetos de objetos para nivel 1_64: -1481123575
       bocetos de objetos para nivel 1_62: -2036454102
       bocetos de objetos para nivel 1_56: 265832596
-      bocetos de objetos para nivel 1_71: 881124676
-      Candado: -1352609164
-      bocetos de objetos para nivel 1_12: 1686353096
-      bocetos de objetos para nivel 1_22: -568313946
       bocetos de objetos para nivel 1_66: -1482115174
       bocetos de objetos para nivel 1_2: 296786739
+      bocetos de objetos para nivel 1_76: -885846528
       bocetos de objetos para nivel 1_46: -519158159
-      bocetos de objetos para nivel 1_72: 731589371
-      bocetos de objetos para nivel 1_65: -1992345127
-      bocetos de objetos para nivel 1_19: 2032909050
-      bocetos de objetos para nivel 1_40: 1211073364
+      bocetos de objetos para nivel 1_79: 110374475
       bocetos de objetos para nivel 1_4: -379724014
-      bocetos de objetos para nivel 1_21: 205189258
+      bocetos de objetos para nivel 1_77: -161609510
       bocetos de objetos para nivel 1_50: 423063826
-      bocetos de objetos para nivel 1_61: 43543506
       bocetos de objetos para nivel 1_54: 348688456
-      bocetos de objetos para nivel 1_7: -971724509
       bocetos de objetos para nivel 1_51: -1620024604
+      bocetos de objetos para nivel 1_7: -971724509
       bocetos de objetos para nivel 1_43: 1464096345
-      bocetos de objetos para nivel 1_8: -1776179638
   spritePackingTag: 
   pSDRemoveMatte: 1
   pSDShowRemoveMatteOption: 1
