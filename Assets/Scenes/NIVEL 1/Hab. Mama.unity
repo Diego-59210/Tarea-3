@@ -2937,7 +2937,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78e4badee43c5ee47b2c41a84f1c0351, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: Level 1 - Comedor
+  levelToLoad: Comedor sin llave
 --- !u!114 &137638321
 MonoBehaviour:
   m_ObjectHideFlags: 0
