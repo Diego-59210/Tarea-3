@@ -6,20 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/NIVEL 1/Menu principal 1.1.unity
-    guid: e53c9f65efb92d541be029891c1dca11
-  - enabled: 1
-    path: Assets/Scenes/NIVEL 1/Level 1 - Comedor.unity
-    guid: c50e32ed03d7a83498a2d5991662b6b7
+    path: Assets/Scenes/NIVEL 1/Menu, Habitacion y Comedor.unity
+    guid: 6a8c25732f0cb5d4594bb4b33a13839a
   - enabled: 1
     path: "Assets/Scenes/NIVEL 1/Level 1 - Ba\xF1o.unity"
     guid: 8392d45a9a26b2b478b07bf8958a8f37
   - enabled: 1
     path: Assets/Scenes/NIVEL 1/escena de muerte.unity
     guid: c2fdfc99e184dfa40957e00588e6b62f
-  - enabled: 1
-    path: Assets/Scenes/NIVEL 1/Menu, Habitacion y Comedor.unity
-    guid: 6a8c25732f0cb5d4594bb4b33a13839a
   - enabled: 1
     path: Assets/Scenes/NIVEL 1/Hab. Mama.unity
     guid: 442dc842bb0070c4f8ed738e2d049c6a
