@@ -10503,15 +10503,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2468713959394880162, guid: f911ec86261072b4b9e605d2f8cb0ac3, type: 3}
       propertyPath: orthographic size
-      value: 4.64
+      value: 7.440677
       objectReference: {fileID: 0}
     - target: {fileID: 2468713959394880163, guid: f911ec86261072b4b9e605d2f8cb0ac3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.030029297
+      value: 1999.6475
       objectReference: {fileID: 0}
     - target: {fileID: 2468713959394880163, guid: f911ec86261072b4b9e605d2f8cb0ac3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.07999992
+      value: -16.835049
       objectReference: {fileID: 0}
     - target: {fileID: 2468713959394880163, guid: f911ec86261072b4b9e605d2f8cb0ac3, type: 3}
       propertyPath: m_LocalPosition.z
@@ -18131,7 +18131,6 @@ GameObject:
   - component: {fileID: 686200630}
   - component: {fileID: 686200629}
   - component: {fileID: 686200634}
-  - component: {fileID: 686200633}
   - component: {fileID: 686200635}
   m_Layer: 0
   m_Name: "Transici\xF3n de Habitaci\xF3n-Comedor"
@@ -18157,9 +18156,9 @@ MonoBehaviour:
   customActions:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
+      - m_Target: {fileID: 686200634}
+        m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
+        m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -18167,7 +18166,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 1322156520}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
@@ -18274,19 +18273,6 @@ Transform:
   m_Father: {fileID: 1153054757}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &686200633
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 686200626}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 78e4badee43c5ee47b2c41a84f1c0351, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  levelToLoad: Level 1 - Comedor
 --- !u!114 &686200634
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18304,17 +18290,17 @@ MonoBehaviour:
   customActions:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 686200633}
-        m_TargetAssemblyTypeName: LoadLevel, Assembly-CSharp
-        m_MethodName: LoadLevelNow
-        m_Mode: 1
+      - m_Target: {fileID: 1823470236}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
       - m_Target: {fileID: 1153054756}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
@@ -18327,18 +18313,6 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 1823470236}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
         m_CallState: 2
   happenOnlyOnce: 0
   filterByTag: 0
@@ -22403,13 +22377,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 790668012}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 63.46, y: -2.97, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 20.564175, y: -2.9065604, z: 0.79083264}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_Father: {fileID: 1823470237}
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &793853749
 GameObject:
@@ -42925,6 +42899,9 @@ GameObject:
   - component: {fileID: 1573363720}
   - component: {fileID: 1573363721}
   - component: {fileID: 1573363722}
+  - component: {fileID: 1573363725}
+  - component: {fileID: 1573363724}
+  - component: {fileID: 1573363723}
   m_Layer: 0
   m_Name: PLAYER Remastered
   m_TagString: Player
@@ -43166,6 +43143,61 @@ MonoBehaviour:
   groundTag: Ground
   checkGround: 1
   hasSecondJump: 0
+--- !u!114 &1573363723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1573363708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16964485358617a429bca867ce0bff70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animatorOBJ: {fileID: 1573363712}
+  AnimationID: Correr
+--- !u!114 &1573363724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1573363708}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73ddb73e2f0dc401ebfb23c7b6e72fa5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actions: []
+  useCustomActions: 1
+  customActions:
+    m_PersistentCalls:
+      m_Calls: []
+  happenOnlyOnce: 0
+  filterByTag: 0
+  filterTag: Player
+  keyToPress: 304
+  eventType: 0
+  frequency: 0.5
+--- !u!114 &1573363725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1573363708}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d926fec57fb4c411a912d607e2822370, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rigidbody2D: {fileID: 0}
+  typeOfControl: 0
+  speed: 55
+  movementType: 1
+  orientToDirection: 0
+  lookAxis: 0
 --- !u!1 &1573369727
 GameObject:
   m_ObjectHideFlags: 0
@@ -51994,7 +52026,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1823470237
 Transform:
   m_ObjectHideFlags: 0
@@ -52029,6 +52061,7 @@ Transform:
   - {fileID: 917655081}
   - {fileID: 594456708}
   - {fileID: 1990100991}
+  - {fileID: 790668014}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -54247,7 +54280,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 25.738998, y: 0.542254}
+  m_Offset: {x: 22.0638, y: 0.542254}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -54258,7 +54291,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.3014145, y: 7.145547}
+  m_Size: {x: 9.651808, y: 7.145547}
   m_EdgeRadius: 0
 --- !u!1 &1925800695
 GameObject:
