@@ -1918,7 +1918,7 @@ TextureImporter:
         width: 36
         height: 85
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1926,6 +1926,48 @@ TextureImporter:
       bones: []
       spriteID: ff62add7d43fb954ea0a2dec9bd86ed5
       internalID: 1039671633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mitad puerta 1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1794
+        width: 77
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95b8963fee598e48ab8cfe43d6b0c47
+      internalID: -463190357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mitad puerta 2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1796
+        width: 69
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a85579fe5b2144adb93b4dd016125
+      internalID: -1833643685
       vertices: []
       indices: 
       edges: []
@@ -1964,7 +2006,9 @@ TextureImporter:
       bocetos de objetos para nivel 1_25: -1094849091
       bocetos de objetos para nivel 1_53: -40529523
       bocetos de objetos para nivel 1_42: 239349006
+      Mitad puerta 1: -463190357
       bocetos de objetos para nivel 1_48: -1502748356
+      Mitad puerta 2: -1833643685
       bocetos de objetos para nivel 1_38: -2096308238
       bocetos de objetos para nivel 1_34: -160295396
       bocetos de objetos para nivel 1_32: -1952796202

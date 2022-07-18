@@ -29,4 +29,7 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/Scenes/NIVEL 1/Hab ni\xF1o futura.unity"
     guid: dde88d14f0d693a4d9c53c9ab326d661
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 1/Comedor Final.unity
+    guid: 3921180aaaad24d4592a64660e749f89
   m_configObjects: {}
