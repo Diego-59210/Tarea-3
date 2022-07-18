@@ -15543,7 +15543,7 @@ GameObject:
   - component: {fileID: 270834656}
   m_Layer: 0
   m_Name: Piedrota
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15628,7 +15628,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.04536444, y: -0.2558624}
+  m_Offset: {x: -0.04536438, y: -0.30991942}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -15639,7 +15639,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 3.7676344, y: 1.3882753}
+  m_Size: {x: 3.7676344, y: 1.2801613}
   m_EdgeRadius: 0
 --- !u!1 &272171842
 GameObject:
@@ -35774,7 +35774,7 @@ GameObject:
   - component: {fileID: 616123779}
   m_Layer: 0
   m_Name: "roca peque\xF1a 1 (1)"
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35859,7 +35859,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.046126604, y: -0.18452355}
+  m_Offset: {x: 0.046126604, y: -0.24406517}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -35870,7 +35870,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.7433214, y: 0.9810527}
+  m_Size: {x: 1.7433214, y: 0.8619695}
   m_EdgeRadius: 0
 --- !u!1 &616697638
 GameObject:
@@ -36133,9 +36133,10 @@ GameObject:
   m_Component:
   - component: {fileID: 619473129}
   - component: {fileID: 619473128}
+  - component: {fileID: 619473130}
   m_Layer: 0
   m_Name: "roca peque\xF1a 2 (1)"
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36207,6 +36208,32 @@ Transform:
   m_Father: {fileID: 681685727}
   m_RootOrder: 418
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &619473130
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 619473127}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.33253837}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.12, y: 1.71}
+    newSize: {x: 2.12, y: 1.71}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.12, y: 1.0449233}
+  m_EdgeRadius: 0
 --- !u!1 &619541061
 GameObject:
   m_ObjectHideFlags: 0
@@ -41232,7 +41259,7 @@ GameObject:
   - component: {fileID: 690581643}
   m_Layer: 0
   m_Name: "roca peque\xF1a 3"
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -48995,7 +49022,7 @@ GameObject:
   - component: {fileID: 798227905}
   m_Layer: 0
   m_Name: Suelo de pasto (10)
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49028,7 +49055,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.60044956, y: -1.2664752}
+  m_Offset: {x: 0.14047337, y: -1.0950297}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -49039,7 +49066,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 12.249102, y: 1.1070495}
+  m_Size: {x: 13.169054, y: 1.4499404}
   m_EdgeRadius: 0
 --- !u!212 &798227906
 SpriteRenderer:
@@ -49211,7 +49238,7 @@ GameObject:
   - component: {fileID: 798953427}
   m_Layer: 0
   m_Name: "roca peque\xF1a 3 (1)"
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49296,7 +49323,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.011634827, y: -0.11629629}
+  m_Offset: {x: 0.011634827, y: -0.16479158}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -49307,7 +49334,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.4869537, y: 0.7345934}
+  m_Size: {x: 1.4869537, y: 0.6376028}
   m_EdgeRadius: 0
 --- !u!1 &800105247
 GameObject:
@@ -67167,7 +67194,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
   typeOfControl: 0
-  speed: 35
+  speed: 40
   movementType: 0
   orientToDirection: 0
   lookAxis: 0
@@ -67317,7 +67344,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
   key: 32
-  jumpStrength: 100
+  jumpStrength: 120
   groundTag: Ground
   checkGround: 1
   hasSecondJump: 0
@@ -67377,7 +67404,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
   typeOfControl: 1
-  speed: 10
+  speed: 25
   movementType: 1
   orientToDirection: 0
   lookAxis: 1
@@ -67396,7 +67423,7 @@ Rigidbody2D:
   m_Mass: 5
   m_LinearDrag: 9
   m_AngularDrag: 0.05
-  m_GravityScale: 3
+  m_GravityScale: 6
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -92621,7 +92648,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 20
+  m_SortingOrder: 4
   m_Sprite: {fileID: 21300000, guid: 9d158c1cb7052224dbbde6fd8b0b2c22, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -115642,7 +115669,7 @@ GameObject:
   - component: {fileID: 1858438890}
   m_Layer: 0
   m_Name: "roca peque\xF1a 2"
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115727,7 +115754,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.011631012, y: -0.19188833}
+  m_Offset: {x: -0.011631012, y: -0.26116705}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -115738,7 +115765,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.7711105, y: 1.0703726}
+  m_Size: {x: 1.7711105, y: 0.93181515}
   m_EdgeRadius: 0
 --- !u!1 &1861212254
 GameObject:
