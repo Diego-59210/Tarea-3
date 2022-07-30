@@ -64507,7 +64507,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 5d766ad2d26b4564caa7fc8e38b3bb4f, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.423
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -87194,19 +87194,7 @@ MonoBehaviour:
   useCustomActions: 1
   customActions:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1371804950}
-        m_TargetAssemblyTypeName: AnimatinoControllerTree, Assembly-CSharp
-        m_MethodName: ChangeAnimation
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
@@ -87290,19 +87278,7 @@ MonoBehaviour:
   useCustomActions: 1
   customActions:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1371804950}
-        m_TargetAssemblyTypeName: AnimatinoControllerTree, Assembly-CSharp
-        m_MethodName: ChangeAnimation
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   happenOnlyOnce: 0
   filterByTag: 0
   filterTag: Player
@@ -131063,8 +131039,8 @@ MonoBehaviour:
   filterTag: Player
   frequency: 1
   eventType: 0
---- !u!61 &2095404261
-BoxCollider2D:
+--- !u!60 &2095404261
+PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -131076,7 +131052,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 21.597319, y: 0.25083923}
+  m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -131086,9 +131062,14 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 6.4683533, y: 19.56213}
-  m_EdgeRadius: 0
+  m_Points:
+    m_Paths:
+    - - {x: 23.946453, y: 8.996635}
+      - {x: 23.51691, y: 0.26555824}
+      - {x: 23.315207, y: -1.8085961}
+      - {x: 18.420473, y: -2.090701}
+      - {x: 18.406378, y: -9.544476}
+      - {x: 25.853626, y: -9.512939}
 --- !u!1 &2095975325
 GameObject:
   m_ObjectHideFlags: 0
