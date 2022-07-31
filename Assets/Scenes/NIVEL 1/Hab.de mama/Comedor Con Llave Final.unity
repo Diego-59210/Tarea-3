@@ -29503,7 +29503,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78e4badee43c5ee47b2c41a84f1c0351, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: Nivel 2 Bosque
+  levelToLoad: Abrir la salida
 --- !u!114 &1698913197
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32696,7 +32696,7 @@ SpriteRenderer:
   m_Size: {x: 5.5625, y: 8.40625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1858688891
