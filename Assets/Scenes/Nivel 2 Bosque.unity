@@ -53565,7 +53565,7 @@ MonoBehaviour:
   m_Priority: 10
   m_StandbyUpdate: 2
   m_LookAt: {fileID: 0}
-  m_Follow: {fileID: 1089522559}
+  m_Follow: {fileID: 1216528793}
   m_Lens:
     FieldOfView: 52.39
     OrthographicSize: 5
@@ -61232,30 +61232,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 1371804950}
-        m_TargetAssemblyTypeName: AnimatinoControllerTree, Assembly-CSharp
-        m_MethodName: ChangeAnimation
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 641782674}
-        m_TargetAssemblyTypeName: AnimatinoControllerTree, Assembly-CSharp
-        m_MethodName: ChangeAnimation
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 1371804947}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
@@ -62469,7 +62445,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1548359064}
-  m_RootOrder: 23
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &984094758
 GameObject:
@@ -68911,7 +68887,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1089522551
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -74611,6 +74587,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 641782674}
+        m_TargetAssemblyTypeName: AnimatinoControllerTree, Assembly-CSharp
+        m_MethodName: ChangeAnimation
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 1166295243}
         m_TargetAssemblyTypeName: AnimatinoControllerTree, Assembly-CSharp
         m_MethodName: ChangeAnimation
@@ -77835,6 +77823,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &1216528793 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8177249396706244325, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
+  m_PrefabInstance: {fileID: 1292508763}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1216804717
 GameObject:
   m_ObjectHideFlags: 0
@@ -81253,6 +81246,63 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1292508763
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1548359064}
+    m_Modifications:
+    - target: {fileID: 5900817770091644882, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
+      propertyPath: m_Name
+      value: PLAYER v2.0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8177249396706244325, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
+      propertyPath: m_RootOrder
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: 8177249396706244325, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -41.21
+      objectReference: {fileID: 0}
+    - target: {fileID: 8177249396706244325, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8177249396706244325, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 8.905144
+      objectReference: {fileID: 0}
+    - target: {fileID: 8177249396706244325, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8177249396706244325, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8177249396706244325, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8177249396706244325, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8177249396706244325, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8177249396706244325, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8177249396706244325, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 47d01488de79bb64899dcae5d4a60eaf, type: 3}
 --- !u!1 &1292683224
 GameObject:
   m_ObjectHideFlags: 0
@@ -85846,7 +85896,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1548359064}
-  m_RootOrder: 24
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1347872438
 MonoBehaviour:
@@ -99062,6 +99112,7 @@ Transform:
   - {fileID: 1401984976}
   - {fileID: 1345911731}
   - {fileID: 1089522559}
+  - {fileID: 1216528793}
   - {fileID: 1681912470}
   - {fileID: 1636036721}
   - {fileID: 983268544}
@@ -104348,7 +104399,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1548359064}
-  m_RootOrder: 22
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1638342244
 GameObject:
@@ -106812,7 +106863,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1548359064}
-  m_RootOrder: 21
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1681974325
 GameObject:
