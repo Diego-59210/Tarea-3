@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/NIVEL 1/Menu, Habitacion y Comedor.unity
     guid: 6a8c25732f0cb5d4594bb4b33a13839a
   - enabled: 1
-    path: "Assets/Scenes/NIVEL 1/Ba\xF1o/Level 1 - Ba\xF1o.unity"
+    path: "Assets/Scenes/NIVEL 1/Ba\xF1o/Nivel 1 - Ba\xF1o.unity"
     guid: 8392d45a9a26b2b478b07bf8958a8f37
   - enabled: 1
     path: Assets/Scenes/NIVEL 1/escena de muerte.unity
@@ -24,7 +24,7 @@ EditorBuildSettings:
     path: "Assets/Scenes/NIVEL 1/Hab ni\xF1o futura.unity"
     guid: dde88d14f0d693a4d9c53c9ab326d661
   - enabled: 1
-    path: "Assets/Scenes/NIVEL 1/Ba\xF1o/Comedor saliendo del ba\xF1o.unity"
+    path: "Assets/Scenes/NIVEL 1/Ba\xF1o/Comedor (Saliendo del ba\xF1o).unity"
     guid: 37fca798756780740af7c4f39b0abc5c
   - enabled: 1
     path: Assets/Scenes/NIVEL 1/Hab.de mama/Comedor sin llave.unity
