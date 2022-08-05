@@ -12,6 +12,12 @@ EditorBuildSettings:
     path: "Assets/Scenes/NIVEL 1/Ba\xF1o/Nivel 1 - Ba\xF1o.unity"
     guid: 8392d45a9a26b2b478b07bf8958a8f37
   - enabled: 1
+    path: "Assets/Scenes/NIVEL 1/Comedor (Saliendo del ba\xF1o).unity"
+    guid: 87c1c2e90295a364fad0088abe67638e
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 1/Comedor Segundo Intento.unity
+    guid: c50e32ed03d7a83498a2d5991662b6b7
+  - enabled: 1
     path: Assets/Scenes/NIVEL 1/escena de muerte.unity
     guid: c2fdfc99e184dfa40957e00588e6b62f
   - enabled: 1
@@ -24,9 +30,6 @@ EditorBuildSettings:
     path: "Assets/Scenes/NIVEL 1/Hab ni\xF1o futura.unity"
     guid: dde88d14f0d693a4d9c53c9ab326d661
   - enabled: 1
-    path: "Assets/Scenes/NIVEL 1/Ba\xF1o/Comedor (Saliendo del ba\xF1o).unity"
-    guid: 37fca798756780740af7c4f39b0abc5c
-  - enabled: 1
     path: Assets/Scenes/NIVEL 1/Hab.de mama/Comedor sin llave.unity
     guid: cc8986a5f1a55244a97f2fd6fa1b6c2d
   - enabled: 1
@@ -35,9 +38,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CINEMATICAS/Abrir la salida.unity
     guid: e38bf717dd785ad4bb2e7b130577df05
-  - enabled: 1
-    path: Assets/Scenes/NIVEL 1/Comedor Segundo Intento.unity
-    guid: c50e32ed03d7a83498a2d5991662b6b7
   - enabled: 1
     path: Assets/Scenes/Nivel 3.unity
     guid: f623087475a4e31448070b1ca59b57e1
