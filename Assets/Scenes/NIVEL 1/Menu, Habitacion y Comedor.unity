@@ -9818,6 +9818,11 @@ Transform:
   m_Father: {fileID: 727686227}
   m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &363500934 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1264144309246782641, guid: 0dd850454a45dcb48809e64edc7b0cd1, type: 3}
+  m_PrefabInstance: {fileID: 1571224004}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &364350230
 GameObject:
   m_ObjectHideFlags: 0
@@ -11972,7 +11977,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9005431464034914950, guid: f911ec86261072b4b9e605d2f8cb0ac3, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f911ec86261072b4b9e605d2f8cb0ac3, type: 3}
@@ -49789,7 +49794,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78e4badee43c5ee47b2c41a84f1c0351, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelToLoad: "Level 1 - Ba\xF1o"
+  levelToLoad: "Nivel 1 - Ba\xF1o"
 --- !u!114 &1702647157
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52408,7 +52413,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 363500934}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -52479,7 +52484,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 363500934}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
@@ -54569,7 +54574,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1823470237
 Transform:
   m_ObjectHideFlags: 0
