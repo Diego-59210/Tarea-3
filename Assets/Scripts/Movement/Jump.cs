@@ -22,8 +22,8 @@ public class Jump : Physics2DObject
 
 	private bool canJump = true;
 
-	public bool hasSecondJump = true;
-	private bool canSecondJump = true;
+	public bool hasSecondJump = false;
+	private bool canSecondJump = false;
 
 	// Read the input from the player
 	void Update()
@@ -47,7 +47,7 @@ public class Jump : Physics2DObject
 			&& collisionData.gameObject.CompareTag(groundTag))
 		{
 			canJump = true;
-			canSecondJump = true;
+			canSecondJump = false;
 		}
 	}
 }

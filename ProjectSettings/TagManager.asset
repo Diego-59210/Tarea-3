@@ -11,6 +11,9 @@ TagManager:
   - Rope
   - Confiner
   - Key
+  - Enemie 1
+  - Hojas
+  - Dania
   layers:
   - Default
   - TransparentFX

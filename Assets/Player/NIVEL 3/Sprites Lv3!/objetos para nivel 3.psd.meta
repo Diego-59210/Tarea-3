@@ -1,0 +1,1618 @@
+fileFormatVersion: 2
+guid: d91f3b18d4b1c7d46949d1951fe1deb7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: objetos para nivel 3_0
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 205
+        width: 482
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9339dcdaed0ec3c48ad709bbaa479e70
+      internalID: 1884479297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 757
+        width: 838
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a632850d1b6f12489b94cd3b97363aa
+      internalID: -741142318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_2
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 763
+        width: 743
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a19871764ebbe24181d262345c09855
+      internalID: -883135905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_3
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 184
+        width: 287
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce44c129eb8e4f46a8352d3f8350312
+      internalID: 127262104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_4
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 19
+        width: 1330
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba97d51b48661346984071240e50b41
+      internalID: -253498488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_5
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 474
+        width: 1301
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f286db19acd02ac4599f1cac64bd9684
+      internalID: 19863110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_6
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 790
+        width: 1859
+        height: 970
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd834000c7748bd4ea02644e295a4ea9
+      internalID: 296069428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_7
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1794
+        width: 1920
+        height: 1081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa9d89504ac05d45a9c9ebb89abca1f
+      internalID: 1796583845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_8
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1348
+        width: 1267
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9680d74d7a4d6054db5c8d5d655d30cb
+      internalID: -164881699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1898
+        width: 253
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ab40af4921da24eb6de0944e6b76c5
+      internalID: 385050292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_10
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1917
+        width: 566
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fb9f8f4794f5146875ebf7f299b0f9
+      internalID: 1821590428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_11
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1938
+        width: 161
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53920ddc121cf2649932cfb942411ea4
+      internalID: 1477821969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2418
+        width: 592
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d628d3f7f862f4f9691ea2ba4c0750
+      internalID: -388572224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_13
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2552
+        width: 586
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9b94e96a6ac074aaba8f4517175b26
+      internalID: 1950740964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_14
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2678
+        width: 390
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05f2ca813c41fb419779a99bfee3013
+      internalID: 1263994883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_15
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 2784
+        width: 261
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2c1b3f8c15b3d45b0853138eb85961
+      internalID: 1602798150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_16
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 2845
+        width: 149
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77901bbcb0cba542a2aec41b8990a95
+      internalID: -962663921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_17
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2909
+        width: 218
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48d815e7f5d5d746adaf4f553200af8
+      internalID: -446754961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_18
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2742
+        width: 238
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab62868582713b4798efdcb221801e0
+      internalID: 1824939961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_19
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2611
+        width: 239
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1ccbfc50226d744a78655d439c65f4
+      internalID: -1803489608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_20
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2436
+        width: 226
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5078c41c758641940a8d6ee0d2a5c0af
+      internalID: -1903742965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_21
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 2901
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0831c9d0dbbf7654593eac9887d16279
+      internalID: 880658660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_22
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 2899
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a2147f1e43b6544b8eaffe2ca980b8
+      internalID: -1485465890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_23
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 2887
+        width: 168
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c042398d92573bf47b6fefb882ab632f
+      internalID: 731157606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_24
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 2886
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eb22b92d9eccf41b25a3e132c61be1
+      internalID: 87832063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_25
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 2887
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bd904704ece434f8c034d84e7dcf06
+      internalID: 1459319968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_26
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 2880
+        width: 172
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c812ba8c29f00d446b3cbc755dcc3bd9
+      internalID: 1510046805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_27
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 3054
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b45bbefa226b24dbd6deae6f5527fc
+      internalID: -879636751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_28
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 3056
+        width: 74
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bdf41b9c942c54da72f519df2625c8
+      internalID: 1989401175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_29
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 3057
+        width: 76
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8920092840f1154ba9000c907a5fc8d
+      internalID: -759556700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_30
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 2913
+        width: 287
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa348082d52606a4da68a0917a11fbd4
+      internalID: -1647001560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_31
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 3194
+        width: 363
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc120da8242d2e4bb373fa706697eff
+      internalID: 1283889896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_32
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 3197
+        width: 446
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4d6ec172611e845b3ddedc20b15408
+      internalID: -1352221512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_33
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3545
+        width: 326
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71edace8de5f63244981d0a2ef698c77
+      internalID: 1206058668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_34
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 3807
+        width: 387
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b257a3ab16c984b860f909d0a60f0e
+      internalID: 1335555393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_35
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 3813
+        width: 450
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48369b14de77fe041b39a799aab44b16
+      internalID: -214086770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_36
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 3212
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21350c2fead6764e8e729c3740e55b4
+      internalID: 357750696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_37
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 3214
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3bffbb95c3d6f448af38c5e6e4d1d8
+      internalID: -902487158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_38
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 3212
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a59a461520e3f84a8bd7e4a79b36314
+      internalID: 1245037522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_39
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 3211
+        width: 84
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467f36e3ab4d5244aa98ec9be6599dc6
+      internalID: -1500966110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_40
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 3217
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c34ccfcb9cec94a8c378f3dd770a49
+      internalID: -894889147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_41
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 3221
+        width: 90
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c10af4cc3e898541a8f1e22f213e229
+      internalID: -1390743573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_42
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 3209
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bfbebf125feae4e8273fe05b2a1c46
+      internalID: 556852316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_43
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 3132
+        width: 186
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764b4bc80a648974ba1de56635414c6c
+      internalID: 53847735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_44
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 2970
+        width: 162
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bf3d784d64be143bfbd8b01467d787
+      internalID: -1515635391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_45
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 2935
+        width: 220
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6350771c11b5d034fafd1db26a2d16d6
+      internalID: 1776908282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_46
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 3117
+        width: 420
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da341f7e2d1d3d41a583c664d17d975
+      internalID: 1952724531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_47
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 3324
+        width: 37
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d8a960c8827cf46a18048560f94d46
+      internalID: -539002649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_48
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 3393
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a89dd963a91af4ebb24499a1d2589f
+      internalID: 13878256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_49
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 3315
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5375740e09fc774a844b6b8eb7807e6
+      internalID: 965197781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_50
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 3316
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db2e2475a55d3b4a8db2545baa6cea4
+      internalID: -1752208707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_51
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 3404
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada3f604212370b459aa3dfff58a945f
+      internalID: -1910340786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_52
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 3414
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7868dbd9ffad4834f8978e88533f1c59
+      internalID: 1098699434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_53
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 3322
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571f2e06fdb9cc7478d9151ceff6b5a3
+      internalID: 861773667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_54
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 3527
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e790a6c2c0e6774ca02ceb1c79e5161
+      internalID: 2015907126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_55
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 3515
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcbc4c1e9d03fd4f987cb4efd479f73
+      internalID: -1309613396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_56
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 3503
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf1ca034c41c474d8dc331868059f2f
+      internalID: -1949680190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_57
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 3488
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d89b541f98ed04e92f102ed0c572c2
+      internalID: -461378197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_58
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 3368
+        width: 43
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ab0872824ab7344bd54556982256d4
+      internalID: -2105970327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_59
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3443
+        width: 42
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cb384267d4dca488005acb5681769f
+      internalID: 448529784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_60
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 3497
+        width: 41
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2dd762b7ef9af4d8b85bf952f7206f
+      internalID: 349273559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_61
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3646
+        width: 43
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecb7d627775b7a498093c5d2ef232a8
+      internalID: 1068250000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_62
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 3721
+        width: 35
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b969cdcc9ac2644a1c9d98e58dce0b
+      internalID: 148463758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_63
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 3781
+        width: 38
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd9c1d477aaac1428274e5a8c76fb2b
+      internalID: 289717051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_64
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 3448
+        width: 441
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba6def413fbdb4384d18cc2eca6e21
+      internalID: 803874640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_65
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 3444
+        width: 358
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987c7bedd600bac48894086233ba557d
+      internalID: 410269379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_66
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 3438
+        width: 289
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec54ff23dc014ac4eb192ef72596e23f
+      internalID: -1424953953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objetos para nivel 3_67
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3344
+        width: 48
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8194e3532d27204289df28a1735f235
+      internalID: 1206074386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      objetos para nivel 3_46: 1952724531
+      objetos para nivel 3_66: -1424953953
+      objetos para nivel 3_0: 1884479297
+      objetos para nivel 3_20: -1903742965
+      objetos para nivel 3_63: 289717051
+      objetos para nivel 3_33: 1206058668
+      objetos para nivel 3_23: 731157606
+      objetos para nivel 3_52: 1098699434
+      objetos para nivel 3_60: 349273559
+      objetos para nivel 3_5: 19863110
+      objetos para nivel 3_8: -164881699
+      objetos para nivel 3_55: -1309613396
+      objetos para nivel 3_28: 1989401175
+      objetos para nivel 3_19: -1803489608
+      objetos para nivel 3_24: 87832063
+      objetos para nivel 3_38: 1245037522
+      objetos para nivel 3_22: -1485465890
+      objetos para nivel 3_10: 1821590428
+      objetos para nivel 3_42: 556852316
+      objetos para nivel 3_1: -741142318
+      objetos para nivel 3_26: 1510046805
+      objetos para nivel 3_44: -1515635391
+      objetos para nivel 3_13: 1950740964
+      objetos para nivel 3_48: 13878256
+      objetos para nivel 3_34: 1335555393
+      objetos para nivel 3_61: 1068250000
+      objetos para nivel 3_17: -446754961
+      objetos para nivel 3_7: 1796583845
+      objetos para nivel 3_9: 385050292
+      objetos para nivel 3_49: 965197781
+      objetos para nivel 3_15: 1602798150
+      objetos para nivel 3_36: 357750696
+      objetos para nivel 3_25: 1459319968
+      objetos para nivel 3_6: 296069428
+      objetos para nivel 3_56: -1949680190
+      objetos para nivel 3_29: -759556700
+      objetos para nivel 3_50: -1752208707
+      objetos para nivel 3_27: -879636751
+      objetos para nivel 3_32: -1352221512
+      objetos para nivel 3_62: 148463758
+      objetos para nivel 3_51: -1910340786
+      objetos para nivel 3_64: 803874640
+      objetos para nivel 3_53: 861773667
+      objetos para nivel 3_41: -1390743573
+      objetos para nivel 3_40: -894889147
+      objetos para nivel 3_37: -902487158
+      objetos para nivel 3_14: 1263994883
+      objetos para nivel 3_47: -539002649
+      objetos para nivel 3_30: -1647001560
+      objetos para nivel 3_59: 448529784
+      objetos para nivel 3_4: -253498488
+      objetos para nivel 3_16: -962663921
+      objetos para nivel 3_11: 1477821969
+      objetos para nivel 3_18: 1824939961
+      objetos para nivel 3_39: -1500966110
+      objetos para nivel 3_35: -214086770
+      objetos para nivel 3_65: 410269379
+      objetos para nivel 3_31: 1283889896
+      objetos para nivel 3_67: 1206074386
+      objetos para nivel 3_21: 880658660
+      objetos para nivel 3_58: -2105970327
+      objetos para nivel 3_57: -461378197
+      objetos para nivel 3_45: 1776908282
+      objetos para nivel 3_2: -883135905
+      objetos para nivel 3_3: 127262104
+      objetos para nivel 3_12: -388572224
+      objetos para nivel 3_54: 2015907126
+      objetos para nivel 3_43: 53847735
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
